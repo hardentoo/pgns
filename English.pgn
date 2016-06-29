@@ -1,0 +1,41 @@
+[Event "Chess Candidates"]
+[Site "Moscow"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Caruana, Fabiano"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[BlackElo "2762"]
+[ECO "A29"]
+[EventDate "2016.??.??"]
+[WhiteElo "2794"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 Nf6 4. Nf3 Bb4 ( 4... e4 5. Ng5 d5 6. cxd5 Nxd5 7.
+Ngxe4 f5 8. Ng5 Nxc3 ( 8... Qxg5 9. Nxd5 Qd8 )9. dxc3 Qxd1+ 10. Kxd1 )5. Bg2
+O-O 6. O-O { [%cal  Gd7d6,Gh7h6]}  ( 6. Nd5 e4 )6... e4 { [%cal        ]}  7.
+Ng5 { [%cal   Rg5e4,Rc3e4,Rg2e4]}  7... Bxc3 8. bxc3 Re8 9. f3 exf3 ( 9... e3
+10. d3 )10. Nxf3 { [%cal  Ge2e4,Gd2d4][%csl Gg2,Gc1]}  10... d5 ( 10... Qe7 11.
+e3 Ne5 { [%cal Gd7d6]}  12. Nh4 { [%csl Rc4]}  )11. d4 ( 11. cxd5 Qxd5 )11...
+dxc4 { [%cal  Gc1g5]}  ( 11... Ne4 12. Qc2 dxc4 13. Rb1 )12. Qc2 { [%cal
+Gc1g5]}  ( 12. Bg5 h6 13. Bxf6 Qxf6 14. Ne5 ( 14. e4 Rxe4 ( 14... Bg4 { [%csl
+Gc4]} ) 15. Nd2 { [%csl Re4,Rf6]}  )14... Qe6 )12... h6 ( 12... Qe7)13. Bf4 {
+[%cal  Ga1e1,Ge2e4][%csl Ge5]}  13... Ne4 ( 13... Nd5 14. e4 Nxf4 15. gxf4 {
+[%cal   Gd4d5,Ge4e5,Gf4f5]}  )( 13... Bg4)14. Rad1 { [%cal  Gd4d5,Gf3e5]} 
+14... Bf5 ( 14... Qe7 15. Ne5 Nxe5 16. Bxe5 Nd6 )15. Ne5 ( 15. Qb2 Bh7 ( 15...
+Ne7))15... Nd6 ( 15... Nxg3 16. e4 { [%csl Rf5,Rg3]}  16... Nxf1 17. exf5 Nxh2
+18. Bxh2 Nxe5 19. Bxe5 )16. e4 Bh7 17. Qe2 { [%cal    Ge5c4,Ge2h5,Rh7b1]} 
+17... Ne7 ( 17... Nxe5 18. dxe5 { [%csl Rd6]}  )18. Bxh6 gxh6 19. Qh5 { [%cal  
+ Gh5h6,Gf1f4,Gf4g4]}  19... Nef5 ( 19... Nd5 { [%cal  Gd8g5,Gd5f6]}  20. Nxf7 (
+20. exd5 Qg5 21. Qf3 { [%csl Rf7,Rh6,Rg8]}  )20... Nf6 { [%cal Gf6h5]}  21.
+Nxh6+ )( 19... Rf8 20. Qxh6 Nxe4 21. Bxe4 Bxe4 22. Rf4 Qd6 23. Rf6 Qa3 24. Re1
+)20. exf5 ( 20. Rf4 Ne3 { [%cal   Re3g4,Gf4g4]}  )20... Qg5 21. Qxg5+ ( 21. Qf3
+Bxf5 )21... hxg5 22. f6 { [%cal  Gh2h4][%csl Rg5,Rf7,Rg8,Ge5,Rc4]}  22... Ne4
+$6 ( 22... Rad8 23. Rde1 )23. Rfe1 ( 23. Bxe4 Bxe4 24. h4 gxh4 25. gxh4 { [%cal
+   Gf1f4,Gd1g1,Gg1h1]}  )23... Nxc3 ( 23... Nxf6 24. Bxb7 Rab8 25. Ba6 { [%cal 
+      Ga6c4,Gc4f7]}  )24. Rc1 { [%csl Rc3][%cal Rg2b7]}  24... Nb5 { [%cal
+Gb5d6]}  ( 24... Nxa2 25. Rxc4 { [%csl Rb7,Rc7]}  25... c6 26. d5 cxd5 27. Bxd5
+{ [%cal  Gc4c7,Gd5f7]}  )25. Bxb7 Rad8 ( 25... Rab8 26. Bc6 Red8 27. Bxb5 Rxb5
+28. Nc6 { [%cal   Gc6d8,Gc6d4,Ge1e7]}  28... Ra8 29. Rxc4 )26. Bc6 { [%cal 
+Gc6b5,Gc6e8]}  26... Nxd4 27. Bxe8 Rxe8 { [%cal    Re8e5,Rd4f3][%csl Re5,Rg1]} 
+28. Kf2 Nc2 29. Red1 Be4 ( 29... Rxe5 30. Rd8+ Re8 31. Rxe8# )30. Nxc4 Re6 31.
+Rd8+ Kh7 32. Kg1 { [%csl Ra7,Rc7,Rf7,Rg5]}   1-0
