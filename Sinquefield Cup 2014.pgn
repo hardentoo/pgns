@@ -1,0 +1,1233 @@
+[Event "Sinquefield Cup 2014"]
+[Site "St Louis, Mo"]
+[Date "2014.08.27"]
+[Round "1.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[Annotator "Finegold"]
+[BlackElo "2877"]
+[ECO "C45"]
+[EventDate "2014.??.??"]
+[PlyCount "75"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2768"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 { The Scotch! I would normally say that MVL gets the
+first surprise, but I don't either player was surprised this game!}  3... exd4
+4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 Nf6 7. Qe2 { Magnus played this way  ( 7.Qe2 ) 
+against Bacrot a few years ago and won. Black usually plays 7...0-0 here, but
+Magnus plays an extremely rare move.}  7... a5 { Diagram # This was played in
+the Ukranian Championship by Elijanov. White played 8.a4, preventing black from
+doing the same. MVL immediately plays the most testing move.}  8. e5 O-O $1 9.
+exf6 a4 10. Nd5 Re8 11. Be3 axb3 12. Qg4 g6 13. Bc4 { Diagram # Somehow, this
+must have been pre-game prep for both players, as they rushed to this position!
+I don't understand how MVL could have anazlyed 7...a5 so deeply, since this
+move is played less than 1% of the time! Instead, Magnus seemed surprised by
+the Stockfish recommended 13.Bc4, and went into the tank.}  13... Nb4 $1 {
+Played after 30 minutes of thought. This move, and 13...Bd4 are the engine
+recommended moves. Alejandro, at first, thought there was no way Magnus would
+play this  ( I heard this before last year, and Magnus usually played the
+"computer move" in these situations ) .}  14. Nxb4 { And MVL also thought about
+25 minutes on his response! Even though he clearly prepared this variation, he
+either did not know, or forgot this move. Now both player were clearly on their
+own.}  14... d5 { The point of Nb4... now the powerful white Nd5 is missing,
+and white has many pieces pinned and attacked.}  15. Qf4 dxc4 16. O-O bxc2 $1 {
+Black has a lot of tempting choices, but, as usual, Magnus finds the best move.
+This prevents white from playing either rook to d1.}  17. Nd5 ( { Perhaps a
+little bit better was } 17. Bxb6 cxb6 18. Nd5 $1 Re6 ( 18... Qxd5 $4 19. Qh6 )
+19. Qxc4 b5 $1 20. Qc5 Rd6 21. Ne7+ Kh8 22. Qxc2 Rxf6 23. Nxc8 $11 ) 17... Re6
+$1 18. Qxc4 Bxe3 19. fxe3 b5 $1 20. Qc5 Bb7 21. Ne7+ { MVL and Magnus are both
+playing fantastic moves. Now the game could end in a draw, but Magnus plays for
+the win!}  21... Kh8 ( 21... Rxe7 22. fxe7 Qd2 23. Rf2 Qd1+ 24. Rf1 Qd2 25. Rf2
+Qd1+ 26. Rf1 $11 ) 22. Qxc2 Raa6 23. Rac1 $6 { Probably MVL saw the final
+position when he played this move. But 23. Rad1 should be equal.}  23... Rxf6
+24. Rxf6 Rxf6 25. Qxc7 { Diagram #}  25... Qd2 $6 { Magnus played this with
+only a few minutes remaining. Instead, black has the edge in the pawn down
+ending  ( ! )  after 25...Qd3!}  ( { Better was } 25... Qd3 26. Qc3 Qxc3 27.
+Rxc3 Rd6 $1 { and black can play for a win}  ) 26. Qb8+ Kg7 27. Qg8+ Kh6 28.
+Qf8+ Kh5 29. Rc5+ g5 30. Rxg5+ $1 Kxg5 31. Qg7+ Rg6 32. Qe5+ f5 ( 32... Kh6 33.
+Nf5+ Kh5 34. Ng3+ Kh6 35. Nf5+ $11 ) 33. h4+ Kh5 ( 33... Kg4 34. Qxf5+ Kxh4 35.
+Qf4+ Kh5 36. Qf5+ Kh4 37. Qf4+ $11 ) 34. Qxf5+ Kh6 35. Qf8+ Kh5 36. Qf5+ Kh6
+37. Qf8+ Kh5 38. Qf5+  1/2-1/2
+
+[Event "Sinquefield Cup 2014"]
+[Site "St Louis, Mo"]
+[Date "2014.08.27"]
+[Round "1.2"]
+[White "Aronian, Levon"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[Annotator "Finegold"]
+[BlackElo "2787"]
+[ECO "D19"]
+[EventDate "2014.??.??"]
+[PlyCount "79"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2805"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 { A main line Slav.}  5. a4 Bf5 6. e3 (
+6. Ne5 { is also topical.} ) 6... e6 7. Bxc4 Bb4 8. O-O Nbd7 9. Qe2 O-O 10. e4
+Bg6 11. Bd3 Bh5 12. e5 Nd5 13. Nxd5 cxd5 14. Qe3 Re8 15. Bd2 { 15.Ng5 and 15.
+Ne1 are more common. However, Aronian knows 15.Bd2 well, since he faced it as
+black against Kramnik!}  15... Qa5 { Levon played 15...Be7 against Kramnik in
+2010 and drew. Hikaru has other ideas.}  16. Qe1 { Diagram # A novelty. White
+always played 16.Bxb4 before this game. Levon seems intent on trading queens
+throughout the game, but Hikaru was not interested.}  16... Bxd2 17. Qxd2 Qd8
+18. Ng5 Bg6 19. Bxg6 fxg6 { Diagram # This may look odd, but it is quite
+typical in Slav positions to capture this way, so as to avoid mating attacks
+down the "h" file.}  20. f4 Rc8 21. Rac1 Qb6 { As Alejandro pointed out in the
+Live commentary, the black Queen is perfectly placed on b6. It puts pressure on
+d4 and b2 and defends the e6 pawn.}  22. a5 Qa6 23. Qb4 h6 24. Nf3 b6 { This
+surprised me during the game, but it seems quite good.}  25. Qd6 Nf8 26. axb6
+axb6 27. Qb4 Qd3 { It is difficult for either side to win, or even to try to
+win any material. A draw is likely.}  28. Qd2 Qb3 { Once again, Hikaru wants
+the queens on the board.}  29. Rfe1 Rxc1 30. Rxc1 Ra8 { Hikaru offers a draw,
+which was declined.}  31. h4 Ra2 32. Rc2 Ra1+ 33. Kh2 Rb1 34. Kg3 Kh7 35. Rc8
+$6 { Now the game will end in a repetition. The last chance to try to keep
+playing was 35.Qc3.}  35... Rxb2 36. Qc1 Qa2 37. Qh1 ( 37. Rxf8 $4 Rxg2+ 38.
+Kh3 Qf2 { and black wins.}  ) 37... Qa3 ( 37... Nd7 $4 38. Ng5+ hxg5 39. hxg5#
+) 38. Qc1 Qa2 39. Qh1 Qa3 40. Qc1  1/2-1/2
+
+[Event "Sinquefield Cup 2014"]
+[Site "St Louis, Mo"]
+[Date "2014.08.27"]
+[Round "1.3"]
+[White "Topalov, Veselin"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[Annotator "Finegold"]
+[BlackElo "2801"]
+[ECO "A35"]
+[EventDate "2014.??.??"]
+[PlyCount "68"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2772"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc7 7. O-O e5 {
+Fabiano was pleased with the opening, saying he was playing white in a Maroczy
+with a tempo down.}  8. a3 Rb8 9. d3 Be7 10. Be3 O-O 11. Rc1 Bd7 12. Nd2 {
+White has given up on b4 ideas, and switches to f4 ideas instead!}  12... Nd4
+13. Nc4 f6 14. f4 exf4 15. Bxf4 Nde6 16. Bd2 b6 { The whole game has been slow
+positional maneuvering, where neither side can really claim any edge. The next
+move shocked Alejandro and me!}  17. g4 $5 { Diagram #}  17... Be8 18. Be1 {
+Ah, the point of 17.g4!? Topalov wants to play Bg3 and control dark squares.
+Fabiano nicely thwarts his opponent's plans.}  18... b5 $1 { In the commentary
+afterwards, Fabiano said he was worried a bit about the c5 pawn, but thought it
+would be okay.}  19. Ne3 Bd6 { Diagram # Black drives away the Nc4 so he can
+play Bd6-e5. An idea which works excellently!}  20. Ncd5 $2 { The next few
+moves shows that Veselin has lost the thread of the game. By trading pieces and
+giving black Be5, his g4 move is simply weakening. Now black seizes the
+initiative!}  20... Nxd5 21. Bxd5 Bf7 22. Nf5 Be5 23. Qd2 $2 { Fabiano thought
+this was the losing move. Now black gets to hop his knight to a great square,
+and with tempo!}  23... Nd4 $1 24. Bxf7+ Rxf7 { With Nb3 in the air, and
+25.Nxd4 unplayable, due to 25...Qxd4+ forking, white is in big trouble.}  25.
+Rd1 Nxf5 26. gxf5 Qd4+ 27. Bf2 Qg4+ 28. Kh1 c4 $1 29. Qc2 Re8 $1 { Diagram #
+Fabiano finishes with computer-like precision. White is defenseless on both
+sides of the board, and the center!}  30. dxc4 $2 Qh5 31. h4 ( { The natural }
+31. Bg1 { loses to}  31... Bxh2 32. Bxh2 Rxe2 { and here Fabiano pointed out
+that if he had played his other rook to the "e" file with 29...Re7, then white
+would play 33.Qxe2 and 33.Bxb8 here!}  ) 31... Qg4 32. Qd3 bxc4 33. Qe3 Rfe7
+34. b3 Bb2  0-1
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.08.28"]
+[Round "2"]
+[White "Nakamura, Hi"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2877"]
+[ECO "C76"]
+[EventDate "2014.08.27"]
+[PlyCount "64"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2787"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 { Not the usual choice for Carlsen. The 3...g6
+variations are much sharper than the normal Breyer or Berlin type of Spanish
+positions. Interestingly, Nakamura used this recently against Anand with
+black.}  4. O-O Bg7 5. c3 a6 6. Ba4 ( 6. Bxc6 dxc6 7. d4 exd4 8. cxd4 Ne7 9. h3
+O-O 10. Nc3 h6 $11 { Anand-Nakamura, 2013}  ) 6... d6 7. d4 Bd7 8. d5 { Closing
+the position is one of two approaches the situation; by closing the position
+White gains space, but Black will be able to push f5 quickly.}  ( 8. Re1 { is a
+completely different approach to the position.} ) 8... Nce7 9. Bxd7+ ( 9. c4 {
+is, in my humble opinion, a more accurate move order. It also scores better.} )
+9... Qxd7 10. c4 h6 ( 10... f5 $6 11. Ng5 { emphasizes the weakness of e6.}  )
+11. Nc3 f5 12. Nd2 Nf6 13. f3 O-O 14. b4 c6 ( 14... g5 $5 { Was an old game
+between Sax-Smyslov... such legends!} ) 15. dxc6 { It's hard to understand the
+desire to simplify the tension so quickly. Black obtains quick activity and
+access to the d4 square. However maybe there was no satisfactory alternative.} 
+( 15. Bb2 b5 { starts becoming dangerous for White.}  ) 15... Nxc6 16. a3 Nd4
+17. Bb2 Rac8 { Black has good pressure, but White is banking on his superior
+pawn structure to win in the long run.}  18. Ne2 Nh5 $5 { This involves a pawn
+sacrifice!}  ( 18... Ne6 { is more sedate, and about equal:}  19. exf5 gxf5 20.
+Qb3 $13 ) 19. Nxd4 exd4 20. exf5 { Tha pawn cannot be taken, but that is still
+ok.}  20... Nf4 $1 { Diagram [#]}  ( 20... gxf5 $6 21. Nb3 Rxc4 22. Qd2 $1 {
+White will regain the d4 pawn and his structure is much superior.}  ) ( 20...
+Qxf5 21. g4 Qg5 22. Ne4 Qe3+ 23. Kh1 d3 24. Bxg7 Nxg7 25. Nxd6 $16 ) 21. f6 $1
+{ A good practical decision.}  ( 21. fxg6 Rf6 $1 { Gives black more than enough
+compensation. Practically it is difficult to defend this position.}  ) 21...
+Bxf6 22. g3 Nh3+ 23. Kg2 $6 ( 23. Kh1 { was safer, there is no reason to tempt
+Qh3+.}  23... Ng5 24. Nb3 Rxc4 25. Qd3 Qf7 26. Bxd4 { was maybe a little better
+for White.}  ) 23... Ng5 24. Qb1 Kh7 25. Qd3 { White retains the better pawn
+structure; Black has to act quickly before his initiative evaporates.}  25...
+Be5 $1 { Putting pressure on the kingside is mandatory.}  26. Rae1 { Accepting
+the draw.}  ( 26. f4 Qh3+ 27. Kh1 Rxf4 28. Rxf4 Bxf4 29. Re1 { gives Black some
+problems.}  ) 26... Bxg3 27. hxg3 Qh3+ { There is nothing better than perpetual
+for both sides.}  28. Kg1 Qxg3+ 29. Kh1 Qh4+ 30. Kg2 Qh3+ 31. Kg1 Qg3+ 32. Kh1
+Qh3+ ( 32... Rf4 $2 33. Re7+ Nf7 34. Rxf7+ Rxf7 35. Ne4 { allows White to
+consolidate and have the better position.}  )  1/2-1/2
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.08.28"]
+[Round "2"]
+[White "Caruana, F."]
+[Black "Vachier Lagrave, M."]
+[Result "1-0"]
+[BlackElo "2768"]
+[ECO "B12"]
+[EventDate "2014.08.27"]
+[PlyCount "59"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2801"]
+
+1. e4 c6 $5 { MVL comes with different ideas to the Sinquefield; however he runs
+into an unpleasant surprise. His main defense is definitely the Najdorf
+Sicilian.}  2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8. O-O
+Qxb2 9. Qe1 cxd4 10. Bxd4 Nxd4 11. Nxd4 Bb4 12. Ndb5 { A very sharp but
+theoretical line that has been seen before.}  12... Ba5 13. Rb1 Qxc2 14. Rc1 {
+A novelty, but one that can be expected.}  14... Qb2 15. g4 $5 { Diagram [#]
+This however, cannot! An idea of Caruana's second and coach, Vladimir
+Chuchelov. Computers unanimously hate it at the beginning, but it is not a bad
+idea at all - more than that it is incredibly sharp and annoying to face over
+the board. The preparation was done a few months ago to face Mamedyarov, and
+MVL was unlucky enough to be the one that triggered it.}  15... Bg6 ( 15... Be4
+16. Qd1 $1 { is dangerous.}  ) 16. f4 Be4 ( 16... Ne7 17. f5 exf5 18. Nd6+ Kf8
+19. gxf5 Nxf5 20. Nxf5 Rc8 { is a strange piece sacrifice. Black obtains
+definite compensation and it is hard to hold White's position together without
+losing something. Practical tests will have to determine how good this
+variation is.}  ) 17. Rf2 { The only move, but good enough. White has a myriad
+of threats.}  17... Nh6 $2 { A bad move, and enough to lose.}  ( 17... Ne7 18.
+Nc7+ Kd8 ( 18... Bxc7 19. Bb5+ $18 { the queen on b2 isn't happy about this
+line.}  ) 19. Nxa8 $18 ) ( 17... Kf8 $1 18. Bd3 Qb4 19. Rb1 Qc5 20. Nxe4 dxe4
+21. Qxa5 exd3 { we will see why this line is not possible in the other
+variation. Here the game is still very complex, but White must have at least
+enough compensation.}  ) 18. Bd3 ( 18. Nc7+ $2 { no longer has the same
+effect.}  18... Ke7 19. Nxa8 Rxa8 $17 ) 18... Qb4 ( 18... Bb6 19. Nxe4 dxe4 20.
+Rc2 $1 { Is a nasty trap. The queen is done for, and this was a tactic that
+Caruana was familiar with before the game started, even if it wasn't against
+Nh6 specifically.}  20... Qxc2 21. Nd6+ Kf8 22. Bxc2 Nxg4 23. Nxe4 $18 ) 19.
+Rb1 Qc5 20. Nxe4 dxe4 21. Qxa5 { Unlike the other variation we saw before,
+Black has no time to take on d3 as Nd6+ is a threat, taking the queen on c5.} 
+21... O-O ( 21... exd3 22. Nd6+ $18 ) 22. Be2 e3 23. Rff1 { White is up a piece
+and his position is even better than Black's. The rest is easy and requires no
+comments, MVL is just flailing.}  23... Rfc8 24. Qe1 Qd5 25. Rb2 f6 26. Qg3
+fxe5 27. fxe5 Rf8 28. Rxf8+ Rxf8 29. Qxe3 Nf7 30. Nc3 { A wonderful preparation
+from Caruana!}   1-0
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.08.28"]
+[Round "2"]
+[White "Aronian, L."]
+[Black "Topalov, V."]
+[Result "1-0"]
+[BlackElo "2772"]
+[ECO "D15"]
+[EventDate "2014.08.27"]
+[PlyCount "57"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2805"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 { The Chebanenko Slav has a reputation of
+being a solid and dependable defense against 1.d4.}  5. e3 b5 6. c5 g6 7. Bd2 {
+A new approach, but one that makes sense. White tries to develop the queenside
+and pressure with the pawns before finishing development on the kingside.} 
+7... Bg7 8. b4 a5 $5 { Topalov adds his own dynamic twist to the opening. Black
+plays aggressively, vying for the advantage himself.}  ( 8... Bg4 9. h3 Bxf3
+10. gxf3 Nbd7 11. f4 { is an old game that Aronian lost against Bu Xiangzhi in
+2004; the Armenian player has improved quite a bit since then, though!}  ) 9.
+bxa5 Ne4 10. Nxe4 dxe4 11. Ng5 { It is unclear if Aronian saw the exchange
+sacrifice from here.}  ( 11. Ne5 Bxe5 12. dxe5 Na6 { is unclear.}  ) 11... Qd5
+12. f4 ( 12. h4 e5 { cannot be to anyone's liking.}  ) 12... h6 13. Nh3 Bxh3
+14. gxh3 Bxd4 { This is the point of Black's play.}  15. exd4 e3 16. Bxe3 {
+Virtually forced, but White took his sweet time thinking about going into this
+line.}  ( 16. Rg1 Qxd4 { is completely lost for White as the bishop on d2 is
+trapped.}  ) 16... Qxh1 17. Qd2 { White is down an exchange, but he has a few
+things to show for it. For one the pair of bishops is quite strong, for another
+Black's king will not easily find a haven. That being said, White's pawn
+structure is so bad that if Topalov can reach any endgame it must be nearly
+winning for him. The issue is if he can reach it.}  17... Na6 18. O-O-O Qd5 19.
+Bg2 Qc4+ 20. Kb1 Qe6 $2 { Aronian remarked that Topalov is a very passionate
+player, a passion that fuels his attacks. However in the defensive side it
+seems that Topalov is not so strong. A half-joke in the commentary room was
+that Topalov was amazing down the exchange for compensation, but vice versa was
+not so good.}  ( 20... Qb4+ 21. Ka1 Kd7 $1 { Is still anyone's game.}  ) 21. d5
+{ Simple. The pawn crashes through and Black has trouble resisting the
+advances.}  21... Qf5+ 22. Kb2 O-O-O $2 { A move only Topalov can play.}  (
+22... O-O 23. dxc6 Nc7 { and it is not so easy to make progress for White;
+mainly due to his terrible pawn structure and his somewhat exposed king.}  )
+23. d6 exd6 $2 { Black is basically lost after this move, but already the
+situation was not easy.}  24. cxd6 Qf6+ 25. Kb1 Qf5+ 26. Kc1 Qf6 27. d7+ $1 {
+Of course. Now Bd4 will be playable and devastating.}  27... Kb7 28. Bd4 Qe6
+29. Bxh8 { It's hard to say exactly how Topalov went down in flames so quickly,
+but he will definitely need to step up his game to catch up in the tournament.}
+ ( 29. Bxh8 Rxh8 30. d8=Q Rxd8 31. Qxd8 Qc4+ 32. Kd2 Qxf4+ 33. Ke2 { and Black
+runs out of checks sooner rather than later.}  )  1-0
+
+[Event "2nd Sinquefield Cup"]
+[Site "?"]
+[Date "2014.08.29"]
+[Round "3"]
+[White "Carlsen, Magnus"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[Annotator "GM Varuzhan Akobian"]
+[ECO "C24"]
+[EventDate "2014.??.??"]
+[PlyCount "68"]
+[SourceDate "2014.01.04"]
+
+1. e4 e5 { This game was played excellently by Caruana from start to finish and
+he managed to find the best moves at very important times in the game.}  2. Bc4
+Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bb4+ 6. c3 Bd6 7. Bg5 dxe4 8. dxe4 { [%cal
+Gb3f7]}  8... h6 9. Bh4 Qe7 { [%csl Gb3][%cal Gc8e6]}  10. Nbd2 Nbd7 11. Bg3
+Bc7 { [%csl Ge1] [%cal Gd1e2,Ge1c1]}  12. O-O ( 12. Nh4 Nc5 13. Bc4 ( 13. Bc2
+g6 14. O-O Nh5 ) ) 12... Nh5 13. h3 ( 13. Nh4 Ndf6 14. Nf5 Bxf5 15. exf5 Nxg3
+16. hxg3 O-O-O 17. Qe2 h5 { and black has a strong attack}  ) ( 13. Nxe5 $4
+Nxe5 14. Qxh5 Bg4 15. Qh4 g5 $1 { Diagram [#]}  ) 13... Nxg3 14. fxg3 Nc5 {
+[%csl Gf7][%cal Gc5b3,Gb3f7]}  15. Bxf7+ $5 { This move probably came as a
+surprise for Caruana}  ( 15. Nh4 Nxb3 16. axb3 g6 17. Qf3 Be6 18. Kh2 O-O { and
+black is clearly better}  ) 15... Kxf7 ( 15... Qxf7 $4 16. Nxe5 Qe6 17. Qh5+
+Ke7 18. Ng6+ { and white is winning}  ) 16. Nxe5+ Kg8 17. Ng6 Qg5 $1 { Diagram
+[#]}  ( 17... Qe8 18. Rf8+ Qxf8 19. Nxf8 Kxf8 20. Qh5 $1 { and white has the
+initiative}  ) 18. Rf8+ Kh7 19. Nxh8 ( 19. Rxh8+ Kxg6 { [%csl Ga1,Gd1][%cal
+Gg5g3,Gg5e3]}  20. Nf1 Bg4 $1 21. hxg4 Rxh8 { and black is up a piece.}  )
+19... Bg4 ( { Stronger is } 19... Qe3+ $1 20. Kh1 Bg4 21. Qxg4 Rxf8 { [%csl
+Gd2,Gh8]}  22. Ng6 Rf7 $1 23. Nf1 Qg5 $1 24. Nh4 Qxg4 25. hxg4 Nxe4 { with a
+much better endgame for black}  ) ( { If } 19... Bxh3 20. Rxa8 Qe3+ 21. Kf1
+Bxg2+ 22. Kxg2 Qxg3+ 23. Kf1 Qh3+ 24. Ke2 Qd3+ 25. Kf2 Qg3+ 26. Ke2 Qd3+ {
+leads only to a draw}  ) 20. Qf1 Nd3 $5 ( 20... Rxf8 21. Qxf8 Be6 22. Nf1 Qf6
+23. Qxf6 gxf6 24. g4 Kxh8 { slightly better for black}  ) 21. Qxd3 ( 21. Rxa8
+Qe3+ 22. Kh1 Nf2+ 23. Qxf2 Qxf2 24. hxg4 Qxd2 { black is winning}  ) ( 21. Rf7
+Qe3+ 22. Kh1 Qxg3 23. Rxc7 Nf2+ 24. Kg1 Nxh3+ 25. Kh1 Qxc7 26. gxh3 Be6 27. Qg2
+Kxh8 { black has a nice edge}  ) 21... Rxf8 22. hxg4 Qxg4 23. Nf3 Qxg3 { [%cal
+Gc7b6,Gf8f4, Gf4h4]}  24. e5+ $6 ( { Better is to play } 24. Nf7 Rxf7 25. e5+
+g6 26. Rf1 $15 ) 24... Kxh8 25. e6 Bb6+ 26. Kh1 Qg4 $1 27. Qd6 ( 27. Re1 $4
+Rxf3 $1 28. Qxf3 ( 28. gxf3 Qh3# ) 28... Qh4+ 29. Qh3 Qxe1+ $19 ) 27... Rd8 $1
+{ Diagram [#] after spending some time Caruana finds the best continuation at
+the critical moment}  ( 27... Rxf3 28. gxf3 Qxf3+ 29. Kh2 Be3 30. Qd8+ Kh7 31.
+Qd3+ { only leads to a draw}  ) 28. Qe5 ( 28. e7 Rxd6 29. e8=Q+ Kh7 $19 { [%cal
+Gd6d5,Gd5h5]}  ) 28... Rd5 $1 29. Qb8+ Kh7 30. e7 Qh5+ 31. Nh2 $4 { Blunder in
+a very difficult position}  ( 31. Qh2 Qe8 $1 { [%csl Gh5][%cal
+Ge8e7,Gd5h5,Gh5h2]}  32. g4 Rd7 33. Re1 Rxe7 34. Rxe7 Qxe7 35. Qc2+ g6 36. Kg2
+Qe6 $19 { black is winning the second pawn}  ) 31... Rd1+ ( { Carlsen was
+probably expecting } 31... Re5 32. g4 Re1+ 33. Rxe1 Qd5+ 34. Nf3 Qxf3+ 35. Kh2
+Qf2+ 36. Kh3 Qxe1 37. e8=Q Qf1+ 38. Kg3 Qf2+ 39. Kh3 Qf1+ { with a draw}  ) 32.
+Rxd1 Qxd1+ 33. Nf1 Qxf1+ 34. Kh2 { [%cal Gf1g1]}  34... Qg1+ ( 34... Qg1+ 35.
+Kh3 Qe3+ 36. g3 Qxe7 $19 )  0-1
+
+[Event "2nd Sinquefield Cup"]
+[Site "?"]
+[Date "2014.08.29"]
+[Round "3"]
+[White "Topalov, Veselin"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[Annotator "GM Varuzhan Akobian"]
+[ECO "C78"]
+[EventDate "2014.??.??"]
+[PlyCount "73"]
+[SourceDate "2014.01.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. a4 {
+This move in not as come as}  ( 8. d4 Bb6 9. h3 Bb7 10. Re1 { with a playable
+position for both sides}  ) 8... Rb8 9. h3 O-O 10. d4 Bb6 11. Re1 Bb7 12. axb5
+axb5 13. Na3 exd4 14. cxd4 Na5 { GM Nakamura was playing very fast and
+confidently and it seems like he was familiar with this line very well}  15.
+Bc2 b4 16. Nb1 ( 16. Nb5 Qd7 $1 17. Bd3 Nxe4 $1 { and the whites light squared
+bishop is overloaded by protecting the knight on b5 and the pawn on e4}  )
+16... Re8 17. Nbd2 b3 18. Bb1 ( { Also possible } 18. Bd3 c5 19. Bb5 Re7 20. e5
+dxe5 21. dxe5 Nd7 { with unclear position}  ) 18... Qd7 { [%csl Gb3][%cal
+Ge4e5,Gb1h7,Gh7b1]}  19. e5 $6 { Risky move since white pieces are not well
+developed to open the position better is}  ( 19. Ra3 h6 20. Bd3 { with equal
+chances}  ) 19... dxe5 20. dxe5 Nh5 $1 $15 { [%cal Gb6f2,Gb7g2] now both black
+bishops are extremely active}  21. Ng5 $2 { this is a blunder probably GM
+Topalov missed blacks strong tactical replay.}  ( { If } 21. Ne4 Qxd1 22. Rxd1
+Nc4 23. Nc3 Nxe5 24. Nxe5 Rxe5 { black is up a pawn with slighty better
+position}  ) ( { Bishop sarifice doesnt work here } 21. Bxh7+ Kxh7 22. Ng5+ Kh6
+$1 23. e6 Bxf2+ 24. Kxf2 Qd4+ 25. Re3 Nc4 26. Nxf7+ Kg6 { and white is in
+trouble}  ) 21... g6 $2 { Black missed a strong idea here to get a big
+advantage}  ( 21... Bxf2+ $1 { Diagram [#]}  22. Kxf2 Qd4+ 23. Re3 ( 23. Kf1
+Ng3# ) 23... Rxe5 { [%csl Gd1][%cal Ge5e3,Gd4e3,Ge5g5, Gd2f3,Gd4d1,Gd1a1]}  24.
+Be4 Rxg5 25. Bxb7 Nxb7 26. Qxb3 Qd8 27. Nf3 Rd5 28. Re8+ Qxe8 29. Qxd5 Nf6 30.
+Qc4 Nc5 $1 { and black is up a pawn with great winning chances.}  ) 22. e6 $1 {
+strong practical move to weaken black kingside}  22... fxe6 23. Qg4 Nf6 24. Qh4
+Rf8 25. Ndf3 Bd5 26. Ne5 Qg7 27. Bd2 { [%cal Ge1e2, Gd2c3] very risky move}  (
+27. Be3 Nb7 28. Bxb6 cxb6 29. Ra7 { with about equal chances}  ) 27... Nc6 ( {
+Hikaru spent lots of time here but unfortunatley didn't find the strong } 27...
+Nh5 $1 28. Ngf3 Bxf3 29. gxf3 Nc6 $1 { Diagram [#]}  30. Nxc6 Qxb2 31. Nxb8
+Qxd2 32. Bxg6 hxg6 33. Rad1 Bxf2+ 34. Qxf2 Qg5+ 35. Qg2 Qxg2+ 36. Kxg2 Rxb8 {
+Black has winning chances}  ) 28. Nxc6 Bxc6 ( { Still black needed to find the
+strong } 28... Nh5 $1 29. Bc3 Bxf2+ 30. Qxf2 Rxf2 31. Ne4 Bxe4 32. Bxe4 Qf8 33.
+Nxb8 Qc5 34. Kh2 Qd6+ 35. Kg1 Qc5 $11 ) 29. Bc3 $1 { [%cal Gc3g7] Strong move
+pinning the knight on f6}  29... e5 ( 29... Bd5 30. Nxe6 Bxe6 31. Rxe6 ) 30.
+Rxe5 $1 { Topalov is playing very strong the final part of the game.}  30...
+Nd5 31. Qc4 $1 $18 { now white is winning}  31... Bxf2+ ( 31... Rxf2 32. Kh1 $1
+{ and white will be losing lots of material since his pieces are hanging}  )
+32. Kh1 ( 32. Kh2 Rf4 33. Qxc6 Nxc3 34. Qxc3 Bd4 35. Qc4+ Kh8 ) 32... Rb4 (
+32... Bg3 33. Rxd5 ) 33. Bxb4 ( 33. Qxc6 Nxc3 34. Re8 Rb8 35. Qe6+ Kh8 36. Re7
+{ is stronger than the move in the game}  ) 33... Qxe5 34. Be4 Rf6 ( 34... Rd8
+35. Qxc6 Nxb4 36. Qc4+ Nd5 37. Ra8 $1 { Diagram [#]}  37... Rxa8 38. Qxd5+ Qxd5
+39. Bxd5+ Kg7 40. Bxa8 { white is winning}  ) 35. Rd1 Kg7 ( 35... Qxg5 36.
+Bxd5+ Bxd5 37. Rxd5 $18 ) 36. Bxd5 Bxd5 37. Qxd5 { Very complicated game with
+mutual mistakes but Toplaov must feel relieved to win this game after the first
+two losses.}   1-0
+
+[Event "2nd Sinquefield Cup"]
+[Site "?"]
+[Date "2014.08.29"]
+[Round "3"]
+[White "Vachier Lagrave, Maxime"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[Annotator "GM Varuzhan Akobian"]
+[ECO "A07"]
+[EventDate "2014.??.??"]
+[PlyCount "71"]
+[SourceDate "2014.01.04"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 c6 5. O-O Nf6 6. Nbd2 O-O 7. c4 Be6 $6 {
+Dubious move I believe better is}  ( 7... Bf5 8. b3 Ne4 9. Bb2 Nd7 { with a
+solid position for black}  ) 8. b3 Ne4 9. Bb2 Nxd2 ( 9... f5 10. e3 Nd7 11.
+Nxe4 dxe4 12. Ng5 Bf7 13. Ba3 $14 ) 10. Qxd2 $1 { [%csl Gg7][%cal
+Ga1c1,Gf1d1,Gc6c5] white is not afraid of losing the pawn}  10... dxc4 $6 (
+10... Bf5 11. Rac1 Nd7 12. Nh4 Be6 { white is slightly better but black is
+still solid with no weaknesses}  ) 11. Ng5 $1 { Diagram [#]}  11... cxb3 ( { If
+} 11... Bh6 12. Nxe6 Bxd2 13. Nxd8 c3 14. Nxb7 cxb2 15. Rab1 Bc3 16. Rfd1 {
+white is slightly better}  ) ( 11... Bd5 12. e4 $1 h6 13. exd5 hxg5 14. bxc4
+cxd5 15. cxd5 { with a big advantage for white}  ) ( 11... Qd7 12. Nxe6 Qxe6
+13. bxc4 ( 13. d5 c3 $1 ) 13... Qxc4 14. d5 Bxb2 15. Qxb2 Qa6 16. Rab1 { white
+has very strong initiative}  ) 12. Nxe6 fxe6 13. Qe3 $1 { Diagram [#]}  13...
+bxa2 14. Qxe6+ Kh8 15. Qxa2 Rf5 $6 ( { better is } 15... Nd7 { [%csl Gb7][%cal
+Gf1b1,Ge2e3,Gb2a3]}  16. d5 c5 17. Bxg7+ Kxg7 18. Qb2+ Rf6 19. Rfb1 $14 ( 19.
+Qxb7 $4 Rb6 { and suddenly white queen is trapped}  ) ) 16. Rfb1 Qb6 $2 { after
+this risky move blacks position is lost}  ( 16... Na6 17. d5 cxd5 18. Bxg7+
+Kxg7 19. Rxb7 { big advantage for white}  ) 17. e4 $1 Rf8 ( 17... Rb5 18. Bf1
+Rb4 ( 18... Rxb2 19. Rxb2 Qxd4 20. Rd2 ) 19. Bc3 Rxb1 20. Rxb1 Qc7 21. Qb2 b6
+22. d5 Bxc3 23. Qxc3+ Kg8 24. Bc4 { [%csl Ga8,Gb8][%cal Gd5d6] white has
+winning attack}  ) 18. Bc3 Qc7 19. Qb2 $1 { [%cal Gd4d5] now white is ready to
+play d5! and win the game}  19... b6 20. d5 Bxc3 21. Qxc3+ Kg8 22. e5 a5 (
+22... Nd7 23. d6 exd6 24. Bd5+ $1 { Diagram [#]}  24... Rf7 25. e6 Rf5 26. Qxc6
+{ white wins}  ) 23. dxc6 { [%csl Ga8,Gb8][%cal Gc3b3,Gb3b6]}  23... Na6 24.
+Qb3+ Kh8 25. Qxb6 Qxb6 26. Rxb6 Nc7 27. Rb7 Rfc8 28. Ra4 { [%cal Gf2f4,Gg1b6]} 
+28... Ra6 ( 28... Kg8 29. f4 Kf8 30. Kf2 ) 29. h4 Kg8 30. Rd4 $1 { Final
+touch.}  30... a4 31. Rd7 a3 32. Rdxc7 Rxc7 33. Rxc7 a2 34. Bd5+ $1 Kf8 35.
+Rc8+ Kg7 { [%cal Gc8g8]}  36. Rg8+ ( 36. Rg8+ Kh6 37. Bxa2 Rxa2 38. c7 $18 {
+Very nice win for Vachire Lagrave who immediately bounced back after a loss in
+Round 2.}  )  1-0
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.08.30"]
+[Round "4.1"]
+[White "Caruana, Fabiano"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[BlackElo "2805"]
+[ECO "C84"]
+[EventDate "2014.08.27"]
+[PlyCount "99"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2801"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 O-O 8. Nc3
+d6 9. a3 Na5 10. Ba2 Be6 11. Bxe6 fxe6 12. b4 Nc6 13. Bd2 d5 14. Re1 Qd6 15.
+Na2 Nd7 16. Qe2 d4 17. Reb1 Nb6 18. Nc1 Na4 19. Nb3 Rf7 20. Rc1 Rd8 21. Ng5 Rf6
+22. Qh5 h6 23. Nf3 Rdf8 24. Rf1 R8f7 25. Rae1 Bf8 26. h3 g6 27. Qh4 Qe7 28. Qg3
+Bg7 29. Na5 Nxa5 30. Nxe5 Nb7 31. Nxg6 Qd8 32. e5 Rf5 33. f4 c5 34. Nh4 Rh5 35.
+Nf3 Kh7 36. Qg4 Rhf5 37. Nh4 Kh8 38. Nxf5 Rxf5 39. Qg6 Qe7 40. g4 Rf8 41. f5
+Qe8 42. Qxe8 Rxe8 43. f6 Bf8 44. f7 Re7 45. Rf6 Nb6 46. Bxh6 Nd7 47. Ref1 cxb4
+48. axb4 Bxh6 49. Rxh6+ Kg7 50. Rh5  1-0
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.08.30"]
+[Round "4.2"]
+[White "Carlsen, Magnus"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[BlackElo "2772"]
+[ECO "E21"]
+[EventDate "2014.08.27"]
+[PlyCount "125"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2877"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bd2 Bb7 6. g3 c5 7. dxc5 Bxc5 8. Bg2
+O-O 9. O-O Be7 10. Bf4 Na6 11. Nb5 d5 12. Ne5 Nc5 13. Rc1 a6 14. Nc3 dxc4 15.
+Bxb7 Nxb7 16. Qxd8 Raxd8 17. Nc6 Rde8 18. Rfd1 h6 19. e4 Bc5 20. e5 Nd5 21.
+Nxd5 exd5 22. Rxd5 b5 23. Be3 Bxe3 24. fxe3 Re6 25. Nd4 Rb6 26. b3 Rc8 27. Kg2
+Rc5 28. Rxc5 Nxc5 29. bxc4 bxc4 30. Rxc4 Nd3 31. Rc8+ Kh7 32. e6 fxe6 33. Kf3
+Kg6 34. a4 e5 35. Nc6 Kf5 36. g4+ Ke6 37. a5 Rb5 38. Rd8 Nc5 39. h4 Rb1 40. Rg8
+Kd6 41. Nb8 e4+ 42. Kg2 Rb2+ 43. Kf1 Rb5 44. Kf2 Ne6 45. Rc8 Rxa5 46. Rc6+ Kd5
+47. Rxa6 Rxa6 48. Nxa6 Kc6 49. Nb4+ Kc5 50. Nc2 Kc4 51. Ke2 g5 52. hxg5 hxg5
+53. Kd2 Nc5 54. Na3+ Kb4 55. Nc2+ Kc4 56. Na3+ Kd5 57. Nb5 Nd7 58. Nc3+ Ke5 59.
+Nd1 Nf6 60. Nf2 Kd5 61. Nh3 Nxg4 62. Nxg5 Nxe3 63. Nxe4  1/2-1/2
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.08.30"]
+[Round "4.3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[BlackElo "2787"]
+[ECO "C78"]
+[EventDate "2014.08.27"]
+[PlyCount "60"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2768"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d4 Bb6
+9. Be3 O-O 10. Nbd2 h6 11. h3 Bb7 12. Re1 exd4 13. cxd4 Na5 14. Bc2 Re8 15. Qb1
+Nc4 16. Nxc4 bxc4 17. Nd2 Rb8 18. Nxc4 Bxe4 19. Bxe4 Rxe4 20. Qd3 Qe8 21. f3
+Re6 22. Bf2 Nd5 23. Rxe6 Qxe6 24. Re1 Nf4 25. Qc2 Qd5 26. Re4 Ne6 27. Qc3 c5
+28. Nxb6 Rxb6 29. dxc5 dxc5 30. b3 Rd6  1/2-1/2
+
+[Event "Sinquefield Cup"]
+[Site "?"]
+[Date "2014.08.31"]
+[Round "5"]
+[White "Aronian, Levon"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[Annotator "GM Varuzhan Akobian"]
+[ECO "A47"]
+[EventDate "2014.??.??"]
+[PlyCount "140"]
+[SourceDate "2014.01.04"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. c4 g6 5. Bg2 Bg7 6. O-O O-O 7. Re1 { Idea of
+this move is that if white plays}  ( 7. Nc3 Ne4 $1 8. Nxe4 Bxe4 { leads to a
+equal position which GM Vladimir Kramnik demonstrated before.}  ) 7... e6 8.
+Nc3 Ne4 $1 { An important move to prevent White from playing e4}  9. Nxe4 Bxe4
+10. Bg5 Qe8 { a strange move, but the idea is that after white plays Qd2 Bh6
+black can simply play Qe7 and later connect his rooks}  11. Qd2 d6 12. Bh6 Nd7
+13. Rac1 Qe7 14. Bxg7 Kxg7 15. Bh3 Nf6 { Black is very solid and at this point
+its clear that white didn't get any opening advantage}  16. Nh4 Bb7 ( 16... c5
+17. d5 exd5 18. f3 $1 { and black's bishop is in trouble.}  ) 17. f3 c5 $1 {
+very important to play this move otherwise white will play e4 and then meet c5
+with d5 gaining lot of space and a better position}  18. e4 cxd4 19. Qxd4 Rfd8
+20. Ng2 Qc7 21. Ne3 Qc5 22. Qc3 a5 23. Red1 ( 23. a3 a4 $1 { stopping b4}  )
+23... h5 24. Rd3 b5 25. b3 $6 { better is simple}  ( 25. cxb5 Qxb5 26. Bf1 {
+with equal position}  ) 25... bxc4 26. bxc4 Bc6 { position is still equal but
+white has a long term weakness on c4 which could turn out to be a problem later
+in the game.}  27. Rcd1 Rd7 28. Bg2 Rb8 29. Qd4 $1 { exchanging black's active
+Queen}  29... Qe5 $1 30. f4 Qxd4 31. Rxd4 Rc7 ( 31... e5 $1 32. Rxd6 Rxd6 33.
+Rxd6 exf4 34. gxf4 Bxe4 35. Rxf6 Rb1+ 36. Kf2 Rb2+ 37. Kg3 Rxg2+ 38. Nxg2 Kxf6
+{ and black is clearly better in this endgame since bishop is stronger than the
+knight.}  ) 32. R1d2 Ne8 33. Kf2 Kf8 34. c5 $6 { Aronian was getting low on
+time and decide to sacrifice his weak pawn and get activity as compensation.} 
+( 34. R4d3 a4 35. Bf3 { white is slightly worse but should make a draw.}  )
+34... dxc5 35. Rc4 Bb5 36. Rc3 c4 37. e5 Rc5 38. Nc2 Nc7 39. Nd4 Nd5 ( {
+Slightly better is } 39... Ba6 40. Ke3 Kg7 { black is up a clear pawn}  ) 40.
+Bxd5 Rxd5 41. Nf3 Rc5 $6 ( 41... Ba6 42. Rxd5 exd5 43. Ke3 Rb1 44. Ra3 a4 45.
+Rxa4 c3 { black has a big advantage}  ) 42. Rb2 Rd8 43. Nd2 Bc6 ( 43... Rd3 44.
+Ne4 Bc6 ) 44. Nb3 $2 ( 44. Ke3 Bd5 45. h4 $11 ) 44... Rb8 45. Rcc2 c3 46. Rb1
+Rcb5 47. Rxc3 Bd5 48. Rbc1 Bxb3 49. axb3 Rxb3 50. Rxb3 Rxb3 51. Rc8+ Ke7 52.
+Kg2 { white has good drawing chances but he needs to play very precise.}  52...
+a4 53. Kh3 ( 53. Ra8 Rb4 54. Kh3 g5 55. fxg5 Rg4 { leads to the position in the
+game}  ) 53... g5 $1 54. fxg5 Rb4 55. Ra8 Rg4 56. Ra7+ $6 ( 56. Ra6 Rxg5 57.
+Rxa4 Rxe5 58. Kh4 { with drawing chances}  ) 56... Kf8 57. g6 fxg6 58. Kg2 g5
+59. Kf3 Rb4 60. Ke3 Ke8 61. Kd3 h4 $1 { Now black is creating a weakness on g3}
+ 62. Kc3 hxg3 63. hxg3 Rg4 64. Kd3 ( 64. Kd2 Rxg3 65. Rxa4 Kf7 66. Ra6 Rb3 67.
+Ke2 Rb5 $19 ) 64... a3 $1 65. Ke3 Rxg3+ 66. Kd4 g4 67. Ra8+ Kd7 68. Kc5 Rd3 69.
+Kc4 Rf3 70. Kc5 g3 { Nice win by Carlsen and this could be a great confidence
+boost to get back in to the tournament.}   0-1
+
+[Event "Sinquefield Cup"]
+[Site "?"]
+[Date "2014.08.31"]
+[Round "5"]
+[White "Topalov, Veselin"]
+[Black "Vachier Lagrave, Maxime"]
+[Result "1-0"]
+[Annotator "GM Varuzhan Akobian"]
+[ECO "B90"]
+[EventDate "2014.??.??"]
+[PlyCount "81"]
+[SourceDate "2014.01.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+Be7 9. Qd2 O-O 10. O-O-O a5 11. a4 Na6 12. g4 Nb4 ( 12... Bxb3 $6 13. cxb3 Rc8
+14. Kb1 Nb4 15. Bc4 { much better for white since black light squares are
+weak.}  ) 13. Kb1 Qc7 ( 13... d5 14. g5 Nxe4 15. fxe4 d4 16. Nxd4 exd4 17. Bxd4
+Bxg5 18. Qg2 { Topalov mentioned after the game that white is better in this
+position.}  ) 14. g5 Nh5 15. Bb5 ( 15. f4 exf4 16. Bxf4 Nxf4 17. Qxf4 { also
+slightly better for white}  ) 15... Rac8 16. Rhg1 f5 17. gxf6 Nxf6 18. Qg2 Nh5
+( 18... g6 19. h4 Nh5 { and black is fine}  ) 19. Nc1 Bf6 $2 ( { Better is for
+black to start with } 19... g6 20. Nd3 Nxd3 21. Rxd3 Nf4 22. Bxf4 Rxf4 23. Nd5
+Bxd5 24. Rxd5 Kg7 { leads to a better version of the position in the game since
+black rook on f4 is much more active pressuring on f3 and at some point h2 pawn
+via Rh4 idea.}  ) 20. Nd3 Nxd3 21. Rxd3 Nf4 22. Bxf4 exf4 23. Nd5 Bxd5 24. Rxd5
+Be5 25. c3 $1 { after all the trades white is much better here since Black has
+a hard time creating any counter play and his light squares are very weak.} 
+25... Rf6 26. Qf2 { with idea of Qa7 at some point thats why black is forced to
+play b6}  26... b6 27. Ba6 $1 { Forcing black rook move away from c-file so he
+cannot play Rc5 after moving a Queen away which could be a strong defensive
+resource for black.}  27... Rb8 28. Bd3 Kh8 29. Rb5 Rf7 30. h4 Qa7 31. Qc2 Rc7
+32. Qb3 Rc5 33. Qe6 Rxb5 34. Bxb5 Rf8 35. h5 Qc7 $2 { Final mistake. Black had
+to try his best chance with}  ( 35... Qf7 36. Qxf7 ( 36. Qg4 $4 Bxc3 37. bxc3
+Qb3+ 38. Kc1 Qxc3+ 39. Kd1 { losses after}  ( 39. Kb1 Qb3+ { with a draw}  )
+39... Rc8 $1 ) 36... Rxf7 37. Ka2 Rf6 38. Bd7 { white has a big advantage in
+this endgame but not clear if he can win it.}  ) 36. Ka2 Qd8 37. Qg4 Qc7 38.
+Kb3 Rc8 39. Qe6 Qc5 40. Rg5 Rb8 41. Rf5 $1 { A bit of a premature resignation
+but black's position is lost anyway}  ( 41. Rf5 Qc8 42. Qxc8+ Rxc8 43. Rf7 Rb8
+44. Bd7 h6 45. Kc4 { and white will collect b6 and a5 pawns soon. Excellent win
+by Topalov who is now tied for 2nd place with Carlsen going into the rest day.}
+ )  1-0
+
+[Event "Sinquefield Cup"]
+[Site "?"]
+[Date "2014.08.31"]
+[Round "5"]
+[White "Nakamura, Hikaru"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[Annotator "GM Varuzhan Akobian"]
+[ECO "D11"]
+[EventDate "2014.??.??"]
+[PlyCount "134"]
+[SourceDate "2014.01.04"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nbd2 { White decided to chose a rare line
+against the Slav Defense.}  4... Bf5 5. Nh4 Be4 6. f3 Bg6 7. e3 e6 8. g3 { This
+is a novelty previously white tried 8.Nxg6}  8... Be7 9. a3 Nbd7 10. cxd5 cxd5
+{ Not the best way to recapture.}  ( 10... exd5 11. Nxg6 hxg6 12. Bg2 { with
+equal position.}  ) 11. Nxg6 hxg6 12. Bd3 e5 $1 { A strong move - black is
+trying to open the center to use his lead in development.}  13. O-O O-O 14. Qb3
+Qc8 15. Nb1 exd4 ( 15... Bd8 16. Nc3 Bb6 17. dxe5 Nxe5 18. Be2 Qe6 ) 16. exd4
+Nb8 { Both player are moving the knights to their original squares in order to
+improve the position}  17. Nc3 Nc6 18. Be3 Qd7 19. Rad1 Rfd8 20. Rfe1 Ne8 21.
+Bf2 Nc7 22. Bf1 ( 22. Qxb7 Rab8 ) 22... Bf6 23. Qa2 g5 $5 { Interesting move
+Caruana is planning to play g6,Kg7 and possibly use the H-file to put
+pressure.}  24. b4 g6 25. Qd2 Kg7 26. b5 Ne7 ( 26... Na5 27. Nxd5 Nxd5 28. Qxa5
+{ winning a pawn}  ) 27. Be3 Ne6 28. Bh3 Nf5 29. Bxf5 gxf5 30. f4 $6 ( { Better
+is } 30. Ne2 Qxb5 31. Qc2 $1 { with about equal position}  ) 30... g4 31. Qd3
+Rac8 { Now black is slightly better since his both minor pieces are better
+placed and more active.}  32. Rc1 ( 32. Qxf5 $4 Nxd4 33. Qxd7 Nf3+ 34. Kf2 Rxd7
+35. Nxd5 Nxe1 { black is winning}  ) 32... Rc4 $1 { Now black is increasing the
+pressure and its very difficult for white to do anything.}  33. Ne2 Nc7 {
+another precise move by black}  34. Nc3 ( 34. Rxc4 dxc4 35. Qxc4 Nxb5 36. a4
+Nxd4 37. Bxd4 Bxd4+ 38. Qxd4+ Qxd4+ 39. Nxd4 Rxd4 40. Re7 Rxa4 41. Rxb7 Ra2 42.
+Rc7 a5 { Black has good winning chances}  ) 34... Rc8 35. h3 $2 { After this
+move white's position is lost .It's very difficult to play here for white but
+better was to try}  ( 35. a4 Ne8 $1 36. Kg2 Bd8 { with idea of Ba5 and Nf6 -Ne4
+black has a bid edge.}  ) 35... gxh3 36. Kh2 Nxb5 37. Nxb5 Qxb5 38. Kxh3 Qd7
+39. Kg2 b5 40. Rb1 a6 41. Rbc1 Qe6 42. Bf2 ( 42. Bd2 Rxd4 43. Qxd4 ( 43. Rxe6
+Rxd3 $19 ) 43... Bxd4 44. Rxe6 Rxc1 45. Re2 Rc2 $19 { Black two pawns and
+easily winning}  ) 42... Rxc1 43. Rxe6 fxe6 44. g4 fxg4 $6 ( { Here Caruana
+could of end the game immediately with a brilliant } 44... Bh4 $1 45. Bxh4 (
+45. gxf5 R8c2 46. f6+ Kxf6 $19 ) 45... R8c3 46. Qd2 R1c2 { winning whites
+queen}  ) 45. Qe2 Kf7 46. Qd3 $1 { Excellent defensive resource by Nakamura} 
+46... R1c2 47. Qh7+ Ke8 48. f5 $2 ( 48. Kf1 $1 { and Caruana had to show some
+good technique to win this position} ) 48... Bxd4 $1 49. Qg6+ Kd8 50. Qxe6
+Rxf2+ 51. Kg3 Rc3+ 52. Kxg4 Rg2+ 53. Kf4 Rf2+ 54. Kg4 Kc7 55. Qe7+ Kb6 56. Qd8+
+Rc7 57. Qxd5 ( 57. Qb8+ Rb7 58. Qd6+ Ka7 59. Qxd5 Rg7+ 60. Kh3 Bb6 61. Qe6 Rf1
+{ and black threatening Rh1 mate}  ) 57... Bc5 58. Qd8 Kb7 59. f6 Bxa3 $1 60.
+Qd5+ Kb6 61. Qd8 Bc5 62. Qb8+ Rb7 63. Qd8+ Ka7 64. Qd5 Bb6 65. Kg5 Rc7 66. Kg6
+b4 67. Qe6 Bd4 { Great maneuvering win by Caruana and he is going to rest day
+with 5 wins out of 5 games!}   0-1
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.09.02"]
+[Round "6"]
+[White "Caruana, F."]
+[Black "Topalov, V."]
+[Result "1-0"]
+[BlackElo "2772"]
+[ECO "B46"]
+[EventDate "2014.08.27"]
+[PlyCount "61"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2801"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 { Not Topalov's main
+defense, but the Paulsen has been surging in popularity lately.}  6. Nxc6 { One
+of the many ways of playing; Be3 is still more common.}  6... bxc6 7. Bd3 d5 8.
+O-O Nf6 9. Re1 Be7 10. e5 Nd7 11. Qg4 Kf8 { Less common than g6, which was seen
+in another Caruana game.}  ( 11... g6 12. Bh6 Rb8 13. Nd1 $5 { and eventually
+Caruana won against Svidler earlier this year.}  ) 12. Na4 Qa5 { A novelty that
+Topalov had prepared, but he was not the player that was surprised today.}  13.
+Re2 $5 { Caruana mentioned after the game that this idea of Re2 was a
+preparation done against Svidler in the European Club Cup of last year. Topalov
+was the unfortunate victim of this move, though things are not so clear yet.} 
+13... h5 ( 13... c5 { is also possible, but the game would be completely
+different.}  14. b3 c4 15. Bd2 Qb5 $13 ) 14. Qf4 g5 15. Bd2 Qc7 ( 15... gxf4
+16. Bxa5 { During the commentary with Ben Finegold it seemed to us that this
+was Black's best way of playing, and that it should be approximately equal.
+Caruana insisted in the post-game commentary that this was better for Black. He
+is 2800+ and 6/6, so we will agree with him.}  ) 16. Qg3 h4 17. Qg4 Rg8 $2 {
+This move is just bad though. Black is too passive here.}  ( 17... h3 $5 18.
+Bxg5 Bxg5 19. Qxg5 c5 $1 { And White is probably better, but things are not so
+clear yet.}  ) 18. Rae1 { Now Black has no counterplay and White's superior
+development plus possibilities of attacking the enemy king give him a big
+advantage.}  18... c5 19. c4 dxc4 20. Bxc4 Bb7 21. h3 Rd8 { Black's counterplay
+on the d-file is just about all he has, but it is not much.}  22. Bc3 Nb8 {
+Re-routing the knight to c6 and d4 would give Black interesting play, but
+Caruana is not going to allow that.}  23. Re3 $1 Nc6 $2 { Ben Finegold
+predicted that Topalov would miss the winning sequence.}  ( 23... Bd5 { was
+probably Black's best bet, but the position is still ugly.} ) 24. Bxe6 $1 fxe6
+25. Rf3+ Ke8 ( 25... Kg7 { was the Bulgarian's original intention, but it is
+not good.}  26. Qh5 Rdf8 27. Rf6 $1 { The key move after which Black's position
+simply collapses.}  ) 26. Qxe6 Rg7 ( 26... Nd4 27. Qxg8+ Kd7 28. Qf7 { Was
+Black's best chance, but this is also hopeless.}  ) 27. Qh6 Nd4 28. e6 $1 {
+Most precise, though there were a few moves that won by this point.}  28...
+Nxf3+ 29. gxf3 Bf8 ( 29... Rg8 30. Qh5+ { is checkmate on f7.}  ) 30. Qh5+ Ke7
+31. Bxg7 { A simple demolition. When asked how Topalov played Carlsen's "he
+played terrible" was the best summary possible.}   1-0
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.09.02"]
+[Round "6"]
+[White "Carlsen, M."]
+[Black "Vachier Lagrave, M."]
+[Result "1/2-1/2"]
+[BlackElo "2768"]
+[ECO "B35"]
+[EventDate "2014.08.27"]
+[PlyCount "102"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2877"]
+
+1. e4 c5 2. Nc3 { Going for an anti-Sicilian.}  2... Nc6 3. Nf3 { well, not
+anymore! MVL cannot play his favorite Najdorf with this move order.}  3... g6
+4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O 8. Bb3 Qa5 { The accelerated
+dragon is not the most commonly seen opening in the top level, but it rears its
+ugly head once in a while.}  9. f3 $6 { I'm not a big fan of this variation.} 
+( 9. O-O { is supposed to be a better line.} ) 9... e6 10. O-O d5 11. exd5 exd5
+$2 { Despite this being the only move ever played according to my database, it
+is a mistake. White's knight on c3 is better placed than its counterpart on f6,
+Black had to reduce some of the pressure.}  ( 11... Nxd5 12. Nxd5 ( 12. Bxd5
+$5) 12... exd5 13. c3 Re8 14. Qd2 Ne5 { with approximate equality, though White
+might retain a tiny bit of pressure against the isolated pawn.}  ) 12. Qd2 {
+Now due to the many Nxd5 tricks it is difficult to develop for Black.}  12...
+Re8 13. Rad1 Bd7 14. Nxc6 bxc6 ( 14... Bxc6 15. Bd4 $14 { is certainly
+unpleasant, Black has little to show for his isolated pawn.}  ) 15. Nxd5 $1
+Qxd2 16. Nxf6+ Bxf6 17. Bxd2 { Choosing a pleasant endgame, but it was not the
+only way to play.}  ( 17. Rxd2 Bf5 ( 17... Bxb2 18. Rxd7 Rxe3 19. Kf2 Re5 20.
+Bxf7+ $16 ) 18. Kf2 Bxb2 19. g4 Be6 20. Rfd1 { also gave White a sizeable
+advantage.}  ) 17... Bxb2 18. Bc3 Bxc3 19. Rxd7 $16 { The opposite colored
+bishop endgame is unpleasant for the Frenchman: the pressure on f7 is
+impossible to lift without sacrficing a pawn and White's rooks are simply more
+active.}  19... Rf8 20. Rfd1 Kg7 21. Rb7 Ba5 $1 { A good defensive try, it is
+imperative that Black exchanges at least a pair of rooks.}  22. Rdd7 Bb6+ 23.
+Kf1 Rad8 24. Rxd8 Rxd8 25. Rxf7+ Kh8 $1 { Also important, on h6 the king is too
+weak against threats of g4, h4 and g5 with mating ideas.}  26. Ke2 { Carlsen
+must prevent Black from activating his rook on the second rank, so this is a
+good start.}  26... Re8+ 27. Kd3 Rd8+ 28. Kc3 Ba5+ 29. Kb2 ( 29. Kc4 {
+certainly seemed more logical to us during the broadcast. After all the king
+needs to be active in the endgame.}  29... Bb6 30. g4 Rd2 31. Rf6 Rxh2 32. Rxc6
+$16 ) 29... Bb6 30. g4 Rd2 31. h4 Rh2 32. Ba4 $5 h5 $5 ( 32... c5 33. Bc6 Rxh4
+34. Be4 { dooms Black to a passive defense that is far from comfortable.
+White's simple plan is K to b5, a pawn to a5.}  ) 33. gxh5 Rxh4 34. Bxc6 gxh5
+$1 { A good move for psychological reasons. The creation of one passed pawn for
+each side sharpens the position, and the World Champion's time management was
+not the best: he was down to only a few minutes on the clock by this point and
+he was in no position to calculate deeply.}  35. Be4 Rh1 36. f4 $2 { This
+however goes against all rules of the opposite colored bishop endgame. The
+powerful bishop on e4 loses its base and the c-pawn, which is the truly
+dangerous pawn, is lagging in its advance.}  36... Rh3 37. c3 ( 37. f5 Bd4+ 38.
+Kc1 Re3 $13 ) 37... h4 38. f5 $2 { After this there are no more winning
+chances.}  ( 38. Kc2 { would still make Black suffer.} ) 38... Re3 39. Re7 Ba5
+40. c4 h3 41. Re6 h2 42. Bd5 Rxe6 { Black chooses the easiest path to a draw.
+The e6 and h2 pawns will be exchanged and after that the draw is obvious.}  43.
+fxe6 Bd8 44. Kb3 Kg7 45. Kb4 Kf6 46. Kb5 h1=Q 47. Bxh1 Kxe6 48. c5 Kd7 49. Ka6
+Kc7 50. Kxa7 Be7 51. c6 Bc5+ { It isn't clear that Carlsen was winning at any
+point, but it is clear that he could have put far more pressure on MVL than
+what he did.}   1/2-1/2
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.09.02"]
+[Round "6"]
+[White "Nakamura, Hi"]
+[Black "Aronian, L."]
+[Result "1/2-1/2"]
+[BlackElo "2805"]
+[ECO "C67"]
+[EventDate "2014.08.27"]
+[PlyCount "90"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2787"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 { Nakamura repeats the variation that he played
+against Carlsen in last year's Sinquefield Cup. He achieved nothing at all in
+that game.}  11. Re2 { An interesting idea by Maxime Vachier-Lagrave that he
+uncorked against Giri in the 2014 Biel tournament. That led to a beautiful
+victory by MVL.}  11... c6 12. Ne3 Be7 { Aronian's novelty.}  ( 12... Bc7 13.
+Nf5 d5 14. Ne7+ Kh8 15. Nxc8 Rxc8 { is almost equal, but Giri eventually went
+wrong and lost.}  ) 13. Qe1 Bf6 14. Nf5 d5 15. Ne7+ Kh8 ( 15... Bxe7 16. Rxe7
+Nd6 17. Re2 { should also be approximately equal, but it makes more sense to
+keep the dark-squared bishop rather than the light one due to the pawn chain
+being on light squares.}  ) 16. Nxc8 Rxc8 17. g3 Qd7 { simply preventing Bh3.} 
+18. d3 Nc7 { It's clear that if White has achieved anything, it isn't much. His
+only long-term advantage is the pair of bishops.}  19. Qa5 Rfe8 $1 { A nice
+defensive resource, Black ignores the pawn on a7.}  20. Qe1 { It's hard to
+believe a player of Nakamura's caliber can play like this, but there you have
+it. Also he took around 45 minutes to play these two moves, Qa5 and Qe1.}  (
+20. Qxa7 Rxe2 21. Bxe2 Re8 22. Bf3 ( 22. Bf1 Re1 $132 ) 22... Nb5 23. Qa5 Nd4
+$36 ) 20... Rxe2 21. Qxe2 b5 { Grabbing some space.}  22. c3 d4 $6 { Perhaps
+overzealous due to Nakamura's loss of time, Aronian pushes the issue a little.
+I am not a fan of the structural change that takes place in the game.}  23. c4
+Re8 24. Qd1 bxc4 25. dxc4 { Now Black has a passed pawn, but it risks being
+blockaded. White has the better chances of emerging favorably from the pawn
+structure changes that can potentially happen.}  25... Ne6 26. b4 d3 $6 ( 26...
+c5 27. a3 Be7 $14 ) 27. Rb1 Rd8 28. Bd2 $6 ( 28. Be3 $1 { Was far more precise.
+This lets White control the important d4 square and his simple threat of
+Rb3-xd3 is nearly unstoppable.}  28... d2 29. Rb3 $16 ) 28... Bg5 29. Rb2 ( 29.
+h4 Bxd2 30. Qxd2 { was still a little better for White.}  ) 29... Qd4 { Now the
+counterplay is enough for a draw.}  30. Rb3 Bxd2 31. Qxd2 Qxc4 32. Rxd3 Rxd3
+33. Qxd3 Qxa2 ( 33... Qxd3 34. Bxd3 { gives White realistic winning chances as
+the bishop is more powerful than the knight in positions in which there are
+pawns on both flanks.}  ) 34. Qd7 Kg8 35. Qxc6 g6 36. Bc4 Qb1+ 37. Kg2 Qxb4 38.
+Bxe6 fxe6 { The rest doesn't need commentary.}  39. Qa8+ Qf8 40. Qxa7 h5 41.
+Qd7 Qf5 42. Qe8+ Kg7 43. Qe7+ Kg8 44. Qe8+ Kg7 45. Qe7+ Kg8 { Not the most
+precise game, it feels as if Nakamura could have tried to gain an advantage
+with more precision.}   1/2-1/2
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.09.03"]
+[Round "7"]
+[White "Vachier Lagrave, M."]
+[Black "Caruana, F."]
+[Result "0-1"]
+[BlackElo "2801"]
+[ECO "D31"]
+[EventDate "2014.08.27"]
+[PlyCount "78"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2768"]
+
+1. d4 d5 2. c4 e6 { Fabiano plays something he normally would not play. He later
+said he did not expect 1.d4 and thought MVL would play 1.Nf3.}  3. Nc3 Be7 4.
+Bf4 Nf6 5. e3 O-O 6. Rc1 Nbd7 { It's a bit unusual for white to play this line
+without Nf3, so the game goes its own way and the players are on their own.} 
+7. c5 Ne4 8. Bd3 f5 { Fabiano plays the most principled way.}  9. Nf3 c6 {
+Fabiano "remembered" a game where black played 9...g5 and regretted the opening
+of his king. 9...c6 is the most solid.}  10. Ne5 Nxe5 11. Bxe5 Bf6 12. Bxf6
+Qxf6 { There is no way to stop black from playing e5 and equalizing.}  13. Ne2
+e5 14. Qa4 $2 { Many of MVL's next few moves make little sense. This confused
+the commentators and Fabiano.}  14... Qh4 ( { Also good was } 14... Qg6 $1 15.
+O-O f4 $1 16. exf4 exf4 17. f3 Nxc5 $1 18. dxc5 Qxd3 19. Nd4 { and black is a
+pawn up.}  ) 15. g3 $2 ( { White rejected } 15. O-O { due to}  15... Nf6 { but
+this is not as strong as both players expected. White is fine after..}  16. Bc2
+e4 17. Qa5 ) 15... Qg4 { Now white is in serious trouble.}  16. Rf1 ( { White's
+last chance was } 16. Qd1 $1 Qf3 ( 16... exd4 17. exd4 $15 ) 17. Rf1 Qg2 (
+17... f4 $2 18. gxf4 exf4 19. Nxf4 Rxf4 20. exf4 Qxf4 21. Bxe4 Bh3 22. Bd3 Re8+
+23. Be2 $16 ) 18. dxe5 Qxh2 19. Nd4 $15 ) 16... Ng5 17. Kd2 $2 ( { Relatively
+best was } 17. Ng1 f4 $1 $17 ) 17... Nf3+ 18. Kc3 Nxh2 { Black is a pawn ahead
+and better.}  19. Rh1 Nf3 20. Qa5 Qg5 21. dxe5 Qe7 22. Nd4 Nxe5 23. b3 $2 {
+White did not put up much resistance in this losing position, but, to be fair,
+he was in some time trouble!}  23... b6 $1 { As he has done so often this
+tournament, Fabiano plays the most incisive way.}  24. cxb6 c5 { White's king
+is caught in the open center.}  25. Nb5 Bb7 26. bxa7 d4+ 27. exd4 Nxd3 28. Kxd3
+Bxh1 29. Rxc5 Qe4+ 30. Kc4 Qe2+ 31. Kb4 Qd2+ 32. Rc3 Bc6 33. a4 Bxb5 34. Kxb5
+Qxd4 35. Rc7 Rfd8 ( { The computer gives } 35... Rfb8+ 36. axb8=Q+ Rxb8+ 37.
+Kc6 Qf6+ 38. Kd5 ( 38. Kd7 Rd8# ) 38... Rd8+ 39. Kc5 Qe5+ 40. Kb6 ( 40. Kb4
+Qe1+ 41. Rc3 ( 41. Kb5 Rd5+ ) 41... Rd4+ 42. Kc5 Qe5+ 43. Kb6 Rd6+ ) 40... Rd6+
+41. Rc6 Rxc6+ 42. Kxc6 Qxa5 ) 36. Qb6 Rd5+ 37. Ka6 Rd6 38. a5 { Fabiano was
+expecting resignation for the last few moves, and was surprised upon seeing
+38.a5. Luckily, he is so much material ahead, it doesn't matter.}  38... Qd3+
+39. Kb7 Qd5+  0-1
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.09.03"]
+[Round "7"]
+[White "Carlsen, M."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[BlackElo "2787"]
+[ECO "D10"]
+[EventDate "2014.08.27"]
+[PlyCount "103"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2877"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 { Hikaru tried this line recently against
+Mamedyarov in the Olympiad.}  4. e3 b5 5. a4 b4 6. Ne4 Qd5 7. Nd2 c3 8. bxc3 {
+Mamedyarov played 8.Ndf3. For some reason, Hikaru was either unfamiliar with
+this line  ( the main line )  or forgot his analysis.}  8... bxc3 9. Nb1 Qa5
+10. Qc2 { This is a common position. Black usually plays 10...Na6. Hikaru went
+into a long think, and played an interesting move.}  10... e5 $5 11. Nf3 { And
+now Hikaru thought for a long time, and made the losing move.}  11... Na6 $4 (
+11... exd4 12. Nxd4 Nf6 { is better for white, but the game goes on. Perhaps
+Hikaru thought this was too simple and played for complications, but they were
+not in his favor.}  ) 12. Nxe5 { Black is simply lost. He will be 1-2 pawns in
+the ending with no compensation.}  12... Nb4 { Played after long thought, but
+there is nothing else.}  13. Qb3 $1 Be6 14. Bc4 c2 $6 ( 14... Bxc4 15. Qxc4 Qd5
+( 15... Nc2+ $2 16. Kd1 Nxa1 17. Qxf7+ Kd8 18. Qd7# ) 16. O-O { is best, but
+white should be winning.}  ) 15. Bxe6 Nd3+ 16. Ke2 Nxe5 17. dxe5 fxe6 18. Qxe6+
+Ne7 19. Nd2 Qd5 { The computer says this is best, but black has little chance
+of survival in the ending.}  20. Qxd5 Nxd5 21. Ne4 Rb8 22. Bd2 Bb4 23. Rhc1
+Bxd2 24. Nxd2 Nb4 25. Nf3 Ke7 26. Ne1 Rhd8 27. f4 $1 ( 27. Nxc2 $6 Nd3 28. Rcb1
+Nxe5 { is great for white, but not completely winning.}  ) 27... c5 28. Nxc2
+Nd3 29. Rcb1 Nb2 30. Ra2 Nxa4 { A bit tricky, but unfortunately, not tricky
+enough.}  31. Rxb8 Nc3+ 32. Kf3 Nxa2 33. Rb5 Nb4 34. Nxb4 cxb4 35. Rxb4 Ra8 36.
+Ke4 a5 37. Ra4 Kf7 38. g4 Ke7 39. f5 h6 40. h4 Kf7 41. e6+ Kf6 42. Rd4 Ke7 (
+42... Ra7 43. g5+ hxg5 44. Rd7 Rxd7 45. exd7 Ke7 46. f6+ gxf6 47. h5 { is a
+funny computer line.}  ) 43. Rd7+ Kf8 44. e7+ Ke8 45. Rd8+ Rxd8 46. exd8=Q+
+Kxd8 47. Kd5 Ke7 48. g5 a4 49. Kc4 hxg5 50. hxg5 Kd6 51. e4 Ke5 52. Kb4  1-0
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.09.03"]
+[Round "7"]
+[White "Topalov, V."]
+[Black "Aronian, L."]
+[Result "1/2-1/2"]
+[BlackElo "2805"]
+[ECO "D37"]
+[EventDate "2014.08.27"]
+[PlyCount "79"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2772"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. g3 { An unusual way to meet this
+line. It looks like a Catalan, but with the white knight on c3, it may be
+slightly more diffifcult to win the c4 pawn back.}  5... dxc4 6. Bg2 Rb8 7. a4
+Bb4 { Aronian grabs the b4 square, since Veselin is intent on preventing b5.} 
+8. O-O O-O 9. Nd2 { White wants his pawn back, but this allows the equalizing
+push...}  9... e5 10. Nxc4 exd4 11. Qxd4 Nc5 12. Qxd8 Rxd8 13. Bf4 Ne6 14. Be3
+$6 ( 14. Rfd1 Rxd1+ 15. Rxd1 Bd7 { is about equal.}  ) 14... a6 $6 ( 14... Nd4
+$1 { is similar to what black did later in the game.} ) 15. Ne5 Bd6 16. Nc4 Bb4
+17. Rfc1 $2 { Topalov should have repeated and drawn the game. Now Aronian is
+better.}  17... Nd4 $1 18. Bxd4 Rxd4 19. b3 c6 20. h3 $6 Be6 21. e3 Rdd8 $6 (
+21... Rd3 $1 22. Na2 Rxb3 23. Nxb4 Rxb4 { is just great for black. Black's
+retreat is puzzling.}  ) 22. Ne2 g6 23. Nd4 Bd5 24. a5 h5 25. Ra4 Bc5 26. Bxd5
+Rxd5 27. Ne2 Be7 28. Nc3 Rb5 $1 29. Nd2 ( 29. Nxb5 cxb5 $1 30. Raa1 bxc4 31.
+Rxc4 { and only black can play for a win.}  ) 29... Rb4 30. Rxb4 Bxb4 31. Nc4
+Rd8 32. Na2 Be7 33. Nc3 Nd5 34. Na4 Nb4 35. Kf1 Rd3 36. Rb1 { Black has a great
+position and can torture for a long time. Prehaps Aronian was exhausted and
+simply wanted an easy draw with black.}  36... Na2 37. Ra1 Nb4 38. Rb1 Na2 39.
+Ra1 Nb4 40. Rb1  1/2-1/2
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.09.04"]
+[Round "8"]
+[White "Caruana, F."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[BlackElo "2877"]
+[ECO "B36"]
+[EventDate "2014.08.27"]
+[PlyCount "83"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2801"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 $5 { The accelerated Dragon was
+definitely not what anyone would have predicted. Actually, Caruana's second,
+Chuchelov, said that the normal Dragon was possible, but definitely not this.} 
+5. c4 { The Maroczy is still the most principled way of playing against the
+accelerated Dragon.}  5... Nf6 6. Nc3 d6 7. f3 ( 7. Be2 Nxd4 8. Qxd4 Bg7 9. Be3
+O-O 10. Qd2 a5 { makes more sense as White cannot reply b3.}  ) 7... Nxd4 8.
+Qxd4 Bg7 9. Be3 O-O 10. Qd2 a5 { Personally I consider this variation to be
+inexact. The f3 variations are specifically designed against a5 and there is a
+good reason that Black hasn't been playing this line with good results lately.}
+ 11. b3 a4 12. b4 { White simply has a comfortable advantage in this type of
+positions.}  12... Be6 13. Rc1 Nd7 14. Be2 Nb6 ( 14... a3 15. Nd5 Bxd5 16. exd5
+Bb2 17. Rc2 $16 { Ehlvest-Ramirez, 2009 is the reason I know this line is not
+so great!}  ) 15. Nb5 ( 15. Nd5 { is also possible, but Caruana was "attracted
+to the idea of bringing the knight to a3".} ) 15... a3 ( 15... Rc8 16. Na3 {
+makes the knight on b6 look very awkward.}  ) 16. Nd4 Bd7 17. h4 $1 { I like
+this approach. Caruana is sufficiently safe in both the center and the
+queenside, which gives him a clear path to attack on the kingside.}  17... h5
+18. g4 hxg4 19. fxg4 ( 19. h5 { is a completely different and interesting game,
+but that would take up pages and pages of analysis.} ) 19... e5 20. Nb3 $1 (
+20. Nf5 { is tempting, but doesn't quite work:}  20... gxf5 21. gxf5 Kh7 22.
+Rg1 Qxh4+ $1 23. Bf2 Qxe4 24. Rxg7+ Kxg7 25. Qg5+ { and it's just a perpetual.}
+ ) 20... Bc6 21. Bf3 { Caruana took a long time on this move, probably
+anticipating the next move from Carlsen, which does seem forced.}  21... f5 22.
+gxf5 gxf5 23. Na5 $1 f4 ( 23... Bxe4 24. Bxe4 fxe4 25. Nxb7 Qf6 26. Nxd6 $18 )
+( 23... Rxa5 24. bxa5 Na4 { gives Black some compensation as the knight finally
+has some active squares, but the extra exchange is simply too much.}  ) 24. Bf2
+Na4 25. Nxc6 bxc6 26. O-O $6 { A somewhat strange decision. White's king is
+actually safer in the center than in the kingside.}  26... c5 $1 { During the
+broadcast I really liked this move. The definition of the pawn structure gives
+good hope for the knight on a4 to bloackade on b6 and be useful.}  27. b5 Bf6
+28. Kh1 Nb6 $2 { The incorrect move-order.}  ( 28... Kh8 { is still entirely
+unclear.}  29. Rg1 Ra7 $16 { White holds an advantage, but it is not clear how
+big it is. Both sides have chances in a complex position.}  ) 29. Rcd1 $2 {
+Letting Carlsen off the hook.}  ( 29. Rfd1 $1 { Would have probably resulted in
+Caruana going 8-0. It is impossible to defend the d6 pawn, and unlike the game
+the c4 pawn is not hanging.}  29... Be7 30. Bxc5 $1 $18 dxc5 $2 31. Qg2+ )
+29... Kh8 30. Qxd6 Qxd6 31. Rxd6 Nxc4 { Black's activity is just about enough
+for a draw.}  32. Rd5 Ne3 33. Bxe3 fxe3 34. Be2 Bxh4 { The computer gives some
+lines, but they all end in a draw under deep inspection.}  35. Rf5 Rxf5 36.
+exf5 Rd8 37. Rxd8+ Bxd8 38. Kg2 Kg7 39. Kf3 Kf6 40. Ke4 c4 41. Bxc4 Bb6 42. Bd3
+ 1/2-1/2
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.09.04"]
+[Round "8"]
+[White "Aronian, L."]
+[Black "Vachier Lagrave, M."]
+[Result "1/2-1/2"]
+[BlackElo "2768"]
+[ECO "A46"]
+[EventDate "2014.08.27"]
+[PlyCount "60"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2805"]
+
+1. Nf3 d6 2. d4 Nf6 3. Nc3 Nbd7 4. e4 e5 { Just to point out, this was the most
+unusual move-order to get to this position ever.}  5. g4 $5 { A favorite of
+Alexei Shirov, the attacking genius from Latvia. Aronian might have been
+banking on MVL's probable lack of knowledge in the variation.}  5... g6 { One
+of the logical ways to decline the gambit.}  ( 5... Nxg4 6. Rg1 Ngf6 7. Be3 {
+is a possible and sharp variation. Black was certainly not going into this
+without previous experience.}  ) 6. g5 Nh5 7. Bh3 $5 { Aronian played this
+quickly, though the move is rather strange.}  7... exd4 ( 7... Nb6 { also seems
+possible.} ) 8. Nxd4 h6 $6 { I don't like this move, though it might be
+objectively ok and it is the computer's first choice. The weakening of the
+kingside only helps White;}  ( 8... Nc5 9. Bxc8 Qxc8 $14 ) 9. Bxd7+ $5 {
+Interesting approach. Aronian trades off the knight on d7 for his developed
+bishop to retain the pressure with the g5 pawn.}  ( 9. Bf5 $5 { is cool but not
+very human.} ) 9... Bxd7 10. h4 Be7 $2 { This is the start of MVL's real
+troubles.}  ( 10... Qe7 11. Qd3 O-O-O { was imperative. Black has to get his
+king to safety.}  ) 11. gxh6 Bxh4 12. Be3 { MVL must have underestimated the
+danger that the h6 pawn posed, but more importantly how difficult it will be to
+get his king to 0-0-0.}  12... c6 ( 12... Qe7 13. Nf3 $1 Bf6 14. Nd5 Qxe4 15.
+Rxh5 $18 ) 13. Nf5 $1 { Powerful and effective.}  13... gxf5 ( 13... Bxf5 14.
+exf5 Qe7 15. Qe2 Bf6 16. O-O-O $18 { Black's position is basically collapsing.
+g6 is too weak.}  ) 14. Qxh5 Bf6 15. O-O-O Qe7 16. Bf4 $1 { the d6 pawn is very
+weak.}  16... O-O-O 17. Bxd6 $1 ( 17. Rxd6 { is also possible, but this is
+cleaner.} ) 17... Qe6 18. e5 { During the live commentary with GM Ben Finegold
+I thought this was a very human way of converting the advantage, simply killing
+Black's activity. I still hold this opinion.}  ( 18. Kb1 $1 { Is something
+Aronian looked at and also very strong, but it's a little messier.} ) 18...
+Bxe5 19. Bxe5 Qxe5 20. h7 { Black's position is simply crushed.}  20... Rde8
+21. Qxf7 $2 { The start of a very bad sequence. There is no reason to take this
+useless pawn that simply opens lines against White's crown jewel: the pawn on
+h7.}  ( 21. Rhg1 { ( or any other decent move )}  21... Be6 22. Kb1 $18 ) 21...
+Re7 22. Qg8+ Kc7 23. Rde1 $4 { Aronian must have been banking on this move.}  (
+23. Rh5 $16) 23... Rexh7 $1 { Aronian completely missed this move. Maurice
+Ashely asked him if sometimes "the machine just stops working". Aronian had
+nothing more than to reply with "yeah".}  ( 23... Rhxh7 { is also possible.
+When Aronian realized this during the live broadcast he muttered "well, that's
+embarassing..."} ) 24. Qxh7 Rxh7 25. Rxe5 Rxh1+ 26. Kd2 { The computer gives
+Black an edge, but no one knows why. This is a completely equal endgame.} 
+26... Kd6 27. Re3 Rh2 28. Ke1 Rh1+ 29. Kd2 Rh2 30. Ke1 Rh1+  1/2-1/2
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.09.04"]
+[Round "8"]
+[White "Nakamura, Hi"]
+[Black "Topalov, V."]
+[Result "0-1"]
+[BlackElo "2772"]
+[ECO "C67"]
+[EventDate "2014.08.27"]
+[PlyCount "114"]
+[SourceDate "2014.01.04"]
+[WhiteElo "2787"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 { If someone expected a Berlin Wall
+in one of these games, it certainly was not in this game. That being said,
+Topalov has played this, just without good results.}  5. d4 Nd6 6. Bxc6 dxc6 7.
+dxe5 Nf5 8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 Ne7 11. Ne4 Ng6 12. Re1 h6 13. Kh2 $5
+{ Nakamura's novelty; White's idea is to push the pawns on the kingside as soon
+and effectively as possible. The point of this king move is that once g4 is
+pushed the king can reinforce it with Kg3.}  13... c5 14. c4 Be6 15. b3 b6 { A
+typical Berlin, by all means. White has a space advantage, but Black's pair of
+bishops and solid structure makes it very hard for White to make progress with
+his kingside majority.}  16. g4 h5 $1 { Very precise, challenging the pawn
+structure immediately is the best.}  17. Kg3 Rd8 18. Neg5 $2 { This is surely
+based on a miscalculation.}  18... Bc8 $1 { Excellent play from Topalov.}  19.
+Bb2 ( 19. e6 { This might have been Nakamura's original intention, but it
+simply does not work.}  19... Bd6+ 20. Kg2 f6 21. Nf7 { White wins an exchange,
+but loses the game.}  21... hxg4 22. hxg4 Bb7 23. Nxh8 Nxh8 { White is helpless
+against Black's threats. His piece activity is just very bad and the pin on
+b7-g2 is too strong.}  ) 19... Be7 20. Rad1 Rxd1 21. Rxd1 hxg4 $5 ( 21... Bb7 {
+was also possible.} ) 22. hxg4 f6 23. exf6 gxf6 24. Re1 { Black has an
+interesting choice; go into an unclear but probably better endgame or keep his
+pair of bishops and play for the long run.}  24... Kf8 $1 { I think this is a
+better try.}  ( 24... fxg5 25. Bxh8 Nxh8 26. Nxg5 Ng6 $15 ) 25. Ne4 Kf7 26. Bc1
+Rg8 $1 27. Rh1 $2 { This is a bad move, but White's position was difficult
+anyways.}  27... Bb7 $1 28. Re1 ( 28. Rh7+ Ke6 29. Nfd2 Ne5 { is almost losing.
+The bishop on h7 is not doing as much as it seems.}  ) 28... Re8 29. Nfd2 { The
+only move.}  29... Ne5 $1 { Black's activity is very strong.}  30. Bb2 $6 {
+This makes Black's life easier.}  30... Nd3 31. Rb1 Rg8 32. Kf3 Nxb2 33. Rxb2
+Bc8 { White cannot defend the g4 pawn; the rest is not so complicated.}  34. g5
+f5 35. Nf6 Rxg5 36. Nd5 Bb7 37. Rb1 Rg4 38. Rh1 Bd6 39. Ke2 Rd4 40. Rh7+ Kg6
+41. Rd7 Bxd5 42. cxd5 Rxd5 $6 ( 42... b5 $1 { Was far cleaner.} ) 43. Nc4 b5
+44. Nxd6 cxd6 45. Rxa7 b4 46. a4 bxa3 47. Rxa3 Re5+ { The endgame should be
+lost anyways.}  48. Kd3 Kg5 49. Ra6 Re1 50. Kd2 Re6 51. Rb6 Kg4 52. b4 cxb4 53.
+Rxb4+ Kf3 { Now it is clear that White cannot hold the position.}  54. Kd1 f4
+55. Rd4 Re4 56. Rd2 d5 57. Ra2 Kg2  0-1
+
+[Event "Sinquefield Cup"]
+[Site "?"]
+[Date "2014.09.05"]
+[Round "9"]
+[White "Carlsen, Magnus"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[Annotator "GM Varuzhan Akobian"]
+[ECO "D56"]
+[EventDate "2014.??.??"]
+[PlyCount "168"]
+[SourceDate "2014.01.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8. Bxe7
+Qxe7 9. Rc1 c6 { We see a very solid opening choice by Aronian: the Lasker
+Defense. Aronian is a big expert against it as White and won many nice games
+with it.}  10. Qc2 { Slight surprise from Carlsen. This move is pretty rare
+more common response here is 10.Bd3}  10... Nxc3 11. Qxc3 Nd7 12. Be2 dxc4 13.
+Qxc4 { Interesting to notice this idea as white first was played by Aronian's
+friend GM Hrant Melkumyan}  13... e5 14. O-O exd4 15. Nxd4 Nf6 16. b4 { Carlsen
+achieved a slight but stable advantage which he will try to convert for the
+rest of the game. This is a type of position that he plays extremely well.} 
+16... Bd7 17. Rfd1 Rfe8 18. Qc5 $1 { Diagram [#] Carlsen spent about 20 minutes
+on this move. Idea is to exchange the queens to eliminate black idea of Ne4 and
+potentially Nxf2 sacrifice}  18... g6 19. a4 Qxc5 20. bxc5 a5 { Risky looking
+move by Aronian but probably necessary otherwise white will lay a5 with
+pressure on b7 pawn}  21. Nb3 Re5 ( 21... Be6 22. Bc4 Bxc4 23. Rxc4 Nd5 24. e4
+{ and white is better.}  ) 22. Rd4 Kf8 23. Kf1 Ke7 24. Bc4 g5 25. h3 b5 $6 {
+black is passive that's why Aronian went for b5 but he will be worse for the
+rest of the game after it.}  ( 25... h5 26. Ke2 h4 { with a roughly equal
+position.}  ) 26. cxb6 Rb8 27. f4 $1 { Diagram [#]Very strong idea by Carlsen
+otherwise its will just be equal.}  27... Rxe3 28. Nc5 Rxb6 29. Kf2 $1 gxf4 {
+Only move}  ( 29... Ra3 $4 30. Re1+ Kd8 31. Red1 { winning a piece}  ) 30. Rxf4
+Re5 31. Rxf6 ( { White is also slightly better after } 31. Nxd7 Nxd7 32. Rxf7+
+Kd8 33. Rh7 Rb4 34. Bf1 ) 31... Be8 ( 31... Rxc5 32. Rxf7+ Kd6 $1 ( 32... Ke8
+33. Re1+ Kd8 34. Rd1 Rxc4 35. Rdxd7+ Ke8 36. Rde7+ Kd8 37. Ra7 Ke8 38. Rh7 {
+winning for white}  ) 33. Rd1+ Ke5 34. Re7+ Kf6 35. Re4 Rb4 36. Rd6+ Kf5 37.
+Rdd4 { white is only slightly better.}  ) 32. Rf4 Rxc5 33. Re4+ Kf8 34. Rxe8+
+Kxe8 35. Bxf7+ Kxf7 36. Rxc5 { this endgame should be a draw but not easy at
+all.}  36... Rb4 37. Rxa5 c5 38. Ke3 Rd4 39. Ra6 Kg7 40. a5 Ra4 41. g4 h5 $1 {
+excellent defensive idea.}  42. gxh5 Ra3+ 43. Ke4 c4 44. Kd4 c3 $1 { Advancing
+the pawn as further as possible}  45. Kd3 Kh7 46. h6 ( 46. h6 $4 { (
+Annotations by GM Alejandro Ramirez in this section ) . This move is the move
+that allows Black a Vancura defensive position. It was imperative to prevent
+the rook from entering b3.} ) ( 46. Kc2 $1 { ( Annotations by GM Alejandro
+Ramirez in this section ) . This was the winning plan.}  46... Kh8 ( 46... Ra2+
+{ White wins by one tempo in this line.}  47. Kxc3 Ra1 48. Kc4 Rc1+ ( 48... Rf1
+49. Rd6 $18 ) 49. Kb5 Rb1+ 50. Kc6 Rc1+ 51. Kb7 Rc5 52. Kb6 $18 ) ( 46... Kg7 {
+is more tenacious.}  47. h4 Kh7 48. h6 { And Black is in Zugzwang.}  48... Kh8
+49. Ra7 Kg8 50. h5 Kh8 51. a6 $18 ) ( 46... Ra1 47. Kxc3 $18 { The rook is too
+slow to enter the fifth rank.}  ) 47. Ra7 Kg8 48. a6 Kh8 49. h6 Kg8 50. Rg7+
+Kh8 51. a7 $18 ) 46... Rb3 47. Kc2 Rb5 $1 { Diagram [#]Aronian is sacrificing
+his last pawn but reaches a theoretically drawn position}  48. Kxc3 Rf5 $1 {
+Black must always keep the rook attacking the a pawn so white cannot move the
+Rook on b file and push the pawn and as soon as white king is getting closer to
+his a pawn black start checking to move him away.}  49. Ra8 Rb5 50. Kc4 Rf5 51.
+Kb4 Rf4+ 52. Kc5 Rf5+ 53. Kd4 Rb5 54. Ke4 Rc5 55. Ra6 Rb5 56. h4 Rc5 57. Kd4
+Rb5 58. Kc4 Rf5 59. Kb4 Rf4+ 60. Kc5 Rf5+ 61. Kb6 Rf6+ 62. Kb7 Rf7+ 63. Kc8
+Rf8+ 64. Kd7 Rf5 65. Ra8 Rd5+ 66. Ke6 Rb5 67. Kf6 Rc5 68. Ra7+ Kxh6 69. Kf7 Rb5
+70. a6 Rb6 71. Kg8 Rb8+ 72. Kf7 Rb6 73. Ke7 Kg6 74. Kd7 Rf6 75. Ra8 Kg7 76. Kc7
+Rf7+ 77. Kd6 Rf6+ 78. Ke5 Rb6 79. Ra7+ Kg6 80. h5+ Kh6 ( 80... Kxh5 $4 81. Rh7+
+Kg6 82. a7 Ra6 83. Re7 { white is winning}  ) 81. Kf5 Rc6 82. Re7 Rxa6 83. Re6+
+Rxe6 84. Kxe6 Kxh5 { Excellent fight Carlsen was very close to win but Aronian
+knew the Vancura defense and held a draw pretty confidently.}   1/2-1/2
+
+[Event "Sinquefield Cup"]
+[Site "?"]
+[Date "2014.09.05"]
+[Round "9"]
+[White "Caruana, Fabiano"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[Annotator "GM Varuzhan Akobian"]
+[ECO "C67"]
+[EventDate "2014.??.??"]
+[PlyCount "110"]
+[SourceDate "2014.01.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 { Nakamura chose the solid Berlin defense and
+obtained a solid position after the opening.}  4. O-O Nxe4 5. d4 Nd6 6. Bxc6
+dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6
+13. Ng5 Rh6 14. Rfe1 Bb4 15. g4 hxg4 16. hxg4 Ne7 17. Nxe6 Rxe6 18. Kg2 Rd8 {
+Novelty by Nakamura previously GM Karjakin tried 18...Bc3 on few occasions and
+held a draw.}  ( 18... Bxc3 19. bxc3 Rd8 20. Rxd8+ Kxd8 21. Rh1 Nd5 22. Bg3 g5
+$11 { Anand-Karjankin 2014}  ) 19. Rxd8+ Kxd8 20. Rd1+ Kc8 21. Bg3 { Here
+Nakamura spent over 20 minutes on Bxc3 but the move is pretty natural and the
+best. If black doesnt take the knight now white will simply move it.}  21...
+Bxc3 ( 21... f6 22. exf6 gxf6 23. Nb1 { slightly better for white}  ) 22. bxc3
+Rg6 23. Rd4 f5 24. Bh4 c5 25. Rf4 Nd5 26. Rxf5 Rxg4+ 27. Bg3 Kd8 { Black is
+playing very precisely and it seems like few more moves and he should make a
+draw without any difficulties}  28. Kh3 Rg6 $6 ( { Better is to keep the rook
+active behing the E passed pawn } 28... Re4 { Diagram [#]}  29. Rg5 Ke7 $1 30.
+Rxg7+ Ke6 31. Rg4 Rxg4 ( 31... Re2 { also fine for black} ) 32. Kxg4 c4 33. f4
+Ne3+ 34. Kg5 Nf5 { and black can make a draw pretty easily.}  ) 29. c4 Ne7 $6 (
+{ Better is } 29... Nc3 $1 30. Rf7 Ne2 31. e6 Nxg3 32. Rd7+ Kc8 33. Re7 Kd8 34.
+Rd7+ Kc8 { with a draw}  ) 30. Rf8+ Kd7 31. f4 $1 { Now white is clearly better
+threat is F5}  31... Ke6 $2 { After this mistake blacks position is close to
+losing last chance was to play.}  ( 31... Rh6+ 32. Kg4 g6 33. Bh4 Nf5 34. Bg5
+Rh7 35. Rg8 Rg7 36. Rd8+ Ke6 { white is slightly better but not so clear how to
+break thru.}  ) 32. Bh4 Rh6 33. Re8 g5 34. fxg5 Rg6 35. Kg4 Kf7 36. Rh8 Ra6 37.
+Rh7+ Kf8 38. Rh6 $6 ( { Strongest here was } 38. Bf2 $1 b6 39. e6 Rxa2 40. Bg3
+Rxc2 41. Rh8+ Ng8 42. e7+ Kxe7 43. Rxg8 { winning for white}  ) 38... Ng6 39.
+Kf5 Kg7 $6 ( 39... Kf7 40. Bf2 Ne7+ 41. Ke4 Re6 42. Bxc5 $18 ) 40. Bf2 $2 {
+Caruana was short on time to make the last move of the first time control and
+missed a immediate win with elegant sacrifice}  ( 40. Rxg6+ $1 Rxg6 41. e6 $1
+Kh7 42. e7 Rg8 43. Kf6 Rg6+ 44. Kf7 Rg7+ 45. Ke6 Rg8 46. Kd7 { white is winning
+easily.}  ) 40... Ne7+ 41. Ke4 Ra4 42. Re6 $6 { After this move its black will
+make a draw. Last chance for white was to try}  ( 42. Kd3 $1 Ng6 43. e6 { white
+has good winning chances}  ) 42... Nc6 43. Kf5 Rxc4 44. Rg6+ Kf8 45. Rf6+ Kg8
+$1 46. g6 Rxc2 47. Be3 Nd4+ $1 { Diagram [#]}  48. Bxd4 cxd4 49. Rf7 d3 50. Rd7
+Rf2+ 51. Kg5 Rg2+ 52. Kf6 Rf2+ 53. Kg5 Rg2+ 54. Kf6 Rf2+ 55. Kg5 Rg2+ { Caruana
+must feel disappointed for missing the easy win on move 40th however Nakamura
+fought hard until the end and capitalized on the chance that white gave him}  
+1/2-1/2
+
+[Event "Sinquefield Cup"]
+[Site "?"]
+[Date "2014.09.05"]
+[Round "9"]
+[White "Vachier Lagrave, Maxime"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[Annotator "GM Varuzhan Akobian"]
+[ECO "A07"]
+[EventDate "2014.??.??"]
+[PlyCount "81"]
+[SourceDate "2014.01.04"]
+
+1. Nf3 { In this game Vachier-Lagrave decided to play a slow setup without any
+theory}  1... d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. e4 O-O 7. exd5 Nxd5
+8. Nc3 Nc6 9. Re1 ( { White could have also tried the interesting } 9. Nxe5 $5
+Nxc3 10. Nxc6 Nxd1 11. Nxd8 Nxb2 12. Bxb2 Bxb2 13. Rab1 Rxd8 14. Rxb2 c6 15.
+Re1 { with about equal position.}  ) 9... Nde7 10. a4 h6 11. a5 a6 { very
+important to stop white from playing a6}  12. Be3 Re8 13. Qd2 Nf5 14. Bc5 Rb8
+15. Ne4 b6 $1 { Diagram [#] Black is removing the Bishop from active c5
+square.}  16. axb6 cxb6 17. Ba3 Ncd4 18. Nxd4 Nxd4 19. Qd1 ( { White could of
+tried } 19. Nd6 Re6 20. Nxc8 Rxc8 21. Rac1 h5 $1 22. Bb4 a5 23. Bc3 Nb5 { and
+black is slightly better.}  ) 19... Bb7 20. c3 ( 20. Nd6 Bxg2 21. Kxg2 Re6 22.
+c3 Nc6 $15 ) 20... Nb5 21. Qb3 { Active move by white I believe this is the
+right way to play otherwise black might be slightly better.}  21... Qd7 ( 21...
+Nxa3 22. Qxa3 a5 23. Qb3 Qc7 $15 ) ( 21... Qxd3 $4 22. Rad1 { and black queen
+is in trouble.}  ) 22. Re3 Kh7 23. Rae1 f5 24. Nd2 Bxg2 25. Kxg2 Re6 26. Nf3
+Rbe8 27. Kg1 e4 $6 { Topalov is slightly better but here he rushed to break
+thru. Better is to build up.]}  ( 27... a5 28. d4 e4 29. Nh4 Nxa3 30. Qxa3 h5
+31. Ng2 Bh6 { black is slightly better}  ) 28. dxe4 Rxe4 29. Rxe4 Rxe4 ( 29...
+fxe4 30. Nh4 ( 30. Rd1 $4 exf3 31. Rxd7 Re1# ) 30... Nxa3 31. Qxa3 Qd2 32. Ng2
+e3 33. fxe3 Rf8 34. Rf1 Rxf1+ 35. Kxf1 Qd1+ 36. Kf2 Qd2+ { with a draw}  ) 30.
+Rd1 Qe8 ( 30... Qb7 31. c4 ( 31. Rd8) 31... Nxa3 32. bxa3 Qc6 ) 31. Qd5 $1 {
+Diagram [#] Activating the Queen}  31... Nxa3 32. bxa3 Qe7 33. h4 Qc5 34. h5
+Qxd5 35. hxg6+ Kxg6 36. Rxd5 Bxc3 37. Rd6+ Kf7 38. Rxb6 Ra4 39. Rxh6 Rxa3 40.
+Nh4 Ra5 41. Rc6 { Very solid game by both players position always remained
+around equality throughout the game.}   1/2-1/2
+

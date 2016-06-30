@@ -1,0 +1,122 @@
+[Event "?"]
+[Site "Italy"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C37"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Bxf7+ $6 ( 5. d4 d5 6. Bxd5 gxf3 7.
+Qxf3 c6 8. Bxf7+ Kxf7 9. Qxf4+ Ke8 ) ( 5. O-O) 5... Kxf7 6. Ne5+ Ke6 $2 ( 6...
+Ke8) 7. Qxg4+ Kxe5 8. Qf5+ Kd6 9. d4 Bg7 $2 ( 9... Kc6 $10) 10. Bxf4+ Ke7 11.
+Bg5+ Bf6 12. e5 $1 Bxg5 13. Qxg5+ Ke8 14. Qh5+ Ke7 15. O-O Qe8 ( 15... Nh6) 16.
+Qg5+ { Forced mate in 8 moves.}  16... Ke6 17. Rf6+ Nxf6 18. Qxf6+ Kd5 19. Nc3+
+Kxd4 ( 19... Kc4 20. Qf1+ ) 20. Qf4+ Kc5 21. b4+ Kc6 22. Qc4+ Kb6 23. Na4#  1-0
+
+[Event "?"]
+[Site "USSR"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Krogius"]
+[Black "Aratovsky"]
+[Result "0-1"]
+[ECO "C25"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 Bc5 4. Nf3 d6 5. f5 $2 Nf6 6. h3 $6 ( 6. Bc4) ( 6.
+Bb5) ( 6. Qe2) 6... d5 $1 7. Nxe5 $2 Nxe4 ( 7... Nxe5 8. d4 Nxe4 ( 8... Bb4 9.
+dxe5 Nxe4 $19 ) 9. Nxe4 Qh4+ $19 ) 8. Nf3 $4 { Leads to a forced mate.}  8...
+Qh4+ 9. Nxh4 Bf2+ 10. Ke2 Nd4+ 11. Kd3 Nc5#  0-1
+
+[Event "Czech Youth Championship"]
+[Site "?"]
+[Date "2014.??.??"]
+[Round "?"]
+[White "Mládek"]
+[Black "Ludvík"]
+[Result "0-1"]
+[ECO "C39"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. d4
+Nh5 9. Kf2 $2 ( 9. O-O) ( 9. Bb5+ c6 10. dxc6 bxc6 11. Nxc6 Qb6 ) ( 9. Nc3 Qe7
+) 9... Rg8 10. Nc3 Ng3 11. Re1 ( 11. Bxf4 Nxh1+ 12. Qxh1 g3+ $1 $13 ) 11...
+Qxh4 12. Ng6+ $4 ( 12. Nf3+ Ne4+ 13. Kg1 Qf2+ 14. Kh1 gxf3 15. Rxe4+ $13 ) (
+12. Bxf4 Nf5+ ( 12... Ne4+ 13. Ke3 Qf2+ 14. Kxe4 Rg5 15. Kd3 ( 15. Bxg5 Bf5# )
+15... Bf5+ 16. Ne4 Qxf4 17. Qd2 $16 ) 13. Ke2 $14 ) 12... Ne4+ 13. Ke2 ( 13.
+Kf1 Qf2# ) ( 13. Kg1 Qf2+ 14. Kh1 hxg6 ) 13... Qf2+ 14. Kd3 Qg3+ 15. Ke2 ( 15.
+Re3 $19) 15... Qxg2+ 16. Kd3 Qg3+ 17. Ke2 Qf3#  0-1
+
+[Event "?"]
+[Site "France"]
+[Date "????.??.??"]
+[Round "?"]
+[White "David A."]
+[Black "Pinter"]
+[Result "1-0"]
+[ECO "C25"]
+[EventDate "1993.??.??"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 $6 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 ( 6. Bxf4 gxf3 )
+6... gxf3 7. O-O ( 7. gxf3) 7... d5 $2 ( 7... Nxd4 $1 8. Qxd4 Qg5 9. Rf2 $19 )
+8. exd5 Bg4 9. Qd2 Na5 10. Bb5+ c6 11. Qxf4 Qd7 $2 ( 11... cxb5 12. Qe5+ ( 12.
+Qxg4) 12... Ne7 13. Qxh8 Qb6 $10 ) 12. Qe5+ Ne7 13. Ne4 O-O-O $2 ( 13... Kd8
+14. Qxh8 Ng6 15. Qxh7 cxb5 16. Nf6 Qf5 17. Nxg4 ( 17. Qxf7 $18) 17... Qxg4 18.
+Rxf3 $18 ) 14. Bf4 { [%cal  Gf4b8,Gb5d7]}   1-0
+
+[Event "?"]
+[Site "Ostrava"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "?tukner"]
+[Black "Biolek Jr."]
+[Result "0-1"]
+[ECO "C31"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 cxd5 5. Bb5+ Nc6 6. fxe5 d4 7. Ne4 ( 7.
+Bxc6+ bxc6 8. Ne4 { [%csl Rc6,Rd4]}  ) 7... Qd5 8. Qe2 ( 8. Bxc6+ bxc6 9. Qe2 )
+8... Bf5 9. Nd6+ $2 ( 9. Bxc6+ Qxc6 10. d3 ) 9... Bxd6 10. exd6+ Kd7 ( 10...
+Kf8) 11. Bxc6+ $6 ( 11. Bc4 Qxd6 12. Qf2 $1 { [%cal Gg1e2]}  ) 11... bxc6 12.
+Kf1 d3 13. Qf2 Nf6 ( 13... dxc2) 14. c4 Qe6 15. b3 $6 ( 15. Nf3 Ng4 16. Qe1
+Qxd6 17. Qg3 Qxg3 18. hxg3 ) 15... Ng4 $2 ( 15... Rhe8) 16. Qd4 $2 ( 16. Qf4
+$1) ( 16. Qc5 Be4 17. Bb2 Rhe8 18. Qg5 $10 ( 18. Nh3 $10) ) 16... Be4 17. Nh3
+Qf5+ 18. Kg1 c5 19. Qc3 Bc6 { [%cal  Gc6g2,Gf5e4][%csl Rc1,Ra1,Rh3,Rh1]}  20.
+Qa5 Rhc8  0-1
+
+[Event "?"]
+[Site "P?erov"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Vychodil"]
+[Black "Biolek"]
+[Result "0-1"]
+[ECO "C31"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 cxd5 5. d4 $2 ( 5. fxe5 d4 6. Ne4 Qd5 7. Qe2
+Nc6 8. Nf3 Bf5 ) 5... exd4 6. Qxd4 Nf6 7. Be3 Nc6 8. Bb5 Be7 9. O-O-O $6 ( 9.
+Nf3) 9... O-O 10. Qd2 Qa5 11. Kb1 Bb4 12. Nge2 Ne4 13. Qd3 ( 13. Qxd5 { Best
+move.}  13... Nxc3+ 14. Nxc3 Be6 15. Bxc6 Bxd5 16. Rxd5 Qc7 $19 ) 13... Bf5 $1
+{ [%cal    Ga5e1,Gf5b1][%csl Gc6,Ge4]}  14. Qxd5 Nxc3+ 15. Nxc3 ( 15. bxc3 Be6
+{ [%cal  Ge6a2,Ga5a2]}  ) 15... Be6 16. Qh5 Bxc3 17. bxc3 Bc4 ( 17... g6) (
+17... Bxa2+ 18. Kb2 Bc4 $19 ) ( 17... Qxa2+ 18. Kc1 Rfd8 19. Bd3 Rxd3 $1 20.
+cxd3 $19 ( 20. Rxd3 Qa1+ 21. Kd2 Qxh1 $19 ) 20... Bb3 $19 ) 18. a4 a6 19. Bc5
+axb5 20. Bxf8 Qxa4 21. Kc1 Rxf8 22. Qc5 Qa1+ { [%cal  Gc1d2,Gf8d8][%csl
+Gc4,Gc6,Rc5]}   0-1
+
+[Event "?"]
+[Site "Olomouc"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Rechel"]
+[Black "Biolek"]
+[Result "0-1"]
+[ECO "C30"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 ( 3. fxe5 $4 Qh4+ $19 ) 3... d6 4. c3 Nf6 5. d4 exd4
+6. cxd4 Bb6 7. Nc3 O-O 8. Bd3 ( 8. e5 Re8 9. Be2 dxe5 10. dxe5 $10 ) 8... Re8
+9. O-O Nc6 10. Bb1 Bg4 11. Be3 Bf5 $1 12. Ng5 $2 ( 12. Bf2 $1 Nxe4 13. Nxe4
+Bxe4 14. Bxe4 Rxe4 15. d5 Nb4 16. a3 Na6 17. Bxb6 axb6 18. Ng5 Re7 19. Qc2 g6
+20. f5 Re5 21. h4 $10 ) 12... h6 13. Bf2 hxg5 14. exf5 gxf4 15. Na4 $4 ( 15. d5
+Ne5 16. Bxb6 axb6 17. Rxf4 ) 15... Nd5 16. Nxb6 axb6 17. f6 Qxf6 18. Qh5 Ra5 $1
+( 18... g5 19. h4 ) 19. Qh7+ Kf8 20. Qh8+ Ke7 21. Qh7 Kd8 22. Qh3 Nxd4 23. Bd3
+Ne3 24. Rfe1 Rae5 25. a4 g5 26. Bb5 c6  0-1
+

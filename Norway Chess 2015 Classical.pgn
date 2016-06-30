@@ -1,0 +1,1501 @@
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.16"]
+[Round "1"]
+[White "Giri, A."]
+[Black "Grischuk, A."]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2781"]
+[ECO "B31"]
+[EventDate "2015.06.17"]
+[PlyCount "83"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2773"]
+
+1. Nf3 c5 2. e4 $5 { Not the most common of transposition - a normal Sicilian is
+on the board but definitely not on the normal move order!}  2... Nc6 3. Bb5 g6
+{ The Rossolimmo Sicilian is a popular way of preventing the Sveshnikov, a high
+chance that Grischuk would have played that against 3.d4.}  4. Bxc6 bxc6 ( 4...
+dxc6 { is the "safer" way but both captures on c6 are possible.} ) 5. O-O Bg7
+6. Re1 Rb8 { Putting the rook in the half-open file makes sense...}  7. h3 $5
+Qc7 { However I am not so fond of this move. I keep wondering why the queen is
+on c7, and later  (  and more importantly  )  we will see how the knight
+actually wanted to go to this square.}  8. c3 Nf6 { A common idea in the
+structure, but the knight gets kicked around too much.}  ( 8... e5 $5) 9. e5
+Nd5 10. c4 Nb4 ( 10... Nf4 11. d4 Ne6 12. d5 { seems to leave Black completely
+squashed.}  ) 11. d4 $1 cxd4 12. a3 Na6 13. Qxd4 { At this point Giri has a
+very comfortable position. His extra space more than outweighs the pair of
+bishops, not to mention that Black is lagging on development and he has to be
+careful that his king does not get mated after 0-0 on the dark squares.}  13...
+O-O 14. c5 $1 { Gaining more space and making it difficult to find a move for
+Grischuk. So difficult, in fact, that Grischuk was already in time pressure by
+this point! With only 14 moves played he had about 25 minutes left, not the
+situation anyone would like to be in.}  14... d6 $6 { Perhaps panic, perhaps a
+miscalculation. In either case this move simply gives Giri a great initiative.}
+ 15. cxd6 exd6 16. exd6 Qb6 17. Qh4 Nc5 { Perhaps Grischuk was counting on some
+activity to compensat efor the pawn, but in excellent fashion the Dutch player
+gives back the pawn an obtains a strong attack.}  18. Be3 $1 Qxb2 19. Nbd2 Nd7
+20. Rab1 $1 Qxa3 21. Rxb8 Nxb8 { The poor knight has moved 7  (  !  )  times in
+the opening, and although Black is now up a pawn instead of down material, his
+kingside is difficult to defend. The onslaught continues}  22. Bh6 Nd7 $1 { The
+best way of organizing a defense. The knight must hurry up and defend h7.}  23.
+Bxg7 $6 { A little sloppy.}  ( 23. Ng5 Nf6 24. Nde4 Qa5 $1 25. Rd1 $1 { with a
+huge initiative for White.}  ) 23... Kxg7 24. Qd4+ Kg8 25. Ne4 Re8 26. Kh2 { A
+cheeky move, and for practical reasons a good one, though the objective
+evaluation is that this is too slow. Giri was mostly putting pressure on
+Grischuk's clock that was ticking down.}  26... a5 $4 { The losing move.}  (
+26... Qa5 $1 { Returning with the queen to the defense was paramount. Here it
+is impossible for Giri to organize something decisive! There are insufficient
+pieces to create threats once the queen returns.} ) 27. Nfg5 $1 { Very strong.
+Now there is no way of avoiding the move Nf6+.}  27... Rf8 ( 27... h6 28. Nf6+
+Nxf6 29. Qxf6 { is decisive, with threats on e8 and f7}  29... Rf8 30. Nxf7 $18
+) 28. Nf6+ Nxf6 29. Qxf6 { Re8 is now a threat.}  29... Qa2 30. Re7 ( 30. Nxh7
+$1 Kxh7 31. Re4 { was also lights out.}  ) 30... Bf5 31. Nxf7 $6 { good enough,
+but the easier variation was}  ( 31. d7 Qxf2 32. d8=Q { and Black runs out of
+checks soon}  ( 32. Ne6 $1 { is a fancy way of winning.} ) ) 31... Qxf7 32.
+Rxf7 Rxf7 33. Qd8+ Kg7 34. Qxa5 Bd7 35. Qc5 Rf5 36. Qa7 Rf7 37. g4 {
+Unfortunately for Grischuk he doesn't have any real hope of setting up a
+fortress. His darksquare are too weak.}  37... Kf6 38. f4 Kg7 39. Kg3 Kg8 40.
+Qe3 Kg7 41. h4 Kg8 42. Qe5 { White's next moves are h5-h6 and Black will be
+zugzwanged. A nice game from Giri, even though the finish might have not been
+the most precise.}   1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.16"]
+[Round "1"]
+[White "Anand, V."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2805"]
+[ECO "C65"]
+[EventDate "2015.06.17"]
+[PlyCount "74"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2804"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nbd2 O-O 6. Bxc6 bxc6 7. Nxe5 Re8 8.
+Nef3 d5 9. O-O Bg4 10. h3 Bh5 11. Qe2 ( 11. e5 $5 { seems like the test of
+fire, but Black has a clever resource.}  11... Rxe5 12. g4 Nxg4 { otherwise e5
+is hanging.}  13. Nxe5 Qh4 $1 { And White can do nothing to prevent the
+perpetual check on g3 and h3 since the f2 pawn is pinned by the c5 bishop.}  )
+11... dxe4 12. Nxe4 h6 13. Be3 Nxe4 14. dxe4 Rxe4 15. Qd3 Bxf3 16. Qxd8+ Rxd8
+17. Bxc5 Be2 18. Rfc1 a5 { With eveerything traded off and the opposite colored
+bishops on the board it is clear that this will be a draw, which it was on move
+37.}  19. b3 a4 20. Re1 Rd2 21. Rac1 axb3 22. axb3 Rd5 23. Be3 Bh5 24. Ra1 Bg6
+25. Ra7 Re7 26. c4 Rd8 27. Rea1 Bc2 28. b4 Rd1+ 29. Rxd1 Bxd1 30. b5 cxb5 31.
+cxb5 Re5 32. Rxc7 Rxb5 33. Rc5 Rxc5 34. Bxc5 Bc2 35. Bd6 Bd1 36. Bc5 Bc2 37.
+Bd6 Bd1  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.16"]
+[Round "1"]
+[White "Nakamura, Hi"]
+[Black "Hammer, J."]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2677"]
+[ECO "A20"]
+[EventDate "2015.06.17"]
+[PlyCount "105"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2802"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Nb6 7. b3 Be7 8. Bb2
+f6 9. d4 e4 10. Ne1 f5 11. f3 exf3 12. Nxf3 Nd5 13. Qd3 O-O 14. e3 Be6 15. a3
+Qd7 16. Nbd2 Rad8 17. Rac1 Nb6 18. b4 a6 19. Nb3 Na4 20. Ba1 Bd5 21. Nbd2 Qe6
+22. Rfe1 Nb6 23. e4 fxe4 24. Nxe4 Qg6 25. Qe2 Rfe8 26. Ne5 Nxe5 27. dxe5 c6 28.
+Bd4 Nd7 29. Bf3 Rf8 30. Bh5 Qh6 31. Be3 Qe6 32. Bf4 a5 33. Ng5 Qf5 34. Bg4 Qg6
+35. Bh5 Qf5 36. e6 Nf6 37. Bf7+ Kh8 38. Rf1 Ne4 $2 39. Nxe4 $1 Qxe4 40. Qxe4
+Bxe4 41. Be3 $1 { This is the key move. When Nakamura saw this he felt
+confident in a victory. The point is that the threat of Bc5 is too strong,
+simply destroying the blockade of the e6 pawn.}  41... axb4 ( 41... Rc8 42. Bc5
+Rc7 43. Bb6 { costs Black a pawn, and it doesn't improve his position much, but
+it was his best bet.}  ) 42. Bc5 Rd2 $6 { simply hastening his defeat.}  43.
+Rfe1 $1 Bxc5+ 44. Rxc5 Rg2+ 45. Kf1 { Black runs out of threats and White wins
+easily with his powerful passed pawn.}  45... b3 46. Rxe4 b2 47. Re1 Rxh2 48.
+Rce5 Rh1+ 49. Kg2 b1=Q 50. Rxb1 Rxb1 51. e7 Ra8 52. e8=R+ Rxe8 53. Rxe8#  1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.16"]
+[Round "1"]
+[White "Carlsen, M."]
+[Black "Topalov, V."]
+[Result "0-1"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2798"]
+[ECO "D43"]
+[EventDate "2015.06.17"]
+[PlyCount "120"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2876"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Rc1
+g6 9. Be2 Bg7 10. cxd5 exd5 11. b4 a6 12. a4 O-O 13. b5 axb5 14. axb5 Qd6 15.
+O-O Nb6 16. Qb3 Rb8 17. Nd1 Bf5 18. Nb2 Rfc8 19. Nd3 Bxd3 20. Qxd3 c5 21. dxc5
+Rxc5 22. h4 Na4 23. h5 Rbc8 24. Rxc5 Nxc5 25. Qc2 gxh5 26. Nd4 Qg6 27. Nf5 Bf8
+28. Rd1 Qe6 29. Rc1 Nb3 30. Qxc8 Nxc1 31. Qxc1 Qxf5 32. Qc7 Qb1+ 33. Bf1 d4 34.
+exd4 Qd1 35. Qe5 Bg7 36. Qe8+ Bf8 37. Qd8 Kg7 38. Qd5 b6 39. Qe5+ Kg8 40. Qf6
+Bg7 41. Qxb6 Bxd4 42. Qxh6 Qg4 43. Qd6 Qd1 44. Qd8+ Kh7 45. Qc7 Kg7 46. b6 Qg4
+47. b7 Qh4 48. g3 Qf6 49. Qc2 Qe5 50. Qd3 Ba7 51. Qf3 Qf6 52. Qe2 Qc3 53. Kh2
+Qd4 54. Qf3 Bb8 55. Kh3 Bc7 56. Be2 Bb8 57. Bd1 f5 58. Be2 f4 59. Qxh5 Qxf2 60.
+Qg5+ { After a long defence, Topalov can resist no more. The combined threats
+of the queen and bishop are decisive.}  60... Kf7 { And White lost! He believed
+to have an extra 15 minutes given to him on move 60, but they simply did not
+exist.}  ( 60... Kf7 61. Bc4+ Ke8 62. Bb5+ Kf7 63. Qf5+ Ke7 64. Qd7+ Kf6 65.
+Qd8+ Kg7 66. Qe7+ Kh6 67. Qf6+ Kh7 68. Bd3+ Kg8 69. Bc4+ Kh7 70. Qf7+ Kh6 71.
+Qf8+ Kg5 72. Qg7+ Kf5 73. g4+ Ke4 74. Qg6+ Ke5 75. Qe6+ Kd4 76. Qb6+ { And
+Black loses. It might seem like a long sequence, but White should somehow
+stumble upon it when he sees that other moves are not winning.}  )  0-1
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.16"]
+[Round "1"]
+[White "Vachier Lagrave, M."]
+[Black "Aronian, L."]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2780"]
+[ECO "D38"]
+[EventDate "2015.06.17"]
+[PlyCount "117"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2723"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 Nbd7 8. e3
+g5 9. Bg3 Ne4 10. Qc2 h5 11. h3 Bxc3+ 12. bxc3 Nxg3 13. fxg3 Nb6 14. Bd3 g4 15.
+hxg4 Bxg4 16. O-O Qe7 17. Ne5 Be6 18. Bf5 Nd7 19. e4 $1 { Excellent, opening up
+the position.}  19... Nxe5 20. exd5 $1 { The point. Black has no good way of
+responding to this move.}  20... O-O-O ( 20... Bxd5 21. Rae1 Be6 22. Rxe5 {
+should cost at least a pawn, but might have been the lesser evil.}  ) 21. dxe6
+fxe6 22. Rae1 $1 exf5 23. Rxe5 Qa3 24. Rfxf5 $1 { White's rooks are dominant,
+and he has an extra pawn. Black was unable to create counterplay and after many
+moves MVL converted his two extra pawns  (  after taking on h5  )  .}  24...
+Kb8 25. Rxh5 Rxh5 26. Rxh5 a6 27. Kh2 Rf8 28. Qb3 Qe7 29. Qd5 Qe2 30. a4 Qd3
+31. c4 a5 32. Rh4 Qc3 33. g4 Qe1 34. Rh7 Qc1 35. Qe5 Qxc4 36. g5 Rg8 37. Rh8
+Qf7 38. Rxg8+ Qxg8 39. Qf6 b5 40. axb5 a4 41. g6 a3 42. b6 a2 43. Qe5 Qd8 44.
+bxc7+ Qxc7 45. g7 Qxe5+ 46. dxe5 a1=Q 47. g8=Q+ Kc7 48. Qc4+ Kd8 49. Qd5+ Ke7
+50. Qd6+ Ke8 51. Qc6+ Ke7 52. Qc7+ Ke6 53. Qd6+ Kf7 54. Qd7+ Kf8 55. Qf5+ Ke7
+56. g3 Qc3 57. Kh3 Ke8 58. Kh4 Qe1 59. Qf4  1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.17"]
+[Round "2.1"]
+[White "Grischuk, Alexander"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2780"]
+[ECO "A22"]
+[EventDate "2015.06.16"]
+[PlyCount "60"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2781"]
+
+1. c4 Nf6 2. Nc3 e5 3. e3 Bb4 4. Nge2 c6 5. a3 Ba5 6. b4 Bc7 7. Bb2 O-O 8. Ng3
+d5 9. cxd5 Nxd5 10. Qc2 Nd7 11. Bd3 N7f6 12. O-O Nxc3 13. Bxc3 Be6 14. Rab1 Kh8
+15. Rfd1 Ng4 16. Nf5 g6 $1 { This position is already very complicated. White
+would like to retreat his knight, but he can't!}  17. f3 ( 17. Ng3 Qh4 18. h3
+Nxf2 19. Kxf2 Kg8 $1 { With the incoming e4 and a very strong attack for
+Black.}  ) ( 17. h3 $155 Nxf2 18. Kxf2 gxf5 $15 ) 17... Nxh2 $1 18. Kxh2 gxf5
+19. Bxf5 Qh4+ 20. Kg1 Rg8 { Material is still even, but there are problems here
+for White: Black's rook is threatening a sacrifice on g2 and White's king would
+be too exposed.}  21. Bxe6 fxe6 22. Qe4 $1 { An excellent resource in a
+position that would have been very difficult to hold in time pressure.}  ( 22.
+d3 Raf8 $36 ) 22... Rxg2+ 23. Kxg2 Rg8+ 24. Qg4 ( 24. Kf1 Qh2 $19 ) 24... Rxg4+
+25. fxg4 Qxg4+ 26. Kf2 { The computer gives Black an edge, but that doesn't
+seem right. White has better practical chances than Black, so Aronian forces
+the draw.}  26... Qh4+ 27. Ke2 Qg4+ 28. Kd3 Qf5+ 29. Ke2 Qg4+ 30. Kd3 Qf5+ 
+1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.17"]
+[Round "2.2"]
+[White "Giri, Anish"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[BlackElo "2804"]
+[ECO "A14"]
+[EventDate "2015.06.16"]
+[PlyCount "105"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2773"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. b3 c5 7. Bb2 Nc6 8. e3 b6
+9. Nc3 Ba6 10. Qe2 Qd7 11. Rfd1 Rac8 12. Nb5 Rfd8 13. Rac1 dxc4 14. bxc4 Qd3
+15. Qxd3 Rxd3 16. Bf1 Rd7 17. d4 Rcd8 18. a4 Bb7 19. d5 exd5 20. Bh3 dxc4 21.
+Bxd7 Nxd7 22. Nd6 Ba6 23. Nxc4 f6 24. Rd2 Bxc4 25. Rxc4 a6 26. Rc1 b5 27. axb5
+axb5 28. Ba3 Kf7 29. Rxd7 Rxd7 30. Bxc5 Ne5 31. Nxe5+ fxe5 32. Bxe7 Kxe7 33.
+Kf1 Kd6 34. Ke2 e4 35. Rc8 Ra7 36. Kd2 Ra2+ 37. Kc3 Rxf2 38. Rb8 Rxh2 39. Rxb5
+Ke6 40. Kd4 Rg2 41. Kxe4 Rxg3 42. Kf4 Rg1 43. Rb6+ Kf7 44. e4 h5 45. Rb7+ Ke6
+46. Rb6+ Kd7 47. Kf5 Kc7 48. Rb2 Kd7 49. e5 Rf1+ 50. Kg5 Ke6 51. Kxh5 Kxe5 52.
+Kg4 g5 53. Kxg5  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.17"]
+[Round "2.3"]
+[White "Topalov, Veselin"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[BlackElo "2802"]
+[ECO "C78"]
+[EventDate "2015.06.16"]
+[PlyCount "104"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2798"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. Nxe5
+Nxe5 9. d4 Bxd4 10. Qxd4 d6 11. Bf4 c5 12. Qd2 O-O 13. f3 c4 14. Ba2 Be6 15.
+Nc3 b4 16. Ne2 b3 17. Bb1 bxc2 18. Bxc2 Rxb2 19. Rfb1 Rxb1+ 20. Rxb1 Qc7 21.
+Rd1 Ne8 22. Qb4 Nd3 23. Bxd3 cxd3 24. Rxd3 Qc4 25. Qa3 d5 26. Kf2 Qc6 27. Nd4
+Qc4 28. exd5 Qxd5 29. Nxe6 Qxe6 30. Qb3 Nf6 31. Qxe6 fxe6 32. Rb3 Rc8 33. Bd2
+Rc2 34. Ke2 Nd5 35. Kd3 Rc7 36. Rb8+ Kf7 37. g4 Rd7 38. Kc2 Rc7+ 39. Kb3 e5 40.
+Ra8 Rb7+ 41. Kc2 Rc7+ 42. Kd3 Rd7 43. Ke2 Rd6 44. h4 Nf4+ 45. Bxf4 exf4 46. a5
+h6 47. h5 Ke7 48. Ra7+ Kf8 49. Ke1 Kg8 50. Ke2 Kf8 51. Ke1 Kg8 52. Ke2 Kf8 
+1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.17"]
+[Round "2.4"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2876"]
+[ECO "C67"]
+[EventDate "2015.06.16"]
+[PlyCount "89"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2805"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 { The Berlin seemed to many as the logical
+choice. Carlsen had just lost a game in the strangest of fashions, and going
+for Caruana's throat after that might not have been so smart. That being said -
+I think that Caruana is one of the best players, if not the best player in the
+World, in the Berlin.}  4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+
+Kxd8 9. h3 h6 10. Rd1+ Ke8 11. Nc3 Ne7 12. b3 { Caruana had tried Bf4 a couple
+of times before. This move is a little older and hasn't been seen since 2013, a
+rarity for the Berlin.}  12... Bf5 { The computer's top choice, though not the
+most common idea.}  ( 12... Ng6 13. Ne2 a5 14. a4 Be6 { was Kamsky-Akobian,
+2012.}  ) 13. Nd4 Bh7 14. Bb2 Rd8 15. Nce2 { Part of Caruana's preparation.}  (
+15. e6 Nc8 $5 { with a complicated position in Polgar-Howell, 2013.}  ) 15...
+Nd5 16. c4 Nb4 17. Nf4 { Fabiano played up to this point almost instantly, but
+stopped doing so after Carlsen's response.}  17... Rg8 $5 { What an interesting
+move! It is designed against e6.}  18. g4 { Expanding on the kingside is one of
+the most common motifs in the Berlin. Here Caruana secures f5 for his knight.} 
+( 18. e6 Bd6 19. Nh5 { doesn't attack the g7 pawn with tempo anymore.}  ) 18...
+Na6 $6 { This move regroups a knight that has already moved too much. Even
+though this is a Berlin, Black has to develop at some point.}  ( 18... Be7) 19.
+Nf5 Nc5 20. Rxd8+ Kxd8 21. Rd1+ Kc8 22. Ba3 $1 { A very nice prophylactic move
+- aimed against Ne6.}  22... Ne6 $2 { Based on a complete miscalculation!}  (
+22... b6 $14) 23. Nxe6 Bxa3 ( 23... fxe6 24. Be7 { was the trick Carlsen forgot
+about when he played Ne6. A big miscalculation for a World Champion!}  24... b6
+25. Rd8+ Kb7 26. Bxf8 exf5 27. e6 $18 ) 24. Nexg7 Bf8 { The tactics don't work
+out for Carlsen. Caruana can't retreat his knight immediately. but he has a
+trick up his sleeve.}  25. e6 Bxf5 ( 25... fxe6 26. Nxe6 { gives Black no
+chance to take the hanging knight on f5, since there is a checkmate threat on
+d8.}  ) 26. Nxf5 fxe6 27. Ng3 { The resulting position is equal in pawns, but
+Caruana is dominating. His knight has several excellent anchor spots, including
+h5 and e4. His pawn majority on the kingside will be impossible to stop and
+Black's king is cut off from the kingside. He makes the rest look very easy,
+which it was.}  27... Be7 28. Kg2 Rf8 29. Rd3 Rf7 30. Nh5 Bd6 31. Rf3 { Black
+cannot afford to trade rooks, but giving up the f-file is not a pretty sight
+either.}  31... Rh7 32. Re3 $1 Re7 33. f4 $1 Ba3 34. Kf3 Bb2 35. Re2 Bc3 36. g5
+Kd7 37. Kg4 Re8 38. Ng3 Rh8 39. h4 b6 40. h5 c5 41. g6 { The passed pawn on g6
+is too much. Carlsen by this point had a defeated look on his face - and it's
+hard to blame him.}  41... Re8 42. f5 exf5+ 43. Kf4 Rh8 44. Nxf5 Bf6 45. Rg2 
+1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.17"]
+[Round "2.5"]
+[White "Hammer, Jon Ludvig"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2723"]
+[ECO "A26"]
+[EventDate "2015.06.16"]
+[PlyCount "121"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2677"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. e4 d6 8. d3 h6
+9. Be3 Kh7 10. h3 Nd7 11. Rc1 Nd4 12. Bxd4 exd4 13. Ne2 c5 14. h4 b5 15. cxb5
+Rb8 16. a4 a6 17. b4 axb5 18. bxc5 dxc5 19. axb5 Rxb5 20. Nf4 Ne5 21. Bh3 Bb7
+22. h5 Nxf3+ 23. Qxf3 Qd6 24. Rb1 Rb4 25. Nd5 Bxd5 26. exd5 c4 27. Rxb4 Qxb4
+28. dxc4 Qxc4 29. d6 Qc5 30. d7 Qxh5 31. Qxh5 gxh5 32. Bf5+ Kg8 33. Re1 Bf6 34.
+Re8 h4 35. g4 Kg7 36. f4 Bd8 37. Kg2 Bf6 38. Bd3 Bd8 39. Kf3 Bf6 40. Bf1 Bd8
+41. Ke4 Bf6 42. Kd5 Rg8 43. Kc6 Bd8 { The computer claims, of course, that
+White is better, but it doesnt' see a good way of making progress.}  44. Rxd8 {
+The human reaction is to take the material, unfortunately it is insufficient.} 
+44... Rxd8 45. Kc7 Rf8 46. d8=Q Rxd8 47. Kxd8 h5 $1 { This is the move that
+saved Black. It allows the king to come into the game and draw... by a single
+move!}  48. gxh5 Kh6 49. Ke7 Kxh5 50. Be2+ ( 50. Kxf7 Kg4 { wins White's last
+pawn.}  ) ( 50. Kf6 Kg4 51. Ke5 Kf3 { and White has the choice between letting
+one of the pawns queen, or allowing Black to take on f4.}  ) 50... Kh6 51. Bf1
+{ Already necessary, other moves even lose:}  ( 51. Kxf7 h3 52. Ke7 h2 53. Bf3
+d3 $19 ) 51... Kh5 52. f5 Kg4 53. f6 h3 54. Bxh3+ ( 54. Kxf7 h2 55. Bg2 d3 56.
+Kg7 d2 57. f7 d1=Q 58. f8=Q $11 ) 54... Kxh3 55. Kxf7 d3 56. Kg7 d2 57. f7 d1=Q
+58. f8=Q Qg4+ 59. Kf7 Qf5+ 60. Ke7 Qxf8+ 61. Kxf8 { Hammer looked absolutely
+devastated after the game finished, but I have been unable to find a clear win
+for him in any variation!}   1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.18"]
+[Round "3.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2798"]
+[ECO "D48"]
+[EventDate "2015.06.16"]
+[PlyCount "56"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2723"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 { The Meran has been an interesting
+battlefield for top players for many decades now. It is far from being fully
+understood, as is clear in this game.}  5... Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. e4 c5 11. d5 Qc7 12. dxe6 fxe6 13. Bc2 { This position has
+been seen in thousands of games still.}  13... Bd6 14. Ng5 Nf8 15. f4 O-O-O 16.
+Qe1 { Qe2 and Qe1 are different variations, both have been seen many times.} 
+16... e5 17. f5 $6 { From a practical perspective, even though this position
+has been seen in dozens of games still, I cannot recommend closing the center.
+White loses any chance for active play, his e4 pawn becomes a real target and
+it is far easier to find moves and plans for Black than for White!}  ( 17. Nd5
+$5 Bxd5 18. exd5 exf4 19. Bd2 $1 { Is very unclear and has been seen in some
+old strong games, such as Piket-Khalifman, 2000.}  ) 17... h6 18. Nf3 N8d7 19.
+Kh1 ( 19. Bd2 { seems more accurate, Kh1 was maybe unnecessary.} ) 19... Rhe8 {
+Technically the novelty of the game.}  ( 19... Nb8 { was played in a strong
+correspondence game between Knight-Loinjak, 2008.} ) 20. Bd2 { Topalov
+criticized this plan after the game, thinking that the idea to put the bishop
+on a5 was not good. I tend to agree with him, but also fail to come up with a
+better idea.}  ( 20. Be3 b4 { leaves the e4 pawn undefended.}  ) ( 20. b3 { was
+probably ok, trying to prevent c4 or b4 later, but after}  20... Nb8 $1 { With
+the idea of Nc6-d4 Black seems to have the edge.}  ) 20... Qc6 $1 { I like this
+move, putting further pressure on e4 and disallowing any tricks on the a7-d8
+diagonal.}  21. Rd1 Nb6 { Another strong move. Black further controls d5, maybe
+threatens Nc4 and has the idea of playing b4 in the near future now that
+White's knight cannot go to a4.}  22. Nd5 $2 { Perhaps based on a
+miscalculation, perhaps based on sheer panic of not knowing what to do.}  22...
+Nbxd5 23. exd5 Qd7 $1 { Not the only move for an advantage, but definitely the
+most accurate. Black will take on d5 when he feels he is ready, and for now
+prepares the advance of the e-pawn down the board.}  24. Ba5 e4 $1 25. Ng1 (
+25. Bxd8 exf3 { is completely winning as all of White's pieces are hanging.}  )
+25... Bc7 { White isn't even down material yet, but d5 is very lose and Black's
+strong pieces are better than MVL's. Another important factor is the pressure
+generated by the e-pawn.}  26. d6 Bxa5 27. Qxa5 e3 $1 28. Ne2 $2 { Allowing
+Topalov to finish the game off quickly, but it was hopeless regardless.}  28...
+Qc6 { MVL simply threw in the towel, and it's impossible to blame him.}  (
+28... Qc6 29. Rf3 Rxd6 { and Black has every plus in this position.}  )  0-1
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.18"]
+[Round "3.3"]
+[White "Carlsen, Magnus"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2773"]
+[ECO "B51"]
+[EventDate "2015.06.16"]
+[PlyCount "152"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2876"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 Nf6 5. Qe2 a6 6. Ba4 b5 7. Bc2 e6 8. d4 Bb7
+9. O-O Be7 10. Re1 O-O 11. Nbd2 cxd4 12. cxd4 Rc8 13. Nf1 Re8 14. Ng3 Bf8 15.
+Be3 Rc7 16. Bd3 e5 17. d5 Nc5 18. Bc2 b4 19. a3 b3 20. Bxc5 Rxc5 21. Bxb3 Qb6
+22. Bc4 Rec8 23. Bd3 g6 24. Nf1 Bh6 25. Ne3 a5 26. b4 axb4 27. axb4 R5c7 28. b5
+Qc5 29. h3 Nh5 30. Qb2 Qb6 31. Qb4 Bxe3 32. Rxe3 Rc3 33. Rae1 f5 $5 { Giri had
+sacrificed a pawn on the queenside for some pressure, but Carlsen slowly but
+surely pushed him back. Now the Dutch tries some kind of desperate attempt to
+break through the center and create complications.}  ( 33... Nf6 34. g3 { and
+White will slowly but surely consolidate and use his pawn on the queenside.}  )
+34. exf5 Nf4 35. Be4 $1 R3c5 36. fxg6 hxg6 37. Bxg6 $1 { A brilliant
+sacrifice... even though the position remains very complicated!}  ( 37. Nh4 {
+was perhaps easier from a human point of view.} ) 37... Rxb5 ( 37... Nxg6 38.
+Qg4 Kf7 39. Ng5+ { loses very quickly.}  ) 38. Qe4 $2 { Surprisingly, White has
+no win after this move. Carlsen had to find one of most brilliant, machine-like
+and unlikely moves I have seen.}  ( 38. Bf7+ $3 { This idea did not occur to
+any of us in the analysis room. Talking later to Kasparov about it, before he
+knew the answer to the "puzzle", he only knew that Qe4 was incorrect as Carlsen
+played it. Instantly he thought of 38.Bh7+, but that move fails to the
+surprising 38...Kh8! And instantly he smiled, thought for a second, and said.
+"Of course, 38.Bf7+!"}  38... Kxf7 39. Qe4 { Black cannot prevent the threats
+of Qf5+ and Ng5+, even then it is not obvious how the attack proceeds, but
+Black simply cannot save himself. We will not overwhelm the readers with the
+analysis and instead invite you to try out the different variations, with or
+without your favorite engine!}  ) 38... Rf8 39. Nxe5 $6 { spectacular but
+insufficient}  ( 39. Nh4 $1 Bxd5 { and White is up a pawn, but the position is
+not clear at all.}  ) 39... dxe5 40. Rg3 Rxd5 $1 { The only move to survive,
+and Giri did it with confidence. Carlsen thought for a long time after this
+trying to come up with some idea, but there simply is no win in this position
+any more.}  41. Qb1 { Inviting simplifications.}  41... Qxb1 42. Bxb1+ Kh8 43.
+Be4 Rd7 44. Bxb7 Rxb7 45. Rxe5 Rh7 46. Re4 Rhf7 47. Kh2 Kh7 { A dead drawn
+position. Carlsen got more chances than he deserved, but Giri never let go of
+the draw.}  48. Rf3 Kg6 49. h4 Nh5 50. Rxf7 Rxf7 51. Re2 Nf4 52. Rd2 Nh5 53. g3
+Nf6 54. Kg2 Rd7 55. Ra2 Rd5 56. Ra4 Re5 57. g4 Re4 58. Rxe4 Nxe4 59. Kf3 Nd6
+60. Kf4 Nf7 61. Ke4 Kf6 62. f4 Nd6+ 63. Kd5 Nb5 64. h5 Nc3+ 65. Kd4 Nb5+ 66.
+Kc4 Nd6+ 67. Kc5 Ke6 68. Kc6 Nf7 69. Kc7 Nh6 70. g5 Nf7 71. g6 Nh6 72. Kd8 Kf5
+73. Ke7 Kxf4 74. Kf8 Kg5 75. g7 Kxh5 76. g8=Q Nxg8  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.18"]
+[Round "3.4"]
+[White "Aronian, Levon"]
+[Black "Hammer, Jon Ludvig"]
+[Result "1/2-1/2"]
+[BlackElo "2677"]
+[ECO "A29"]
+[EventDate "2015.06.16"]
+[PlyCount "114"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2780"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8. a3
+O-O 9. d3 Be6 10. Be3 Nd5 11. Bd2 f6 12. Qc2 Nb6 13. b4 Nd4 14. Nxd4 exd4 15.
+Na4 Bd5 16. Nxb6 cxb6 17. Bxd5+ Qxd5 18. Rfc1 Qd7 19. Qc7 Rad8 20. Rc2 Kf7 21.
+Rac1 g5 22. Qxd7 Rxd7 23. Rc7 Rfd8 24. g4 f5 25. h3 b5 26. Kg2 Ke6 27. Rxd7
+Rxd7 28. Kf3 Kf6 29. Rg1 Bd8 30. Bc1 Kg6 31. gxf5+ Kxf5 32. Rg4 Bf6 33. Bb2 Rd8
+34. Re4 h5 35. Kg3 Be5+ 36. Kg2 Bf6 37. Kf1 Rd7 38. Ke1 Rd8 39. Kd1 Rd7 40. Kc2
+Rd8 41. Kb3 Kg6 42. f3 Kf5 43. a4 bxa4+ 44. Kxa4 a6 45. Kb3 b5 46. Kc2 Rc8+ 47.
+Kd1 Rd8 48. Bc1 Ra8 49. Bd2 Rg8 50. Bc1 Ra8 51. Bb2 Rd8 52. Kc2 Rc8+ 53. Kd2
+Rd8 54. Kd1 Rd6 55. Bc1 Rd8 56. Bb2 Rd6 57. Bc1 Rd8  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.18"]
+[Round "3.5"]
+[White "Anand, Viswanathan"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[BlackElo "2781"]
+[ECO "B33"]
+[EventDate "2015.06.16"]
+[PlyCount "81"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2804"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3
+b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Rb8 13. a4 bxa4 14. Ncb4 Nxb4
+15. cxb4 O-O 16. Rxa4 a5 17. h4 Bh6 18. b5 Bd7 19. Nc3 d5 20. exd5 Kh8 21. Be2
+f5 22. g3 Qb6 23. O-O Rbd8 24. Kg2 Bc8 25. f4 Rfe8 26. fxe5 Rxe5 27. Qd4 Qf6
+28. Rc4 Bd7 29. Rf3 Bxb5 30. Nxb5 Rxe2+ 31. Kh3 Rxb2 32. Rc6 Qxd4 33. Nxd4 Rd2
+34. Ne6 Re8 35. Rxf5 g6 36. Rf6 Kg8 37. d6 Bg7 38. Nxg7 Kxg7 39. Rf4 Kg8 40.
+Rc7 Rxd6 41. Rff7  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.18"]
+[Round "3.1"]
+[White "Nakamura, Hikaru"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2805"]
+[ECO "A35"]
+[EventDate "2015.06.16"]
+[PlyCount "111"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2802"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 g6 7. O-O Bg7 8.
+Nxd5 Qxd5 9. d3 O-O 10. Be3 Bd7 11. Nd4 Qd6 12. Nxc6 Bxc6 13. Bxc6 Qxc6 14. Rc1
+Qa6 15. Qb3 b6 16. Rc4 Rfd8 17. Rfc1 Rd7 18. a3 Rad8 19. Rf4 Bf6 20. h4 Qb7 21.
+Rc2 Qb8 22. Rf3 Rd5 23. Bg5 Qd6 24. Bxf6 exf6 25. Qa4 a5 26. Qf4 f5 27. Qxd6
+R8xd6 28. Rf4 Rd4 29. Rxd4 Rxd4 30. Kg2 Kg7 31. Rc3 Kf6 32. e3 Rd6 33. Kf3 Ke5
+34. a4 Kd5 35. Ke2 Rd7 36. Kd2 h6 37. Rc1 Kc6 38. Kc3 { The endgame here looks
+to be about even. Perhaps White has the tiniest of pulls, but that must be the
+extent of it.}  38... b5 $2 { An inexplicable move, shattering his own pawn
+structure. Still, with perfect play one would think Black should have no
+problems holding a draw.}  ( 38... Kd5 $11) 39. axb5+ Kxb5 40. b3 g5 $4 { But
+this move is completely suicidal. The mistake is very hard to understand. Why
+does Black shatter his own pawn structure and give White such a wonderful open
+file to attack his pawns? It's a mistake that doesn't seem to be based on a
+miscalculation... just an incomprehensible move!}  41. hxg5 hxg5 42. Rh1 Ra7
+43. Rh7 f4 44. gxf4 gxf4 45. e4 $1 { With this move White threats to wrap
+around with Rh4 and take the f4 pawn for free. Caruana attempts some
+counterplay but it falls way short.}  45... a4 46. bxa4+ Rxa4 47. Rxf7 Ra3+ 48.
+Kd2 Ra2+ 49. Ke1 Ra3 50. Ke2 Ra2+ 51. Kf3 Rd2 52. Rd7 Kc6 53. Rd5 Kb6 54. e5
+Kc6 55. Rd8 Kc7 56. Rd6 { 1-0  (  19  )  Nakamura,H  (  2802  )  -Caruana,F  ( 
+2805  )  Stavanger NOR 2015 [Ramirez Alvarez,Alejandro]}   1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.19"]
+[Round "4.1"]
+[White "Topalov, Veselin"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2780"]
+[ECO "D38"]
+[EventDate "2015.06.16"]
+[PlyCount "115"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2798"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qa4+ Nc6 8. e3
+O-O 9. Be2 dxc4 10. O-O Bd7 11. Bxc4 Bxc3 12. bxc3 Rfd8 13. Be2 Be8 14. Qa3 Qe7
+15. Qb2 Na5 16. Qb4 Qxb4 17. cxb4 Nc6 18. Rab1 a5 19. bxa5 Nxa5 20. Rfc1 Rdc8
+21. Ne1 Ra7 22. Nd3 Nc6 23. Bf3 Nd8 24. Nb4 Ra5 25. h4 Kf8 26. Rc3 c6 27. Bd1
+Ke7 28. Bb3 c5 29. Nd3 b6 30. dxc5 bxc5 31. f3 Rc7 32. e4 Nb7 33. Rbc1 Ba4 34.
+e5 Rc6 35. Kh2 Rb6 36. h5 Bxb3 37. axb3 Kd7 $2 { After playing a tough and
+passive defense, Aronian seemed to be finally be heading towards a draw. The
+position seems even as White can only win the c5 pawn by losing his own b3
+pawn, but disaster strikes... out of nowhere!}  ( 37... Rab5 38. Nxc5 Rxc5 39.
+Rxc5 Nxc5 40. Rxc5 Rxb3 ( 40... Rb7 $1 { with good chances to hold the
+endgame.} ) 41. Rc7+ Ke8 42. Rc8+ Ke7 43. Rg8 $16 ) 38. b4 $1 { Strangely this
+pawn is poisoned due to a mating attack.}  38... cxb4 39. Rc8 { The immediate
+threat is R1c7 mate, not an easy move to parry!}  39... Nd8 40. R1c7+ Ke8 41.
+Nc5 { This is the point of Topalov's combination - which Aronian clearly
+missed. Rd7 is unstoppable next move, creating a deadly Rxd8 mating threat. The
+Armenian gave up the exchange and put up a valiant fight, but the material
+difference was too big.}  41... Rxc5 42. Rxc5 b3 43. Rc1 Kd7 44. R8c7+ Ke8 45.
+Rc8 Kd7 46. R8c3 Ke7 47. Rd3 Nb7 48. Rdc3 Nd8 49. f4 f6 50. Rc7+ Ke8 51. Rxg7
+fxe5 52. Rcc7 Kf8 53. Rh7 Kg8 54. Rcg7+ Kf8 55. Rd7 Kg8 56. Rxh6 Nf7 57. Rg6+
+Kh8 58. Rf6  1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.19"]
+[Round "4.2"]
+[White "Giri, Anish"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[BlackElo "2802"]
+[ECO "C78"]
+[EventDate "2015.06.16"]
+[PlyCount "117"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2773"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. a4 Rb8
+9. d4 Bb6 10. Na3 O-O 11. axb5 axb5 12. Nxb5 Bg4 13. Bc2 exd4 14. cxd4 d5 15.
+e5 Ne4 16. Ra3 f6 17. exf6 Qxf6 18. Nc3 Bxf3 19. gxf3 Nxc3 20. bxc3 Qxf3 21.
+Qxf3 Rxf3 22. Kg2 Rbf8 23. Bb3 R3f5 24. Ra2 Na5 25. Bc2 R5f6 26. Bd3 Nb7 27.
+Re1 Rf3 28. Rd2 Ba5 29. Bb2 c5 30. Ba6 Nd6 31. dxc5 Ne4 32. Rxd5 Rxf2+ 33. Kg1
+Rxb2 34. Bc4 Kh8 35. Rxe4 Rc2 36. Rf5 Rd8 37. Rd5 Rf8 38. Bd3 Rxc3 39. Kg2 h6
+40. Ra4 Bd8 41. Re4 Bf6 42. Re6 Kg8 43. c6 Rc8 44. Rdd6 Rc5 45. Ba6 Ra8 46. Be2
+Kf7 47. Re3 Ra2 48. Kh3 Rac2 49. Bf3 R2c3 50. Bd5+ Rxd5 51. Rxf6+ Kxf6 52. Rxc3
+Rd8 53. Kg4 Rc8 54. c7 Ke6 55. Kh5 Kd6 56. Rd3+ Ke6 57. Rc3 Kd6 58. Rd3+ Ke6
+59. Rc3  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.19"]
+[Round "4.3"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2876"]
+[ECO "C95"]
+[EventDate "2015.06.16"]
+[PlyCount "93"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2804"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Nbd2
+Re8 9. Re1 b5 10. Bc2 Bf8 11. Nf1 g6 12. h3 Bb7 13. Ng3 Nb8 14. d4 { Notice
+that White has wasted a tempo with d3-d4, but has recovered it by putting his
+bishop on c2 without first stopping on b3. This direct transposition into the
+Breyer System of the Closed Spanish cost the players 30 minutes on the clock.} 
+14... Nbd7 15. a4 c5 16. d5 c4 17. Bg5 Bg7 ( 17... h6 { is massively more
+popular, but the idea of playing Bg7 without h6 has also been seen.} ) 18. Qd2
+{ It's difficult to kick out this bishop from g5 now, which is why most players
+prefer to put the pawn on h6 before White can do this.}  18... Rb8 { A novelty,
+and not a very impressive one.}  ( 18... Nc5 { was seen in the old game
+Kuzmin-Spassky, 1973!} ) 19. Nh2 $1 { A very classical idea. Anand swings the
+knight to g4 to exploit the weakness of the dark squares around Black's king.} 
+19... Bc8 20. Ng4 { "I was kicking myself for not taking on b5 first!" was
+Anand's reaction after the game. That being said, it is possible that there is
+no need to take on b5 just yet.}  ( 20. axb5 axb5 21. Ng4 $14 ) 20... Nc5 21.
+Nh6+ ( 21. axb5 Bxg4 { is not clear as Black gets rid of a generally useless
+bishop for an attacking knight.}  ) 21... Bxh6 ( 21... Kf8 22. Re3 { with Rf3
+next move is too dangerous. Black cannot afford to play like this, so he must
+give up the bishop. Grischuk mentioned that something went wrong in Black's
+game if he was forced to give up the darksquared bishop.}  ) 22. Bxh6 bxa4 {
+Black's counterplay on the b-file is not terribly threatening. White has
+several ideas on how to proceed, but Anand chooses a very direct and aggressive
+way - but first he must close the hole on b2.}  23. Ra2 a3 24. bxa3 Nfd7 25. f4
+{ All-in. White desires to attack on the kingside, specifically by launching
+his f-pawn forward and backing it with his rooks on the f-file.}  25... a5 $6 {
+Carlsen believes he has some counterplay based on the activity of the bishop on
+a6 and the weakness of d3, but this is not the case.}  ( 25... exf4 26. Qxf4
+Qf6 27. Qe3 Ne5 { is still a very complicated game.}  ) 26. Rf1 f6 { As Anand
+said after the game, this is already a concession.}  ( 26... exf4 27. Qxf4 Ne5
+28. Bg5 { and it looks very dangerous to be so weak on the darksquares, but
+Black's position already looks to be bad.}  ) 27. f5 $1 { Excellent. This binds
+Black's pieces on the kingside and White will transfer his queen to the g4
+square.}  27... Nd3 $1 { Trying to create counterplay. Carlsen will be happy to
+give up this pawn if it means that he will have play on the queenside and if it
+slows down the attack on the kingside.}  28. Bxd3 cxd3 29. Qd1 $1 { A nice
+move, perfect in Anand's style. The queen will swing over to g4 to put pressure
+on g6, not bothering to take on d3 just yet.}  29... Re7 30. Raf2 Rf7 31. Qxd3
+( 31. h4 { was more precise, and some engiens give it as a decisive advantage
+already! However there is nothing wrong with first taking the pawn.} ) 31...
+Nc5 32. Qf3 Ba6 33. Qg4 $1 { An important move. Now White does not slow down
+and the attack on the kingside cannot be resisted. Black could try to move Bc8,
+pinning the f-pawn, but that is just sad.}  33... g5 34. h4 Bxf1 35. Rxf1 Qd7 {
+Anand was running low on time, so he decides to take a very pragmatic route.} 
+36. hxg5 fxg5 37. Qh5 ( 37. Bxg5 { was also good.} ) 37... Kh8 38. f6 { Whtie
+will at the very least regain his exchange with a bishop check on g7.}  38...
+Rg8 39. Bg7+ Rfxg7 40. fxg7+ Qxg7 41. Nf5 $1 { After this Black's position is
+absolutely hopeless.}  41... Qg6 { otherwise Nh6 followed by mate.}  42. Qxg6
+Rxg6 ( 42... hxg6 43. Nxd6 { is kaput.}  ) 43. Ne7 Kg7 { desperation.}  ( 43...
+Rh6 44. Rf8+ Kg7 45. Rc8 $1 Kf7 46. Nf5 Rg6 47. Nxd6+ Rxd6 48. Rxc5 { is a
+totally lost rook endgame.}  ) 44. Nxg6 Kxg6 45. Rf8 a4 ( 45... Nxe4 46. Ra8
+Nxc3 47. Rxa5 { is hopeless, Black cannot stop the a-pawn with just a knight.} 
+) 46. c4 h5 ( 46... Nxe4 47. Ra8 Nc5 48. Kf2 { also wins easily.}  ) 47. Kf2 (
+47. Kf2 Nxe4+ 48. Ke3 Nc5 49. Rd8 { and the d-pawn falls.}  )  1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.19"]
+[Round "4.4"]
+[White "Grischuk, Alexander"]
+[Black "Hammer, Jon Ludvig"]
+[Result "1-0"]
+[BlackElo "2677"]
+[ECO "A22"]
+[EventDate "2015.06.16"]
+[PlyCount "97"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2781"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. d3 Be7 7. Nh3 g5 8. Ng1
+h5 9. h3 Nc6 10. Bxc6+ bxc6 11. Nf3 f6 12. Be3 Bxh3 13. Rxh3 g4 14. Rh1 gxf3
+15. exf3 Bb4 16. Qb3 Nd5 17. Bd2 Bxc3 18. Bxc3 Nxc3 19. Qxc3 Qd5 20. Rc1 h4 21.
+gxh4 O-O-O 22. Qxc6 Qxc6 23. Rxc6 Rxd3 24. Ke2 Rhd8 25. Rc2 R3d4 26. h5 R8d7
+27. h6 Rh7 28. Rc6 Rd6 29. Rxd6 cxd6 30. f4 Kd7 31. fxe5 dxe5 32. f4 Ke6 33.
+fxe5 fxe5 34. Ke3 Kf7 35. Ke4 Kg8 36. Kxe5 Rd7 37. Rg1+ Kh8 38. Rg7 Rd2 39. Rb7
+a5 40. a4 Kg8 41. b3 Rh2 42. Rb6 Rd2 43. Rb5 Rd3 44. Ke4 Rh3 45. Kd4 Kh7 46.
+Kc4 Rh4+ 47. Kc3 Rh3+ 48. Kb2 Kxh6 49. Rxa5  1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.19"]
+[Round "4.5"]
+[White "Caruana, Fabiano"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[BlackElo "2723"]
+[ECO "B90"]
+[EventDate "2015.06.16"]
+[PlyCount "84"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2805"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. g3
+Be6 9. Bg2 b5 10. O-O Nbd7 11. Be3 Be7 12. Nd5 Nxd5 13. exd5 Bf5 14. f4 Qc8 15.
+Rc1 O-O 16. b3 exf4 17. Bxf4 Qc5+ 18. Nd4 Bf6 19. Be3 Rfe8 20. Nxf5 Rxe3 21.
+Kh1 Re5 22. c4 b4 23. Qxh5 g6 24. Qg4 Rxf5 25. Rxf5 Ne5 26. Rxe5 Bxe5 27. Rf1
+Qd4 28. Qxd4 Bxd4 29. Bf3 Re8 30. Kg2 Re3 31. Rd1 Bc5 32. h4 Kg7 33. g4 Rc3 34.
+Rd2 Be3 35. Re2 a5 36. Be4 Bd4 37. Bf3 Bf6 38. g5 Bd4 39. Be4 Be5 40. Bf3 Bd4
+41. Be4 Be5 42. Bf3 Bd4  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.21"]
+[Round "5.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[BlackElo "2773"]
+[ECO "D46"]
+[EventDate "2015.06.16"]
+[PlyCount "94"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2723"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+e5 9. cxd5 cxd5 10. e4 exd4 11. Nxd5 Nxd5 12. exd5 h6 13. Nxd4 Qh4 14. Nf3 Qh5
+15. Bh7+ Kh8 16. Qf5 Qxf5 17. Bxf5 Nf6 18. Bc2 b6 19. Ba4 Bb7 20. Bc6 Bxc6 21.
+dxc6 Rac8 22. Be3 Rxc6 23. Rad1 Re8 24. Bd4 Bf8 25. g3 Kg8 26. Kg2 Ne4 27. Rfe1
+Rce6 28. Re3 Nc5 29. Ra3 a5 30. Re3 Rd8 31. Rc1 Rxe3 32. Bxe3 Nd3 33. Rc3 Nxb2
+34. Bxb6 Na4 35. Bxd8 Nxc3 36. Bxa5 Nxa2 37. Nd4 Nc1 38. Bd2 Nd3 39. Nf5 h5 40.
+h3 f6 41. Kf3 Kf7 42. Ke2 Ne5 43. Bc3 Nc6 44. g4 hxg4 45. hxg4 g6 46. Nd4 Nxd4+
+47. Bxd4 Ke6  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.21"]
+[Round "5.2"]
+[White "Carlsen, Magnus"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2781"]
+[ECO "B91"]
+[EventDate "2015.06.16"]
+[PlyCount "89"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2876"]
+
+1. Nf3 c5 2. e4 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+b5 9. Nd5 Nbd7 10. Nec3 Bb7 11. a4 Nxd5 12. Nxd5 Nf6 13. axb5 Nxd5 14. exd5
+axb5 15. Rxa8 Qxa8 16. Qd3 O-O 17. O-O Bc8 18. Be3 Bd7 19. Rc1 h6 20. Qd1 Qb7
+21. Ra1 Ra8 22. h4 Ra6 23. b3 Bd8 24. c4 bxc4 25. bxc4 Bb6 26. c5 $1 { The only
+practical chance. Before this Grischuk's position was very acceptable, and he
+had relatively good chances to equalize simply. With this move Carlsen creates
+complications - extremely important since Grischuk was, as usual, in severe
+time pressure!}  26... Bxc5 27. Bxc5 dxc5 28. d6 Qb6 29. Rxa6 Qxa6 30. Bd5 $1 {
+Binding Black's position. The pawn on d6 and the weakness on f7 create a
+slightly uncomfortable position. With a couple of accurate moves Grischuk
+should be out of trouble, but when you have only a few minutes to make 10 moves
+things tend to go wrong quickly.}  30... Qc8 $2 ( 30... Qb6 $1 31. Kg2 ( 31.
+Qh5 Qb1+ $1 { an important resource.}  32. Kg2 Qf5 { with equality.}  ) 31...
+Be8 $11 ) 31. Qb3 { Now the pressure is real, it is difficult for Black to find
+moves.}  31... Be8 32. Qc3 { It's not easy to defend all the pawns, but
+Grischuk still has a way to equality.}  32... c4 ( 32... Qf5 $1 33. Qxc5 g5 $1
+{ and the passed d-pawn gives White a slight edge, but Black should hold with
+perfect play.}  ) 33. Bxc4 Bd7 34. Qb3 Qe8 35. Qf3 Kf8 36. h5 $1 Kg8 ( 36... e4
+$1) 37. Qe4 Bc6 38. Bd5 Bd7 39. Kg2 Kh8 { Girschuk's passive defense was
+prompted by his lack of time. Carlsen plays a tricky move on the decisive 40th
+move.}  40. f4 exf4 $6 { losing instantly. You can't blame him for playing this
+move since he only had 18 seconds, but you can blame him for getting to a
+situation where he only had 18 seconds.}  ( 40... f5 $1 41. Qxe5 Qxh5 42. Qe7
+Kh7 { is holding according to some engines, but this looks nearly losing for
+Black.}  ) 41. Qxe8+ Bxe8 42. Bxf7 $1 Bc6+ 43. Kf2 fxg3+ { Grischuk spent a
+fair amount of time on this move, understanding he is completely lost.}  44.
+Kxg3 Bd7 45. Bg6 ( 45. Bg6 Kg8 46. Kf4 Kf8 47. Ke5 Kg8 48. Kd5 Kf8 49. Kc5 {
+Black can't do anything.}  49... Kg8 50. Kb6 Kh8 51. Kc7 Bb5 52. d7 Bxd7 53.
+Kxd7 { and due to the existence of the g7 pawn, here Black gets zugzwnaged and
+loses.}  53... Kg8 54. Ke8 Kh8 55. Ke7 Kg8 56. Bf7+ Kh7 57. Kf8 g5 58. hxg6+ {
+and a quick mate.}  )  1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.21"]
+[Round "5.3"]
+[White "Nakamura, Hikaru"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[BlackElo "2804"]
+[ECO "E32"]
+[EventDate "2015.06.16"]
+[PlyCount "89"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2802"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. e3 b6 8. cxd5
+exd5 9. Bd3 Ba6 10. Bxa6 Nxa6 11. Qd3 Qc8 12. Ne2 c5 13. b3 cxd4 14. exd4 Nc7
+15. O-O Ne6 16. Bd2 Qd7 17. f3 Rac8 18. a4 Rc6 19. Rfc1 Rxc1+ 20. Rxc1 Rc8 21.
+Ra1 Ne8 22. Nc3 Rc6 23. a5 N8c7 24. f4 g6 25. axb6 axb6 26. Ra7 Ng7 27. Na2
+Nge8 28. f5 Qxf5 29. Qxf5 gxf5 30. Nb4 Re6 31. Bf4 Nb5 32. Ra8 Nxd4 33. Nxd5
+Kg7 34. Bd2 Rd6 35. Rxe8 Rxd5 36. Bc3 f6 37. Kf1 Nxb3 38. Re7+ Kg6 39. Re6 Nd2+
+40. Bxd2 Rxd2 41. Rxb6 Ra2 42. Rb4 Rd2 43. Ra4 Rb2 44. Rc4 Rd2 45. Ra4  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.21"]
+[Round "5.4"]
+[White "Hammer, Jon Ludvig"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2798"]
+[ECO "D12"]
+[EventDate "2015.06.16"]
+[PlyCount "148"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2677"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8. Bd2
+Nbd7 9. Qc2 a6 10. O-O-O Be7 11. Kb1 Qc7 12. h3 Rd8 13. c5 e5 14. f4 exd4 15.
+exd4 Nh5 16. Ne2 Nhf6 17. Nc3 Nh5 18. Ne2 Nhf6 19. Ng3 Ng8 20. Bd3 f5 21. Nxf5
+gxf5 22. Bxf5 Ndf6 23. Bg6+ Kf8 24. g4 Ne4 25. g5 Rh4 26. Bc1 Qd7 27. Qg2 b6
+28. cxb6 Bd6 29. Bxe4 dxe4 30. d5 Ne7 31. dxc6 Qxc6 32. Rhe1 Qxb6 33. Qxe4 Bc5
+34. Rxd8+ Qxd8 35. Qc4 Qd4 36. Qxa6 g6 37. Re5 Qd6 38. Qa8+ Kg7 39. Qf3 Bd4 40.
+Re2 Qd7 41. Qd3 Nc6 42. Rh2 Nb4 43. Qc4 Rxh3 44. Rd2 Qf5+ 45. Ka1 Bc5 46. a3
+Nd3 47. Rd1 Nxc1 48. Rxc1 Bf8 49. Qd4+ Kg8 50. Rc7 Qe6 51. Qc4 Qxc4 52. Rxc4
+Kf7 53. a4 Rb3 54. a5 Rb5 55. Ra4 Bg7 56. Ra2 Bd4 57. Ra4 Bxb2+ 58. Ka2 Bc1 59.
+a6 Rb2+ 60. Ka1 Rb8 61. Rc4 Be3 62. Rc7+ Kg8 63. Rc6 Bd4+ 64. Ka2 Kf7 65. Rd6
+Bc3 66. Rc6 Bh8 67. Ka3 Bd4 68. Ka4 Rf8 69. Kb5 Kg7 70. Rc7+ Rf7 71. Rxf7+ $1 {
+Good calculation into a drawn endgame, with a little trick.}  71... Kxf7 72.
+Kc4 $1 { The point, gaining a tempo}  72... Ba7 73. Kd5 Ke7 ( 73... Bb8 74. Kc6
+$1 { Threatening Kb7, winning! Black must return to a7.}  74... Ba7 75. Kd5 $1
+{ and Black can only repeat positions.}  ) 74. Kc6 $4 { Absolutely horrible.} 
+( 74. f5 { was as obvious as it was effective.}  74... gxf5 75. Ke5 $11 ) 74...
+Ke6 { The pawn endgame is very obviously losing. Hammer suffered in his chair
+for a few minutes before stretching his out and resigning in shame.}   0-1
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.21"]
+[Round "5.5"]
+[White "Aronian, Levon"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2805"]
+[ECO "A30"]
+[EventDate "2015.06.16"]
+[PlyCount "119"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2780"]
+
+1. c4 c5 2. Nf3 Nf6 3. e3 e6 4. d4 d5 5. cxd5 exd5 6. Bb5+ Bd7 7. Bxd7+ Nbxd7 8.
+dxc5 Nxc5 9. O-O Be7 10. Nc3 O-O 11. b3 Nce4 12. Ne2 Qa5 13. Bb2 Ba3 14. Bxa3
+Qxa3 15. Qc1 Qa6 16. Qb2 Rac8 17. Nfd4 Rc7 18. Rac1 Rfc8 19. a4 Qb6 20. Nb5
+Rxc1 21. Rxc1 Rxc1+ 22. Qxc1 g6 23. f3 Nc5 24. Qc3 a6 25. Nbd4 Qd6 26. h4 b6
+27. g3 a5 28. Nb5 Qe7 29. Nf4 h6 30. Nd4 Qe5 31. Nfe2 Nfd7 32. Kg2 Kh7 33. Nf4
+g5 34. hxg5 hxg5 35. Nh5 g4 36. fxg4 Qe4+ 37. Nf3 Qxg4 38. Nf6+ Nxf6 39. Qxf6
+Qxg3+ $2 { Falling for a clever trap. Caruana saw a mirage - thinking that he
+was up a pwn in the endgame he had no chances of losing, but actually he is
+already much worse!}  ( 39... Qg6 $11) 40. Kxg3 Ne4+ 41. Kf4 Nxf6 42. Ke5 {
+Suddenly it is clear that White's initiative on the queenside is enough to win
+the b6 and a5 pawns. Black must be extremely careful.}  42... Kg6 43. Nd4 Kg5
+44. Kd6 Ng4 45. Nc2 Kf5 46. Kxd5 Nf6+ 47. Kc6 Ke4 48. Kxb6 Kd3 { Here Aronian
+missed an unbelievable win}  49. Ne1+ ( 49. Nb4+ $3 axb4 ( 49... Kc3 50. Kxa5
+Kxb3 51. Kb5 $18 ) 50. Kc6 { and the king dominates the knight, the a-pawn
+promotes by force.}  ) 49... Kxe3 50. Kxa5 Kd2 $2 { missing a draw, but it's
+hard to blame Caruana.}  ( 50... Nd5 $3 { is a draw. Why? ask your engine, the
+lines are too long!} ) 51. Nf3+ Kc3 52. b4 Nd5 53. b5 Kb3 { Now every move
+wins.}  54. Ne5 f5 55. Nd7 { White wants to play b6 and take with the knight.
+The rest is trivial for Aronian.}  55... Ne3 56. b6 Nc4+ 57. Kb5 Nd6+ 58. Kc6
+Nc4 59. Kc5 Na5 60. Kb5  1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.22"]
+[Round "6.1"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[BlackElo "2802"]
+[ECO "D56"]
+[EventDate "2015.06.16"]
+[PlyCount "190"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2876"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8. Bxe7
+Qxe7 9. Rc1 c6 10. Qc2 Nxc3 11. Qxc3 dxc4 12. Bxc4 b6 13. O-O Nd7 14. Rfd1 Bb7
+15. h3 c5 16. d5 exd5 17. Bxd5 Bxd5 18. Rxd5 Nf6 19. Rd3 Rad8 20. Rcd1 Rxd3 21.
+Qxd3 Rc8 22. a4 c4 23. Qc2 Qe4 24. Nd4 c3 25. Qb3 Qd5 26. Qc2 Qe4 27. Qxe4 Nxe4
+28. b3 Nd2 29. Rc1 a5 30. Rc2 Nb1 31. Rc1 Nd2 32. Rc2 Nb1 33. Nb5 Kf8 34. f3
+Rd8 35. Nd4 Rc8 36. Rc1 Na3 37. Nc2 Nxc2 38. Rxc2 Rc5 39. Kf2 b5 40. axb5 Rxb5
+41. Rxc3 g6 42. f4 h5 43. Rc8+ Kg7 44. Ra8 Rxb3 45. Rxa5 Rb2+ 46. Kf3 Rb3 47.
+Ra7 Rc3 48. Re7 Rb3 49. Kg3 Rb2 50. Kf3 Rb3 51. g4 hxg4+ 52. hxg4 Rb1 53. Rd7
+Rf1+ 54. Ke4 Rg1 55. g5 Ra1 56. Ke5 Ra3 57. e4 Ra5+ 58. Kd6 Ra6+ 59. Ke5 Ra5+
+60. Rd5 Ra4 61. Rc5 Ra1 62. Rc2 Rf1 63. Rc7 Re1 64. Ra7 Rg1 65. Ra4 Rf1 66. Ra6
+Re1 67. Kd4 Rd1+ 68. Ke3 Re1+ 69. Kf3 Rf1+ 70. Kg3 Re1 71. e5 Re3+ 72. Kf2 Rb3
+73. Rd6 Ra3 74. Rd8 Rc3 75. Ke2 Ra3 76. Rd3 Ra1 77. Ke3 Re1+ 78. Kd4 Rf1 79.
+Ke4 Ra1 80. Rd7 Ra4+ 81. Rd4 Ra5 82. Rc4 Kf8 83. Rc8+ Kg7 84. Rc7 Kf8 85. Kd4
+Ra4+ 86. Rc4 Ra5 87. Rc8+ Kg7 88. e6 fxe6 89. Rc5 Ra7 90. Ke5 Rf7 91. Rc4 Rf5+
+92. Kxe6 Kg8 93. Rc8+ Kg7 94. Rc7+ Kg8 95. Rc8+ Kg7  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.22"]
+[Round "6.2"]
+[White "Anand, Viswanathan"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2723"]
+[ECO "B81"]
+[EventDate "2015.06.16"]
+[PlyCount "57"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2804"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 h6 8. Bg2 Nc6
+9. Be3 Be7 10. f4 Nd7 11. O-O Nxd4 12. Qxd4 O-O 13. Qd2 Rb8 14. Ne2 b5 15. Rad1
+Qc7 16. f5 Nf6 17. Ng3 { So far we have been following the game between Navara,
+D - Grischuk, A in the 2014 Tromso Olympiad. That thrilling game ended in a
+draw after 17...Re8, but in the annotations to that game for ChessBase Magazine
+by Igor Stohl, he mentioned the possibility of playing Bb7 in this position.} 
+17... Bb7 18. Kh1 { an interesting idea. Black has a few options in this
+position.}  ( 18. Bxh6 { was considered by Stohl. You can look at those
+annotations in your CBM, or simply in your MegaBase 2015! There are many
+variations and tactical nuances.}  18... gxh6 19. Qxh6 d5 20. g5 Qxg3 21. Rd3
+Bc5+ $1 22. Kh1 Be3 $1 { Is a key point of the position. It will be obvious why
+soon.}  ) 18... Rbd8 $2 { Already the losing blunder. The variations after Bxh6
+now work without a problem.}  ( 18... Kh7 { looks unnatural but does defend
+against Bxh6, so it is worth a try.} ) ( 18... d5 { looks the main line here,
+for example}  19. e5 $1 { the point}  19... Qxe5 20. Bf4 Qxb2 21. Bxb8 Rxb8 {
+Black finds himself down the exchange, but he has two pawns for it. Perhaps
+White's initiative here is enough for an advantage, but more practical tests
+will be needed.}  ) 19. Bxh6 gxh6 20. Qxh6 d5 { What else? Without this
+breakthrough Black's position will just get annihilated on the kingside.}  21.
+g5 $1 { Excellent calculation from Anand, identifying the differences in the
+position.}  21... Qxg3 22. Rd3 { Now there is no possibility to play Bc5+, as
+the move is not check! Black is toast.}  22... Nh5 ( 22... Nxe4 23. f6 $1 Bxf6
+( 23... Qxg5 24. Qxg5+ Nxg5 25. fxe7 { will leave White up the exchange after
+recovering taking a rook next move, but more importantly the knight on g5 is
+hanging to the pin on the g-file in too many variations.}  ) 24. Bxe4 {
+threatening mate on h7}  24... dxe4 25. Rxg3 { and Black is simply down too
+much material. The pair of bishops is nothing compared to the queen. However
+this was MVL's best chance.}  ) ( 22... Qe5 23. gxf6 Bxf6 24. Rf4 { and the
+rook lift is absolutely deadly. Now rg4 next move wins the game.}  24... Bg7
+25. Rg3 $18 ) 23. g6 $1 { An important move to find.}  23... fxg6 24. fxg6
+Rxf1+ 25. Bxf1 Nf6 { what else? Without this move Black is powerless against
+Qh7+ and Qh8 mate.}  26. Rxg3 dxe4 27. Be2 { White's position is not only
+crushing, he has plenty of extra material.}  27... e3+ 28. Kg1 Bc5 29. Kf1  1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.22"]
+[Round "6.3"]
+[White "Grischuk, Alexander"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2798"]
+[ECO "E20"]
+[EventDate "2015.06.16"]
+[PlyCount "78"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2781"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 O-O 6. e4 d6 7. Ne2 b5 8. Nf4 exd5
+9. cxd5 a6 10. Be2 Nbd7 11. O-O c4 12. Be3 Bc5 13. Bxc5 Nxc5 14. b4 cxb3 15.
+axb3 b4 $5 { After a complicated Nimzo-Indian we have the following situation.
+It is quite complex, and as usual Grischuk had already used a fair chunk of his
+time to get here while Topalov played rather quickly. The Russian player
+attempts to reposition his knight to a better square, but it backfires.}  16.
+Nb5 $6 { Overlooking the following continuation}  ( 16. Na4 Nxa4 17. Rxa4 { and
+the game is approximately equal.}  ) 16... Qb6 17. Kh1 ( 17. Nd4 Nxb3 18. Qxb3
+Qxd4+ { is just bad.}  ) 17... g5 $1 { An impressive situation. The knight on
+f4  (  which should probalby have gone to g3 earlier in the game rather than f4
+ )  finds itself trapped!}  18. Qd4 { Grischuk took a very long think making
+this move, which seemed nearly forced.}  ( 18. Nh3 Bxh3 { is winning for Black
+as the rooks are connected on the back rank, and now the b5 knight can be
+taken.}  ) ( 18. Nd3 Qxb5 { cuts off the defense of the bishop on e2.}  ) 18...
+Ncd7 ( 18... Qd8 19. Nd3 Nxb3 20. Qxb4 ( 20. Qb2 { is also possible, but less
+human.} ) 20... Nxa1 21. Nd4 { and Black has an extra exchange, but the
+compensation cannot be underestimated.}  ) 19. Qxb6 Nxb6 { Now both of White's
+knights are under attack since the rook on a8 is defended.}  20. Nc7 ( 20. Nxd6
+gxf4 21. Rfc1 { is still not clear. Black is up a piece but there is some
+compensation.}  ) 20... Ra7 21. Nb5 ( 21. Rfc1 $1 gxf4 22. Rc6 { was probably
+the most testing for Topalov. Black is up a full piece at the moment, but they
+are hard to coordinate and Topalov has too many weak pawns. White here has a
+good chance to hold on to a draw.}  ) 21... Re7 22. Nxd6 gxf4 23. Bxa6 Rd8 24.
+Bxc8 Rxd6 25. Bf5 { With the dust more or less settled White seems to be
+slightly worse, but no more than that. He has two pawns for the knight, some
+control over the open files and two passed pawns.}  25... Nbd7 26. g3 ( 26. Ra4
+$1 { trying to get that important pawn on b4.}  26... Rb6 27. Ra7 { is
+annoying.}  ) 26... fxg3 27. Rg1 $2 { The idea of taking on g3 with the rook is
+simply bad.}  ( 27. hxg3 { this would have gone into a very long game, and
+despite Grischuk's time trouble he might have been able to save the position.}
+) 27... Kf8 28. Rxg3 Nc5 { The weakness of f4 will soon be felt.}  29. Bh3 Re8
+$1 30. Rb1 Nh5 $1 31. Rg5 Nf4 { With the knights swarming the position, this is
+clearly over. The fact that Grischuk has one minute and a few seconds to make
+all the moves until the 40th did not help the situation.}  32. Bf1 Ra8 33. Bc4
+Ra2 34. Rg4 Rh6 35. h4 Nfd3 36. Rg2 Rxh4+ 37. Kg1 Ra7 38. d6 Rh6 39. Rh2 Rxd6 
+0-1
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.22"]
+[Round "6.4"]
+[White "Caruana, Fabiano"]
+[Black "Hammer, Jon Ludvig"]
+[Result "1/2-1/2"]
+[BlackElo "2677"]
+[ECO "A13"]
+[EventDate "2015.06.16"]
+[PlyCount "88"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2805"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 d4 5. e3 Nc6 6. O-O Bc5 7. b4 Bxb4 8. exd4
+O-O 9. Bb2 Rb8 10. Na3 Bxa3 11. Bxa3 Re8 12. Bb2 b5 13. Bc3 bxc4 14. Qa4 Bd7
+15. Qxc4 Nd5 16. Rfb1 Rb6 17. a4 Qb8 18. Re1 a5 19. Qc5 Nxc3 20. dxc3 Rb2 21.
+Ng5 Qb6 22. Ne4 Ne7 23. Qg5 Ng6 24. h4 h6 25. Qg4 Bc6 26. h5 Bxe4 27. Bxe4 Ne7
+28. Qf3 Rd8 29. Rab1 Nd5 30. Rxb2 Qxb2 31. Rb1 Qa2 32. Rb7 Qxa4 33. Bxd5 exd5
+34. Rxc7 Qe8 35. Rc5 a4 36. Rxd5 Rxd5 37. Qxd5 a3 38. Qa5 Qe1+ 39. Kg2 Qe4+ 40.
+Kh2 Qc2 41. Qxa3 Qxf2+ 42. Kh3 Qf1+ 43. Kh2 Qf2+ 44. Kh3 Qf1+  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.22"]
+[Round "6.5"]
+[White "Giri, Anish"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[BlackElo "2780"]
+[ECO "D39"]
+[EventDate "2015.06.16"]
+[PlyCount "71"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2773"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 dxc4 6. e4 c5 7. Bxc4 cxd4 8.
+Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Nbd7 11. Bxf6 Qxc3+ 12. Kf1 gxf6 13. h4 a6 14.
+Rh3 Qb4 15. Be2 Ne5 16. Rb1 Qd6 17. Qd2 Bd7 18. Rxb7 Bb5 19. Rb3 Rc8 20. Bxb5+
+axb5 21. Qb4 Qxb4 22. Rxb4 O-O 23. R7xb5 Rfd8 24. Ke2 Kg7 25. Ra4 Ra8 26. Rbb4
+Rdb8 27. Nb3 Rxb4 28. Rxb4 Rxa2+ 29. Nd2 Kg6 30. g3 h5 31. Rd4 f5 32. exf5+
+Kxf5 33. Rf4+ Kg6 34. Rd4 Kf5 35. Rf4+ Kg6 36. Rd4  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.23"]
+[Round "7"]
+[White "Hammer, J."]
+[Black "Giri, A."]
+[Result "1/2-1/2"]
+[BlackElo "2773"]
+[ECO "B08"]
+[EventDate "2015.06.17"]
+[PlyCount "121"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2677"]
+
+1. Nf3 g6 2. e4 d6 3. d4 Bg7 4. Nc3 Nf6 5. Be3 a6 6. Qd2 b5 7. Bh6 O-O 8. Bd3
+Bg4 9. e5 dxe5 10. dxe5 Nh5 11. Bxg7 Nxg7 12. Be4 Bxf3 13. Bxf3 Qxd2+ 14. Kxd2
+Ra7 15. Rad1 Nd7 16. Rhe1 Nb6 17. Bc6 Ne6 18. Kc1 Nd8 19. Be4 c5 20. Nd5 Nxd5
+21. Bxd5 Ne6 22. g3 c4 23. Bxe6 fxe6 24. f4 Kf7 25. h4 h5 26. Rd4 Rc8 27. Red1
+Ke8 28. c3 a5 29. Kc2 Rb7 30. Re4 b4 31. Rdd4 Rbc7 32. Kd2 Rc5 33. Kc2 R5c7 34.
+a3 b3+ 35. Kd2 Rc5 36. Ke3 R8c7 37. Rd2 Rd5 38. Red4 Rxd4 39. Rxd4 Rc5 40. a4
+Rc8 41. Re4 Kf7 42. Kd4 Kg7 43. Re2 Kf8 44. Rg2 Kg7 45. Rd2 Kf7 46. Ke4 Ke8 47.
+Rd4 Rc5 48. Kf3 Kf7 49. Ke3 Ke8 50. Ke4 Rc7 51. Kf3 Rc5 52. Ke3 Rc8 53. Re4 Kf7
+54. Kd4 Kg7 55. Re3 Kf7 56. Re2 Kf8 57. Rg2 Kg7 58. Ke3 Kf7 59. Rh2 Kf8 60. Kd4
+Kf7 61. Rg2  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.23"]
+[Round "7"]
+[White "Topalov, V."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2805"]
+[ECO "D79"]
+[EventDate "2015.06.17"]
+[PlyCount "87"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2798"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Nc3 O-O 8. Ne5
+e6 9. O-O Nfd7 10. Nf3 Nf6 11. Bf4 Nc6 12. Ne5 Nxe5 13. Bxe5 Bd7 14. Qd2 Qe7
+15. Rac1 Bc6 16. Rc2 Rfd8 17. Rfc1 Ne8 18. Bxg7 Kxg7 19. e3 Nd6 20. Ne2 Bb5 21.
+Nf4 Rac8 22. h4 Rxc2 23. Rxc2 Rc8 24. Rxc8 Nxc8 25. Qa5 Qd7 26. b3 b6 27. Qc3
+Qc6 { The position almost fits the description of dead drawn. With a trade on
+c6 the symmetrical pawn structure would surely lead to a draw. Topalov wants to
+fight for a win, but in the way that he does it is rather strange.}  28. Qa1 {
+threatening e4 ideas, with a discovered check down the long diagonal in case of
+a capture by the d-pawn.}  28... Qc7 29. Bh3 $2 { This move is just bad though.
+Black's position is still not that much better, but White is allowing Caruana
+chances for no reason.}  ( 29. e4 dxe4 30. d5+ e5 31. Bxe4 Qe7 $15 { the knight
+comes to d6 with a nice position for Black.}  ) 29... Qc2 { This is the point.
+The queen penetrates in this square now that e4 is not really available.}  30.
+a4 ( 30. e4 Qxe4 31. Qc3 { is still equal, but hard to play.}  ) 30... Ba6 31.
+Qa3 Qd1+ ( 31... Qd2 { might have been an inch more precise as it doesn't allow
+White access to c1 too easily.} ) 32. Kh2 Qd2 33. Bg2 $1 { in the nick of
+time.}  33... h6 ( 33... Qxf2 34. Qc1 { gives White enough counterplay with Qc7
+coming up and multiple threats.}  ) 34. a5 $1 { The only move to equalize.} 
+34... Qxa5 ( 34... bxa5 35. Qc5 $11 ) 35. Qc1 Qb4 36. e4 Qxd4 37. exd5 e5 38.
+Ne6+ { The final detail. The perpetual is forced and the game ends in a draw.} 
+38... fxe6 39. Qc7+ Kf6 40. Qd8+ Kf7 41. Qd7+ Kf8 42. Qd8+ Kf7 43. Qd7+ Kf8 44.
+Qd8+  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.23"]
+[Round "7"]
+[White "Vachier Lagrave, M."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2876"]
+[ECO "D43"]
+[EventDate "2015.06.17"]
+[PlyCount "34"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2723"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 $6 { This
+move simply cannot be good, but it is clear that Carlsen had at least looked at
+the situation. MVL thought for a few minutes and decided to go for the
+sacrificial route.}  8. Nxe4 ( 8. Nd2 Nxg3 9. hxg3 Bg7 10. e3 a6 { was a blitz
+game between Grischuk-Kramnik from 2008. White obtained the better position and
+won the game.}  ) ( 8. e3 { might be the simple move and the true refutation of
+Black's intentions. He might have to start attacking with Bb4, but it should be
+insufficient}  8... Bb4 9. Qb3 Qa5 10. Rc1 Nd7 11. Bd3 $14 ) 8... dxe4 9. Nd2
+Qxd4 10. e3 { This is the point. The threat on the queen and on the e4 pawn is
+strong, so Black must keep munching pawns to stay in the game.}  10... Qxb2 11.
+Rb1 Qc3 $1 { The only move}  ( 11... Qxa2 12. Be5 Rg8 13. Ra1 $19 ) 12. Be2 Nd7
+( 12... Bb4 13. Rxb4 Qxb4 14. O-O { is already extremely dangerous for Black.
+For example:}  14... f5 $2 15. Nxe4 $1 fxe4 16. Bh5+ Ke7 17. Qd4 { with a
+decisive advantage: the attack is too strong.}  ) 13. O-O Nc5 { Incredibly
+Black is holding. There are still many interesting possibilities in this
+position, but the situation is very unclear. Carlsen had blitzed up to this
+point and it was clear that he had seen this position in his analysis, so MVL
+took the practical decision to force the draw.}  14. Nb3 Nd3 ( 14... Be7 15.
+Nxc5 Bxc5 16. Bd6 { looks uncomfortable for Black.}  ) 15. Nd2 Nc5 { Black must
+defend the e4 pawn.}  16. Nb3 Nd3 17. Nd2 ( 17. f3 $5 { would have been a
+completely different story.} ) 17... Nc5  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.23"]
+[Round "7"]
+[White "Aronian, L."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[BlackElo "2804"]
+[ECO "A29"]
+[EventDate "2015.06.17"]
+[PlyCount "39"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2780"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3 8.
+bxc3 Re8 9. f3 exf3 10. Nxf3 Qe7 11. e3 Ne5 12. Nxe5 Qxe5 13. Rb1 Rb8 14. Rb5
+Qe7 15. d3 d6 16. e4 Bg4 17. Bf3 Bh3 18. Bg2 Bg4 19. Bf3 Bh3 20. Bg2  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.23"]
+[Round "7"]
+[White "Nakamura, Hi"]
+[Black "Grischuk, A."]
+[Result "1/2-1/2"]
+[BlackElo "2781"]
+[ECO "A37"]
+[EventDate "2015.06.17"]
+[PlyCount "80"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2802"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 e5 4. g3 g6 5. Bg2 Bg7 6. a3 Nge7 7. O-O O-O 8. Ne1
+d6 9. Nc2 Be6 10. Ne3 Qd7 11. d3 Bh3 12. Rb1 Bxg2 13. Kxg2 f5 14. Ned5 Nxd5 15.
+Nxd5 Ne7 16. Nc3 h5 17. b4 Rf7 18. f3 e4 19. Bb2 exf3+ 20. Rxf3 Re8 21. bxc5
+dxc5 22. Qd2 Qe6 23. Re1 Nc6 24. Nd5 Bxb2 25. Qxb2 Nd4 26. Rf2 b5 27. Qc1 bxc4
+28. Qxc4 Nc2 29. Qxc2 Qxd5+ 30. Kg1 Rfe7 31. Rc1 Re5 32. Qc4 Qxc4 33. Rxc4 Kg7
+34. e4 fxe4 35. dxe4 Rxe4 36. Rxc5 R8e7 37. Ra5 R4e5 38. Ra6 R5e6 39. Ra5 Re5
+40. Ra6 R5e6  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.24"]
+[Round "8"]
+[White "Grischuk, A."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[BlackElo "2805"]
+[ECO "D73"]
+[EventDate "2015.06.17"]
+[PlyCount "102"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2781"]
+
+1. Nf3 Nf6 2. g3 g6 3. d4 d5 4. c4 c6 5. Bg2 Bg7 6. Qb3 O-O 7. Nc3 Qb6 8. O-O
+Rd8 9. Na4 Qxb3 10. axb3 Na6 11. Nc3 Bf5 12. Bf4 Nh5 13. Bg5 Nf6 14. Bf4 Nh5
+15. Bg5 Nf6 16. Rfc1 h6 17. Bd2 Ne4 18. cxd5 cxd5 19. Be1 Nb8 20. e3 Nc6 21.
+Nh4 Nxc3 22. bxc3 Be4 23. Bxe4 dxe4 24. b4 a6 25. c4 e6 26. Rab1 Na7 27. Ng2 g5
+28. Bc3 Rac8 29. c5 e5 30. dxe5 Nc6 31. Ne1 Bxe5 32. Kf1 Bxc3 33. Rxc3 Rd2 34.
+Rc2 Rcd8 35. b5 axb5 36. Rxd2 Rxd2 37. Rxb5 Nd8 38. Rb4 Ne6 39. Rxb7 Nxc5 40.
+Rb5 Nd7 41. h3 Kg7 42. Rb4 f5 43. Rc4 Ne5 44. Rc2 Rd1 45. Ke2 Ra1 46. f4 exf3+
+47. Nxf3 Nxf3 48. Kxf3 Rf1+ 49. Kg2 Ra1 50. Kf3 Rf1+ 51. Kg2 Ra1  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.24"]
+[Round "8"]
+[White "Carlsen, M."]
+[Black "Aronian, L."]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2780"]
+[ECO "C90"]
+[EventDate "2015.06.17"]
+[PlyCount "79"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2876"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. c3 O-O
+9. Re1 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. Nf1 h6 13. Ne3 Re8 14. a4 Be6 15. d4
+exd4 16. cxd4 Nb4 17. Bb1 bxa4 18. Rxa4 Bf8 19. Ra1 d5 20. e5 Ne4 21. h3 Qb6
+22. Nxd5 Bxd5 23. Bxe4 Rad8 24. Bxd5 Rxd5 25. Be3 Red8 26. dxc5 Bxc5 27. Qb3
+Bxe3 28. Rxe3 a5 29. e6 fxe6 30. Rae1 R8d6 31. Rc1 Nd3 $2 ( 31... Rd3 $1 $11)
+32. Rc8+ Kh7 33. Qa4 $1 { A nice repositioning of the queen. From here the
+queen can threaten the king with Qe8, and it also has access to e4 with lethal
+checks.}  33... Qxb2 34. Qe4+ Rf5 35. Kh2 $1 { A key and excellent move. White
+prepares the moves g4 and Nh4, but Black still has some resources.}  ( 35. Nh4
+Qxf2+ 36. Kh2 Qf4+ $19 ) 35... Nf4 36. Rc2 $4 { Based on a strong
+miscalculation - due to the fact that Carlsen only had about a minute and a
+half in this position!}  36... Qa1 $4 { This move, however, is completely based
+on an oversight. Aronian had plenty of time to think and he clearly went
+wrong.}  ( 36... Qb8 $1 { Is fancy}  37. g3 ( 37. g4 Ng6 $1 38. gxf5 exf5 $1 {
+A hard move to find, but the point is that no matter where the queen goes, the
+rook will give a deadly discovered attack winning the White queen, giving Black
+a decisive advantage.}  ) 37... Nd5 $15 ) ( 36... Qb4 37. Rc4 { would still
+force Aronian to find the Qb8 resource.}  ) 37. g4 Qf1 { Perhaps here Aronian
+forgot about White's next move}  38. Ne1 { Everything is defended and Black is
+helpless against gxf5.}  ( 38. Nh4 Rd1 $19 ) 38... Nh5 39. gxf5 exf5 40. Qc4 
+1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.24"]
+[Round "8"]
+[White "Giri, A."]
+[Black "Topalov, V."]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2798"]
+[ECO "E11"]
+[EventDate "2015.06.17"]
+[PlyCount "111"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2773"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Qc2
+Nbd7 9. Rd1 b6 10. b3 a5 11. Bc3 Bb7 12. Nbd2 c5 13. Ne5 cxd4 14. Bxd4 Nxe5 15.
+Bxe5 Qc8 16. Rac1 dxc4 17. Bxf6 Bxf6 18. Qxc4 Bxg2 19. Kxg2 Qb7+ 20. Qe4 Rfb8
+21. Rc6 Qd7 22. Rcc1 Qb7 23. Qxb7 Rxb7 24. Ne4 Be7 25. Nd6 Rd7 26. Nc4 Rxd1 27.
+Rxd1 b5 28. Ne5 Bf6 29. Nd7 a4 30. Rc1 axb3 31. axb3 Be7 32. Rc7 Rd8 33. Rb7
+Bd6 34. g4 { Giri has some pressure: his knight on d7 controls Black's position
+and b5 is weak. However it is difficult to make progress as the d7 knight is
+hanging whenever the rook stops protecting it, and there is no obvious way to
+retreat it.}  34... h5 $2 { Too frisky. Passive defense is uncomfortable, but
+it was what the position called for.}  ( 34... h6 35. h4 Kh7 36. h5 g6 { White
+keeps some pressure, but Black is in no immediate danger.}  ) 35. gxh5 Kh7 36.
+b4 { Topalov probably missed this move. Now there are serious issues in the
+position.}  36... Bxb4 ( 36... Kh6 37. Nc5 Bxc5 38. bxc5 Rd2 39. Kf3 Rc2 40.
+Rxb5 { is of course unpleasant, but perhaps a better chance than what Topalov
+played in the game.}  ) 37. Ne5 Rd5 38. Nxf7 { Black's shattered pawn structure
+on the kingside now gives Giri many targets.}  38... Rxh5 39. f4 Kg6 40. Ne5+
+Kh7 41. Nf7 Kg6 42. Ne5+ Kh7 43. Nf3 $1 Rf5 ( 43... Kg6 { was still bad for
+Black.} ) 44. Ng5+ $1 Kh6 ( 44... Kg6 45. Nxe6 Rf6 ( 45... Kf6 46. Nxg7 Rxf4
+47. Nh5+ ) 46. e4 $18 { taking advantage of the king on g6.}  ) 45. Kf3 { Now
+Black is out of moves. The pawn on e6 will be taken next and his position is
+collapsing. On top of everything, the position of the king on h6 is dubious.} 
+45... Bd2 ( 45... e5 46. Nf7+ Kh7 47. Nxe5 $18 ) 46. e3 b4 47. Nxe6 Rh5 48.
+Nxg7 Rxh2 49. Nf5+ Kg6 50. Ne7+ Kf6 51. Nd5+ Ke6 52. Ke4 { White is completely
+winning.}  52... Rh3 53. Rb6+ Kd7 54. Kd3 Bc1 55. Rxb4 Kd6 56. Kd4  1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.24"]
+[Round "8"]
+[White "Nakamura, Hi"]
+[Black "Vachier Lagrave, M."]
+[Result "1/2-1/2"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2723"]
+[ECO "B92"]
+[EventDate "2015.06.17"]
+[PlyCount "93"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2802"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Qd3
+b5 9. a4 b4 10. Nd5 Bb7 11. Nxf6+ Bxf6 12. Bd2 a5 13. c3 bxc3 14. Bxc3 O-O 15.
+O-O Nc6 16. Rfd1 Re8 $2 { This move was simply bad. It is the source of all of
+Black's problems.}  ( 16... Qb6 17. Qb5 Qc7 $11 { Chances are about even in
+this complicated position.}  ) 17. Bf3 Be7 18. Qb5 { Now the rook on e8 is a
+tactical target. For example:}  18... Qc8 ( 18... Qc7 19. Nxa5 $1 Nxa5 20. Bxa5
+Qxa5 ( 20... Rxa5 $2 21. Qxe8+ $18 ) 21. Qxb7 $16 ) 19. Bg4 $1 Qxg4 20. Qxb7
+Rec8 21. Nxa5 Nxa5 22. Qxe7 Nb3 23. f3 Qf4 { White has managed to win a pawn,
+and he is close to winning with his passed pawns on the queenside. However, he
+still hast to be careful.}  24. Ra3 $2 ( 24. Rab1 $1 Nd4 25. Bd2 Ne2+ 26. Kh1 {
+and White is simply winning. We can compare this to the same variation but with
+24.Ra3?}  ) 24... Nd4 25. Raa1 { "I spent all my time calculating 25.Bd2, but I
+could not see anything clear. Raa1 was also Stupid" - Nakamura.}  ( 25. Bd2
+Ne2+ 26. Kh1 ( 26. Kf2 Qxh2 27. Kxe2 Qxg2+ 28. Ke3 d5 $1 29. exd5 e4 $1 { And
+the computers with sufficient depth seem to think that this game is only a
+draw. The complications are very wild, but White is not winning.}  ) 26... Qxd2
+{ even loses for White due to the back rank checkmate.}  ) 25... Ne2+ ( 25...
+Nb3 26. Rab1 { is not what MVL wanted.}  ) 26. Kh1 Nxc3 27. bxc3 h5 { Black has
+some definite counterplay now. Winning the position is not easy.}  28. Qxd6
+Rxc3 29. Qd5 Ra6 30. Qb5 Rac6 { Black is planning on attacking White's king.
+White might be able to win with precise play, but Nakamura's time was running
+too low for him to do anything.}  31. Qf1 ( 31. a5 Rc2 32. Rg1 { would still
+leave MVL struggling against the a-pawn, though with plenty of fight ahead.}  (
+32. a6 Rxg2 $1 $19 ) ) 31... h4 32. h3 Rc2 33. Re1 Qd2 { Now it is impossible
+to make progress. The winning threat is Rg6.}  34. Red1 Qg5 35. Re1 Qd2 36.
+Rad1 Qb4 37. Qd3 Kh7 38. Qd8 Rf6 39. Rc1 Qxa4 { By this point it is obvious the
+game is a dead draw.}  40. Rxc2 Qxc2 41. Qd1 Qf2 42. Rf1 Qg3 43. Qd7 Rg6 44.
+Rg1 Rf6 45. Rf1 Rg6 46. Rg1 Rf6 47. Rf1  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.24"]
+[Round "8"]
+[White "Anand, V."]
+[Black "Hammer, J."]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2677"]
+[ECO "A22"]
+[EventDate "2015.06.17"]
+[PlyCount "71"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2804"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. d3 Be7 7. Be3 O-O 8. Rc1
+f5 9. Nf3 Nc6 10. O-O Be6 11. b4 a6 12. a3 Kh8 13. Na4 Nxa4 14. Qxa4 Bd5 15.
+Bc5 Bd6 16. Qc2 Qf6 17. e4 Be6 18. exf5 Bxf5 19. Be3 a5 20. b5 Ne7 21. Bg5 Qf7
+22. Qc3 h6 23. Bxe7 Qxe7 24. Nh4 Bxa3 25. Bxb7 Bxc1 $2 ( 25... Rab8 26. Nxf5
+Rxf5 27. Be4 Rf6 $14 ) 26. Nxf5 Rxf5 27. Bxa8 Ba3 28. Qxa5 Bc5 29. Be4 {
+White's advantage is very strong. He has an extra pawn and can hope to improve
+his position slowly. Hammer makes it easy for Anand.}  29... Rf8 30. Kg2 Qd6
+31. h4 h5 $6 32. Qd2 Qf6 33. Qe2 g6 $2 ( 33... Qf7 $16) 34. Bxg6 { A simple
+tactic.}  34... Qxg6 35. Qxe5+ Kg8 36. Qxc5 { White's up too many pawns.}   1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.25"]
+[Round "9"]
+[White "Vachier Lagrave, M."]
+[Black "Grischuk, A."]
+[Result "1/2-1/2"]
+[BlackElo "2781"]
+[ECO "D38"]
+[EventDate "2015.06.17"]
+[PlyCount "75"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2723"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 Nbd7 8. e3
+g5 9. Bg3 Ne4 10. Qc2 h5 11. h3 Qf6 12. Bd3 Bxc3+ 13. bxc3 Nxg3 14. fxg3 g4 15.
+hxg4 hxg4 16. Nh4 Nb6 17. Qf2 Qxf2+ 18. Kxf2 Be6 19. Nf5 Kd7 20. Rh4 Rhg8 21.
+Ke2 Nc8 22. Rf1 Nd6 23. Nxd6 Kxd6 24. Bf5 Rg5 25. Bxe6 Kxe6 26. Rh7 Rf8 27. a4
+b6 28. Kd3 c5 29. Rh6+ f6 30. Rh7 Rf5 31. Rf4 c4+ 32. Ke2 Rxf4 33. gxf4 Kf5 34.
+Rd7 Ke4 35. Re7+ Kf5 36. Rd7 Ke4 37. Re7+ Kf5 38. Rd7  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.25"]
+[Round "9"]
+[White "Topalov, V."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[BlackElo "2804"]
+[ECO "D38"]
+[EventDate "2015.06.17"]
+[PlyCount "35"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2798"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Rc1
+dxc4 9. Bxc4 c5 10. O-O cxd4 11. Nxd4 Bd7 12. Qb3 Nc6 13. Nxc6 Bxc3 14. Rxc3
+Bxc6 15. Bb5 Bd5 ( 15... Bxb5 16. Qxb5 b6 17. Rfc1 Rad8 18. Qe2 Rd7 ) 16. Bc4
+Bc6 17. Bb5 Bd5 18. Bc4  1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.25"]
+[Round "9"]
+[White "Hammer, J."]
+[Black "Carlsen, M."]
+[Result "1-0"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2876"]
+[ECO "D30"]
+[EventDate "2015.06.17"]
+[PlyCount "67"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2677"]
+
+1. d4 d5 2. c4 e6 3. Nf3 a6 { Nothing more than a surprise weapon, clearly,
+though it is hard to prepare against someone that usually prepares your
+openings!}  4. Bg5 f6 5. Bd2 dxc4 { hard to believe that playing like this can
+be good for black.}  6. e3 Nc6 $6 ( 6... b5 7. b3 cxb3 8. Qxb3 $44 ) 7. Bxc4
+Bd6 8. e4 Nge7 9. O-O O-O 10. Qb3 { White is clearly better in this position.
+He has the central control that we teach beginners you must fight for! Black
+has no compensation for that.}  10... Kh8 { tactically sound, but not good.} 
+11. Bxe6 Bxh2+ 12. Kxh2 ( 12. Nxh2 Nxd4 $17 ) 12... Qd6+ 13. Kh1 Bxe6 14. d5
+Bg8 15. Qa3 Qxa3 16. Nxa3 { White is simply better in this position, with some
+pressure on the c-file and more space.}  16... Na7 17. Bb4 Rfe8 18. Rac1 Rac8
+19. Nd4 f5 20. f3 fxe4 21. fxe4 Ng6 22. Nf5 $6 ( 22. Rfe1 $14) 22... Rxe4 23.
+Bc3 Bxd5 $2 { It's not clear what Carlsen missed. The World Champion usually
+would be precise enough to find:}  ( 23... h6 24. Bxg7+ Kh7 25. Bxh6 Bxd5 {
+with counterplay.}  ) 24. Bxg7+ Kg8 25. Bd4 { of course. Now the knight on a7
+is under attack there is a mate threat on h6.}  25... Rxd4 26. Nxd4 Bxa2 27. b3
+Rd8 $2 ( 27... c5 28. Rf2 cxd4 29. Rxc8+ Nxc8 30. Rxa2 { with a better endgame
+for White, but Black still has chances to draw.}  ) 28. Ne6 Rd2 ( 28... Rd6 $1
+$16) 29. Rc3 $1 Re2 $2 30. Nf4 ( 30. Rf6 $1 { would finish the game off. The
+threat of Rcf3 and mate on f8 is not easy to parry, it would end up costing
+Black another exchange.} ) 30... Rb2 31. Nxg6 ( 31. Rxc7 { was way more
+precise.} ) 31... hxg6 32. Rxc7 Rxb3 $4 ( 32... Nc6 33. Rd1 Bxb3 $1 34. Rdd7
+Rf2 { is better for White, but far from over.}  ) 33. Rd1 Nc6 34. Rdd7 { Black
+is simply getting mated after Rc8.}   1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.25"]
+[Round "9"]
+[White "Aronian, L."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2802"]
+[ECO "A25"]
+[EventDate "2015.06.17"]
+[PlyCount "80"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2780"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 d6 5. e3 a6 6. Nge2 Ba7 7. a3 h5 $5 { Clear
+intentions that Nakamura came in a fighting spirit!}  8. d4 h4 9. b4 { Aronian
+is not one to shy away from a fight. Black starts attacking on the
+light-squares on the kingside, but Aronian sets up an aggressive pawn structure
+on the other side of the board.}  9... Nge7 10. c5 Bf5 11. Bb2 Qd7 12. Qb3 (
+12. d5 Nd8 13. cxd6 cxd6 14. h3 { is complex, but perhaps the best way to go.} 
+) 12... h3 13. Bf3 exd4 14. Nxd4 Bg4 { Black keeps weakening White's
+lightsquares.}  15. Bxg4 Qxg4 16. Nxc6 Nxc6 17. Qd1 ( 17. cxd6 O-O-O $5 ) 17...
+Qg6 18. cxd6 O-O-O $1 19. Rc1 $2 { This move has no point. Aronian had to be
+much more careful of his position.}  ( 19. Qb1 Qh5 20. Qd1 { and perhaps all
+Black has here is to repeat moves.}  ) 19... Rxd6 20. Qc2 Qh5 21. Qe2 Ne5 $1 {
+Now this move is too strong.}  22. Qxh5 Nd3+ 23. Ke2 ( 23. Kf1 Rxh5 24. Rc2
+Bxe3 $1 { leads to a decisive attack.}  25. fxe3 Rf5+ 26. Kg1 Rdf6 ) 23...
+Nxc1+ 24. Rxc1 Rxh5 { Naka is just up an exchange here. The rest is easy for
+him.}  25. g4 Re5 26. Rg1 Re8 27. Rg3 Bd4 28. Na4 Bxb2 29. Nxb2 Red8 30. Nc4
+Rc6 31. Ne5 Rc2+ 32. Ke1 f6 33. Nf3 Rh8 34. g5 Ra2 35. Nd4 Rxa3 36. Ne6 Ra1+
+37. Ke2 Rh1 38. gxf6 gxf6 39. Nf4 b6 40. Nxh3 Rb1  0-1
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.25"]
+[Round "9"]
+[White "Caruana, F."]
+[Black "Giri, A."]
+[Result "1/2-1/2"]
+[Annotator "Ramirez Alvarez,Alejandro"]
+[BlackElo "2773"]
+[ECO "C83"]
+[EventDate "2015.06.17"]
+[PlyCount "86"]
+[SourceDate "2015.02.07"]
+[WhiteElo "2805"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 d4 12. Nb3 d3 13. Bb1 Nxb3 14. axb3 Bf5 15.
+Re1 O-O 16. b4 Qd7 17. h3 Rfd8 18. g4 Bg6 19. Bf4 a5 20. bxa5 Rxa5 21. Ba2 Rf8
+22. b4 Ra4 23. Qd2 Nd8 24. Bg5 c5 25. Bxe7 Qxe7 26. bxc5 Qxc5 27. Nh4 Ne6 28.
+Bb3 Rxa1 29. Rxa1 { Caruana used up too much time to get to this position. With
+only minutes left on the clock  (  around seven or eight after Rxa1  )  it was
+Giri's duty to find the precise moves to put pressure on Caruana. Instead the
+Italian player escaped easily.}  29... Qxe5 $2 { Simply letting Caruana off the
+hook.}  ( 29... Be4 $1 30. Re1 Ba8 31. Qxd3 Qc6 32. f3 Nc5 $1 33. Qd1 Nxb3 34.
+Qxb3 Qh6 { was a winning line. Giri had over an hour to figure this out.}  (
+34... g5 $1) ) 30. Nxg6 hxg6 31. Bxe6 fxe6 32. Qxd3 b4 33. Rc1 Qf4 34. Rf1 (
+34. Qe3 Qxe3 35. fxe3 Rc8 36. c4 $11 ) 34... b3 35. Qxg6 Qc4 36. Re1 Rf6 37.
+Qe8+ Kh7 38. Qh5+ ( 38. Re5 $11) 38... Rh6 39. Qe5 Rxh3 40. Qxe6 { The endgame
+is a draw, and with this move Caruana completed the time control.}  40... Qxe6
+41. Rxe6 Rxc3 42. Rb6 Rc4 43. Rxb3 Rxg4+  1/2-1/2
+
