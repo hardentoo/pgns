@@ -77,3 +77,76 @@ Rxc5 h2 43. Bf4+  1-0
 15. gxf3 Nd7 16. O-O-O Re8 17. Bh3 Nxh3 18. Rxh3 Nf8 19. Rdh1 Ng6 20. Nd1 Rc8
 21. Ne3 Rc7 22. Nf5 Rf8 23. Qd1 f6 24. f4 exf4 25. Qh5 Ne5 26. Qh7+  1-0
 
+[Event "?"]
+[Site "http://www.chessgames.com/perl/chessgame?gid=1032622"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Donner, Jan Hein"]
+[Result "1-0"]
+[ECO "A14"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. b3 b6 7. Bb2 Bb7 8. cxd5
+Nxd5 9. d4 c5 10. dxc5 Bxc5 11. Nbd2 Nd7 12. a3 N5f6 13. b4 Be7 $201 14. Nd4
+Bxg2 15. Kxg2 Qc7 16. Qb3 Rfc8 17. Rfc1 Qb7+ 18. Qf3 Nd5 19. e4 N5f6 20. b5 a6
+21. Nc6 Bf8 22. a4 axb5 23. axb5 Rxa1 24. Rxa1 Ra8 25. Rd1 Ne8 26. Nc4 Nc5 27.
+e5 Rc8 28. Ra1 Rc7 29. Ra7 Qxa7 30. Nxa7 Rxa7 31. Nxb6  1-0
+
+[Event "?"]
+[Site "http://www.chessgames.com/perl/chessgame?gid=1044117"]
+[Date "1960.03.31"]
+[Round "?"]
+[White "Fischer, Robert James"]
+[Black "Gadia, Olício"]
+[Result "1-0"]
+[ECO "B87"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. f4 Nc6 10. Nxc6 Bxc6 $201 11. f5 e5 12. Qd3 Be7 13. Bg5 Qb6+ 14. Kh1 O-O
+15. Bxf6 Bxf6 16. Bd5 Rac8 17. Bxc6 Rxc6 18. Rad1 Rfc8 19. Nd5 Qd8 20. c3 Be7
+21. Ra1 f6 22. a4 Rb8 23. Nxe7+  1-0
+
+[Event "?"]
+[Site "http://www.chessgames.com/perl/chessgame?gid=1008416"]
+[Date "1962.10.04"]
+[Round "?"]
+[White "Unzicker, Wolfgang"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B92"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. O-O
+Nbd7 9. f4 Qc7 10. f5 Bc4 11. a4 Be7 12. Be3 O-O 13. a5 b5 14. axb6 Nxb6 15.
+Bxb6 Qxb6+ 16. Kh1 Bb5 17. Bxb5 axb5 18. Nd5 Nxd5 19. Qxd5 $201 Ra4 20. c3 Qa6
+( 20... Rfa8 21. Qxa8+ Rxa8 22. Rxa8+ Bf8 $16 ) 21. h3 Rc8 22. Rfe1 h6 23. Kh2
+Bg5 24. g3 Qa7 25. Kg2 Ra2 26. Kf1 Rxc3  0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hecht"]
+[Black "Florintos"]
+[Result "1-0"]
+[FEN "r4rk1/p2qbbpp/2pp2n1/4pN2/4P3/1P3N1P/P4PP1/R1BQR1K1 w - - 0 1"]
+[Setup "1"]
+
+1. Bg5 Rfd8 2. Rc1 Rac8 3. Rc3 Bxg5 4. Nxg5 Nf4 5. g3 Bh5 6. Qd2 Ne6 7. Nxe6
+Qxe6 8. Qg5 { [%cal         Gg5h5,Gg5g7,Gf5e7]}   1-0
+
+[Event "?"]
+[Site "http://www.chessgames.com/perl/chessgame?gid=1044351"]
+[Date "1971.10.19"]
+[Round "?"]
+[White "Petrosian, Tigran Vartanovich"]
+[Black "Fischer, Robert James"]
+[Result "1-0"]
+[ECO "B42"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5 8. c4
+$201 Nf6 9. cxd5 cxd5 10. exd5 exd5 11. Nc3 Be7 12. Qa4+ Qd7 13. Re1 Qxa4 14.
+Nxa4 Be6 15. Be3 O-O 16. Bc5 Rfe8 17. Bxe7 Rxe7 18. b4 Kf8 19. Nc5 Bc8 20. f3
+Rea7 21. Re5 Bd7 22. Nxd7+ Rxd7 23. Rc1 Rd6 24. Rc7 Nd7 25. Re2 g6 26. Kf2 h5
+27. f4 h4 28. Kf3 f5 29. Ke3 d4+ 30. Kd2 Nb6 31. Ree7 Nd5 32. Rf7+ Ke8 33. Rb7
+Nxf4 34. Bc4  1-0
+
