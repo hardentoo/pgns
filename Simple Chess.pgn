@@ -1,0 +1,79 @@
+[Event "?"]
+[Site "http://www.chessgames.com/perl/chessgame?gid=1032729"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Szilagyi, György"]
+[Result "1-0"]
+[FEN "r4rk1/pp1nqppp/2p2n2/2b1p3/4P3/2P2BPP/PP1N1P2/R1BQ1RK1 w - - 0 1"]
+[Setup "1"]
+
+1. b4 Bb6 2. a4 Rfd8 3. Qc2 Rac8 4. Be2 c5 5. b5 Ne8 6. Nc4 Nd6 7. Bg5 f6 ( 7...
+Qxg5 8. Nxd6 Rb8 9. Bc4 ) ( 7... Nf6 8. Ne3 { [%cal Ge3d5]}  ) 8. Be3 Nxc4 9.
+Bxc4+ Kh8 10. a5 Bc7 11. Rfd1 Nf8 12. Qa2 Rxd1+ 13. Rxd1 Rd8 14. Rxd8 Bxd8 15.
+a6 b6 16. Kg2 Qd7 17. Qe2 Ng6 18. Bb3 Ne7 19. Qc4 h6 20. Qf7 Kh7 21. Bc4 Qd6
+22. h4 Qd1 23. Qe8 { [%cal Gc4f7,Gh4h5,Gf7g6]}  23... f5 24. exf5 Nxf5 25. Bg8+
+Kh8 26. Bf7+  1-0
+
+[Event "?"]
+[Site "http://www.chessgames.com/perl/chessgame?gid=1107006"]
+[Date "1974.02.05"]
+[Round "9"]
+[White "Petrosian, Tigran"]
+[Black "Portisch, Lajos"]
+[Result "1-0"]
+[ECO "A15"]
+[EventDate "1974.01.18"]
+
+1. Nf3 Nf6 2. c4 g6 3. b3 Bg7 4. Bb2 c5 5. g3 d6 6. Bg2 e5 7. O-O Nc6 8. Nc3 O-O
+9. d3 Nh5 10. Nd2 Bg4 11. a3 Bh6 $201 12. b4 Nd4 13. h3 Be6 14. e3 cxb4 15.
+axb4 Nc6 16. b5 Ne7 17. Bxb7 Bxh3 18. Bxa8 Bxf1 19. Kxf1 Qxa8 20. Qf3 Qb8 21.
+g4 Ng7 22. Qf6 Ngf5 23. gxf5 Nxf5 24. e4 Ng7 25. Ke1 Nh5 26. Qh4 f5 27. Nd5 
+1-0
+
+[Event "?"]
+[Site "http://www.chessgames.com/perl/chessgame?gid=1015685"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Adorjan, Andras"]
+[Black "Mukhin, Mikhail A."]
+[Result "1-0"]
+[ECO "C69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1 8.
+Rxd1 fxe5 9. Rd3 Bd6 10. Nbd2 Nf6 11. Nc4 Bxf3 12. gxf3 O-O-O $201 13. Bg5 b5
+14. Na5 c5 15. c4 Rdf8 16. cxb5 axb5 17. a4 bxa4 18. Nc4 Ne8 19. Rxa4 Kb7 20.
+f4 h6 21. fxe5 hxg5 22. exd6 cxd6 23. Rb3+ Kc8 24. Ra7 d5 25. exd5  1-0
+
+[Event "?"]
+[Site "http://www.chessgames.com/perl/chessgame?gid=1034077"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Tal, Mihkail"]
+[Black "Bronstein, David"]
+[Result "1-0"]
+[ECO "C96"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nc6 12. Nbd2 Qb6 13. dxc5 dxc5 $201 14. Nf1 Be6
+15. Ne3 Rad8 16. Qe2 g6 17. Ng5 c4 18. a4 Kg7 19. axb5 axb5 20. Rb1 Na5 21. Nf3
+Qc7 22. Nd5 Bxd5 23. exd5 Rfe8 24. Qxe5 Qxe5 25. Nxe5 Nxd5 26. Ra1 Nb3 27. Bxb3
+cxb3 28. Bh6+ Kg8 ( 28... Kxh6 29. Nxf7+ Kg7 30. Nxd8 Rxd8 31. Ra5 ) 29. Nc6
+Rc8 30. Rad1 Rxc6 31. Rxd5 f6 32. Rxb5 g5 33. Rxb3 Kf7 34. Rb7 Re6 35. Rxe6
+Kxe6 36. h4 Rg8 37. f4 Bc5+ 38. Kf1 gxh4 39. Rb5 Rc8 40. f5+ Kd6 41. b4 h3 42.
+Rxc5 h2 43. Bf4+  1-0
+
+[Event "?"]
+[Site "http://www.chessgames.com/perl/chessgame?gid=1101593"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Benko, Pal"]
+[Black "Najdorf, Miguel"]
+[Result "1-0"]
+[ECO "E92"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. Nf3 e5 8. Bg5 h6
+9. Bh4 g5 10. Bg3 Nh5 11. h4 Nf4 12. hxg5 hxg5 13. Bf1 Bg4 14. Qc2 $201 Bxf3
+15. gxf3 Nd7 16. O-O-O Re8 17. Bh3 Nxh3 18. Rxh3 Nf8 19. Rdh1 Ng6 20. Nd1 Rc8
+21. Ne3 Rc7 22. Nf5 Rf8 23. Qd1 f6 24. f4 exf4 25. Qh5 Ne5 26. Qh7+  1-0
+
