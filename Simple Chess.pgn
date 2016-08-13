@@ -132,7 +132,7 @@ Bg5 24. g3 Qa7 25. Kg2 Ra2 26. Kf1 Rxc3  0-1
 [Setup "1"]
 
 1. Bg5 Rfd8 2. Rc1 Rac8 3. Rc3 Bxg5 4. Nxg5 Nf4 5. g3 Bh5 6. Qd2 Ne6 7. Nxe6
-Qxe6 8. Qg5 { [%cal         Gg5h5,Gg5g7,Gf5e7]}   1-0
+Qxe6 8. Qg5 { [%cal Gg5h5,Gg5g7,Gf5e7]}   1-0
 
 [Event "?"]
 [Site "http://www.chessgames.com/perl/chessgame?gid=1044351"]
@@ -149,4 +149,19 @@ Nxa4 Be6 15. Be3 O-O 16. Bc5 Rfe8 17. Bxe7 Rxe7 18. b4 Kf8 19. Nc5 Bc8 20. f3
 Rea7 21. Re5 Bd7 22. Nxd7+ Rxd7 23. Rc1 Rd6 24. Rc7 Nd7 25. Re2 g6 26. Kf2 h5
 27. f4 h4 28. Kf3 f5 29. Ke3 d4+ 30. Kd2 Nb6 31. Ree7 Nd5 32. Rf7+ Ke8 33. Rb7
 Nxf4 34. Bc4  1-0
+
+[Event "?"]
+[Site "http://www.chessgames.com/perl/chessgame?gid=1044723"]
+[Date "1972.07.20"]
+[Round "?"]
+[White "Spassky, Boris"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E41"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 Nc6 6. Bd3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Nh4 h6 11. f4 Ng6 12. Nxg6 fxg6 13. fxe5 dxe5 14. Be3 b6 15.
+O-O O-O 16. a4 a5 $201 17. Rb1 Bd7 18. Rb2 Rb8 19. Rbf2 Qe7 20. Bc2 g5 21. Bd2
+Qe8 22. Be1 Qg6 23. Qd3 Nh5 24. Rxf8+ Rxf8 25. Rxf8+ Kxf8 26. Bd1 Nf4 27. Qc2
+Bxa4  0-1
 
